@@ -1,0 +1,502 @@
+Name,s_Id,department
+Adele,1,Economics
+Keli,2,Industrial Engineering & Management
+Esther,3,Economics
+Kevin,4,Economics
+Uriel,5,Economics
+Alex,6,Economics
+Idan,7,Industrial Engineering & Management
+Eliran,8,Computer Science
+John,9,Industrial Engineering & Management
+Brian,10,Industrial Engineering & Management
+Ela,11,Computer Science
+Dor,12,Computer Science
+Chen,13,Computer Science
+Robin,14,Industrial Engineering & Management
+Ohad,15,Computer Science
+Adam,16,Industrial Engineering & Management
+Amram,17,Industrial Engineering & Management
+Zohar,18,Industrial Engineering & Management
+Ido,19,Economics
+Natasha,20,Industrial Engineering & Management
+Linda,21,Computer Science
+Billy,22,Computer Science
+Adele,23,Computer Science
+Robin,24,Economics
+Robin,25,Computer Science
+Kevin,26,Industrial Engineering & Management
+Tali,27,Economics
+Michael,28,Economics
+Jerry,29,Industrial Engineering & Management
+John,30,Computer Science
+Tali,31,Computer Science
+Ariel,32,Computer Science
+Jerry,33,Computer Science
+Zohar,34,Industrial Engineering & Management
+Keli,35,Computer Science
+,36,Industrial Engineering & Management
+Ariel,37,Industrial Engineering & Management
+Dor,38,Computer Science
+Tamar,39,Industrial Engineering & Management
+Eliran,40,Industrial Engineering & Management
+Ido,41,Computer Science
+Jerry,42,Economics
+Adam,43,Computer Science
+Aviram,44,Industrial Engineering & Management
+Sapir,45,Industrial Engineering & Management
+Tamar,46,Economics
+Esther,47,Industrial Engineering & Management
+Kevin,48,Computer Science
+Adam,49,Computer Science
+Kevin,50,Industrial Engineering & Management
+Sarah,51,Economics
+Alex,52,Industrial Engineering & Management
+Uriel,53,Economics
+Adele,54,Industrial Engineering & Management
+Nitzan,55,Computer Science
+Linda,56,Economics
+Katia,57,Computer Science
+Esther,58,Industrial Engineering & Management
+Ela,59,Economics
+Ohad,60,Computer Science
+Michael,61,Economics
+Dor,62,Industrial Engineering & Management
+Danny,63,Industrial Engineering & Management
+Esther,64,Economics
+Nati,65,Economics
+Kevin,66,Computer Science
+Keli,67,Computer Science
+Ram,68,Computer Science
+Orly,69,Computer Science
+Keli,70,Economics
+Jerry,71,Computer Science
+,72,Economics
+Eliran,73,Economics
+Mor,74,Computer Science
+Adam,75,Economics
+Sarah,76,Economics
+Robin,77,Computer Science
+Dor,78,Industrial Engineering & Management
+Jerry,79,Economics
+Ram,80,Industrial Engineering & Management
+Jerry,81,Economics
+Adam,82,Industrial Engineering & Management
+Esther,83,Industrial Engineering & Management
+Adele,84,Economics
+Michael,85,Industrial Engineering & Management
+Idan,86,Computer Science
+Billy,87,Industrial Engineering & Management
+Billy,88,Economics
+Kevin,89,Industrial Engineering & Management
+Tamar,90,Computer Science
+Zohar,91,Economics
+Amram,92,Economics
+Tair,93,Computer Science
+Brian,94,Computer Science
+Brian,95,Economics
+Sarah,96,Computer Science
+Tair,97,Industrial Engineering & Management
+Natasha,98,Computer Science
+,99,Industrial Engineering & Management
+John,100,Computer Science
+Uriel,101,Computer Science
+Nitzan,102,Computer Science
+Ohad,103,Economics
+John,104,Industrial Engineering & Management
+Jerry,105,Computer Science
+Uriel,106,Industrial Engineering & Management
+Tamar,107,Economics
+Tamar,108,Industrial Engineering & Management
+Ela,109,Industrial Engineering & Management
+Nati,110,Industrial Engineering & Management
+Chen,111,Industrial Engineering & Management
+Esther,112,Computer Science
+Adam,113,Computer Science
+Orly,114,Industrial Engineering & Management
+Ohad,115,Computer Science
+Alex,116,Industrial Engineering & Management
+John,117,Computer Science
+Alex,118,Economics
+John,119,Industrial Engineering & Management
+Eliran,120,Economics
+Zohar,121,Economics
+Katia,122,Economics
+Avishay,123,Industrial Engineering & Management
+Idan,124,Computer Science
+Orly,125,Industrial Engineering & Management
+Brian,126,Computer Science
+Ela,127,Industrial Engineering & Management
+Kevin,128,Computer Science
+Kevin,129,Computer Science
+Sarah,130,Industrial Engineering & Management
+Tamar,131,Computer Science
+Ariel,132,Computer Science
+Brian,133,Computer Science
+Idan,134,Economics
+Avishay,135,Computer Science
+Esther,136,Industrial Engineering & Management
+Adam,137,Economics
+Adele,138,Computer Science
+Tali,139,Computer Science
+Billy,140,Industrial Engineering & Management
+Adele,141,Computer Science
+Ram,142,Economics
+Sapir,143,Industrial Engineering & Management
+Ariel,144,Computer Science
+Katia,145,Computer Science
+Mor,146,Computer Science
+Chen,147,Industrial Engineering & Management
+,148,Industrial Engineering & Management
+Or,149,Computer Science
+Ohad,150,Economics
+Alex,151,Computer Science
+Zohar,152,Industrial Engineering & Management
+Idan,153,Economics
+Robin,154,Economics
+Tair,155,Computer Science
+Nati,156,Economics
+Katia,157,Economics
+Sarah,158,Computer Science
+Idan,159,Economics
+Ido,160,Economics
+Esther,161,Industrial Engineering & Management
+Ariel,162,Economics
+Sarah,163,Economics
+Tali,164,Economics
+Nati,165,Economics
+Adele,166,Economics
+Dor,167,Industrial Engineering & Management
+Keli,168,Industrial Engineering & Management
+Eliran,169,Computer Science
+Billy,170,Economics
+Michael,171,Economics
+Sarah,172,Computer Science
+Nitzan,173,Economics
+Zohar,174,Industrial Engineering & Management
+Uriel,175,Economics
+Esther,176,Industrial Engineering & Management
+Or,177,Industrial Engineering & Management
+Danny,178,Computer Science
+Sapir,179,Economics
+Nitzan,180,Industrial Engineering & Management
+John,181,Industrial Engineering & Management
+Chen,182,Computer Science
+Nati,183,Computer Science
+Ela,184,Economics
+Chen,185,Computer Science
+Linda,186,Computer Science
+Jerry,187,Economics
+Orly,188,Computer Science
+Danny,189,Computer Science
+Mor,190,Economics
+Billy,191,Industrial Engineering & Management
+,192,Computer Science
+Orly,193,Computer Science
+Ido,194,Computer Science
+John,195,Industrial Engineering & Management
+Sapir,196,Economics
+Esther,197,Computer Science
+Ram,198,Economics
+Danny,199,Economics
+Robin,200,Computer Science
+Or,201,Computer Science
+Ariel,202,Industrial Engineering & Management
+Robin,203,Industrial Engineering & Management
+Ram,204,Economics
+Chen,205,Computer Science
+Katia,206,Computer Science
+Ram,207,Industrial Engineering & Management
+Idan,208,Industrial Engineering & Management
+Dor,209,Economics
+Michael,210,Economics
+Nitzan,211,Industrial Engineering & Management
+Ariel,212,Industrial Engineering & Management
+Robin,213,Industrial Engineering & Management
+Keli,214,Economics
+Adele,215,Economics
+Ido,216,Economics
+Ido,217,Industrial Engineering & Management
+Robin,218,Computer Science
+Ohad,219,Economics
+Or,220,Industrial Engineering & Management
+Idan,221,Computer Science
+Uriel,222,Computer Science
+Uriel,223,Economics
+Linda,224,Computer Science
+Idan,225,Computer Science
+Aviram,226,Computer Science
+Michael,227,Economics
+Tamar,228,Industrial Engineering & Management
+Adele,229,Computer Science
+Ariel,230,Industrial Engineering & Management
+Tamar,231,Economics
+Sapir,232,Industrial Engineering & Management
+Ariel,233,Industrial Engineering & Management
+Nati,234,Industrial Engineering & Management
+Keli,235,Economics
+Adele,236,Economics
+Adele,237,Computer Science
+Sarah,238,Industrial Engineering & Management
+Keli,239,Industrial Engineering & Management
+Natasha,240,Economics
+Michael,241,Economics
+Nitzan,242,Economics
+Ram,243,Economics
+Zohar,244,Computer Science
+Ariel,245,Economics
+Nati,246,Economics
+Michael,247,Industrial Engineering & Management
+Ram,248,Economics
+Mor,249,Industrial Engineering & Management
+Amram,250,Economics
+Uriel,251,Industrial Engineering & Management
+Ela,252,Computer Science
+Esther,253,Computer Science
+Katia,254,Computer Science
+Tali,255,Computer Science
+Alex,256,Industrial Engineering & Management
+Sapir,257,Industrial Engineering & Management
+Dor,258,Industrial Engineering & Management
+Billy,259,Computer Science
+Mor,260,Computer Science
+Ela,261,Economics
+Ela,262,Industrial Engineering & Management
+Sarah,263,Economics
+Ram,264,Economics
+Ariel,265,Computer Science
+Danny,266,Industrial Engineering & Management
+Uriel,267,Industrial Engineering & Management
+Tali,268,Industrial Engineering & Management
+Aviram,269,Industrial Engineering & Management
+Katia,270,Economics
+Adam,271,Industrial Engineering & Management
+Orly,272,Economics
+Natasha,273,Industrial Engineering & Management
+Kevin,274,Industrial Engineering & Management
+Alex,275,Industrial Engineering & Management
+Or,276,Computer Science
+Eliran,277,Computer Science
+Amram,278,Economics
+Avishay,279,Economics
+Tali,280,Industrial Engineering & Management
+Tamar,281,Economics
+Tair,282,Industrial Engineering & Management
+Natasha,283,Computer Science
+Tamar,284,Industrial Engineering & Management
+Adele,285,Industrial Engineering & Management
+Ohad,286,Economics
+Tair,287,Industrial Engineering & Management
+Eliran,288,Industrial Engineering & Management
+Katia,289,Economics
+Orly,290,Economics
+Michael,291,Economics
+Billy,292,Computer Science
+Linda,293,Industrial Engineering & Management
+Idan,294,Computer Science
+Uriel,295,Computer Science
+Dor,296,Industrial Engineering & Management
+Ela,297,Industrial Engineering & Management
+Nati,298,Industrial Engineering & Management
+Amram,299,Computer Science
+Robin,300,Computer Science
+Tair,301,Industrial Engineering & Management
+Tamar,302,Economics
+Robin,303,Economics
+Ela,304,Computer Science
+Amram,305,Economics
+Dor,306,Industrial Engineering & Management
+Ohad,307,Economics
+Tamar,308,Industrial Engineering & Management
+Uriel,309,Computer Science
+Adam,310,Industrial Engineering & Management
+Ohad,311,Computer Science
+Ariel,312,Industrial Engineering & Management
+Ohad,313,Industrial Engineering & Management
+Mor,314,Industrial Engineering & Management
+Avishay,315,Economics
+Jerry,316,Economics
+Ido,317,Computer Science
+Orly,318,Economics
+Sapir,319,Industrial Engineering & Management
+Ido,320,Industrial Engineering & Management
+Nati,321,Computer Science
+Eliran,322,Industrial Engineering & Management
+Nati,323,Industrial Engineering & Management
+Adam,324,Economics
+Sarah,325,Computer Science
+Nati,326,Industrial Engineering & Management
+Alex,327,Computer Science
+Adam,328,Industrial Engineering & Management
+Eliran,329,Computer Science
+Katia,330,Industrial Engineering & Management
+Aviram,331,Industrial Engineering & Management
+Chen,332,Industrial Engineering & Management
+Tamar,333,Computer Science
+Avishay,334,Industrial Engineering & Management
+Sapir,335,Industrial Engineering & Management
+Danny,336,Industrial Engineering & Management
+Nitzan,337,Industrial Engineering & Management
+Tali,338,Economics
+Ido,339,Computer Science
+Sapir,340,Computer Science
+Tali,341,Economics
+Billy,342,Economics
+Eliran,343,Computer Science
+Nati,344,Computer Science
+Adele,345,Industrial Engineering & Management
+Sapir,346,Computer Science
+Mor,347,Computer Science
+Jerry,348,Economics
+Sapir,349,Economics
+Ela,350,Economics
+Ohad,351,Economics
+Uriel,352,Economics
+Orly,353,Industrial Engineering & Management
+Katia,354,Economics
+Ela,355,Computer Science
+John,356,Industrial Engineering & Management
+Orly,357,Economics
+Eliran,358,Industrial Engineering & Management
+Sapir,359,Industrial Engineering & Management
+Uriel,360,Economics
+Tali,361,Economics
+John,362,Economics
+Esther,363,Economics
+Keli,364,Computer Science
+Avishay,365,Industrial Engineering & Management
+Nitzan,366,Computer Science
+Sarah,367,Economics
+Dor,368,Economics
+Mor,369,Computer Science
+Kevin,370,Economics
+Nitzan,371,Economics
+Katia,372,Computer Science
+Katia,373,Economics
+Tamar,374,Industrial Engineering & Management
+Sapir,375,Computer Science
+Ohad,376,Computer Science
+Sapir,377,Industrial Engineering & Management
+Billy,378,Industrial Engineering & Management
+Linda,379,Computer Science
+Idan,380,Computer Science
+Billy,381,Economics
+Michael,382,Economics
+Kevin,383,Industrial Engineering & Management
+Robin,384,Industrial Engineering & Management
+Adele,385,Economics
+Natasha,386,Industrial Engineering & Management
+Ela,387,Computer Science
+Amram,388,Economics
+Natasha,389,Industrial Engineering & Management
+Natasha,390,Industrial Engineering & Management
+Ido,391,Economics
+Aviram,392,Computer Science
+Ram,393,Economics
+Ram,394,Computer Science
+Jerry,395,Economics
+Mor,396,Industrial Engineering & Management
+Ido,397,Economics
+Aviram,398,Economics
+Nati,399,Computer Science
+Robin,400,Computer Science
+Eliran,401,Economics
+Sapir,402,Computer Science
+Avishay,403,Computer Science
+Natasha,404,Industrial Engineering & Management
+Adam,405,Computer Science
+Jerry,406,Computer Science
+Orly,407,Computer Science
+Michael,408,Industrial Engineering & Management
+Nitzan,409,Computer Science
+Nati,410,Computer Science
+Ela,411,Industrial Engineering & Management
+Mor,412,Computer Science
+Tamar,413,Economics
+Ariel,414,Industrial Engineering & Management
+John,415,Economics
+Adele,416,Economics
+Michael,417,Economics
+Kevin,418,Computer Science
+Nati,419,Computer Science
+Ido,420,Economics
+Tamar,421,Industrial Engineering & Management
+Natasha,422,Computer Science
+Avishay,423,Industrial Engineering & Management
+Mor,424,Computer Science
+Billy,425,Industrial Engineering & Management
+Linda,426,Industrial Engineering & Management
+Jerry,427,Industrial Engineering & Management
+Ariel,428,Industrial Engineering & Management
+Robin,429,Computer Science
+Amram,430,Industrial Engineering & Management
+Ela,431,Computer Science
+Nati,432,Computer Science
+Nitzan,433,Computer Science
+Danny,434,Industrial Engineering & Management
+Orly,435,Computer Science
+Adele,436,Industrial Engineering & Management
+Or,437,Economics
+Uriel,438,Industrial Engineering & Management
+Linda,439,Economics
+Brian,440,Economics
+Tair,441,Economics
+Tali,442,Economics
+Zohar,443,Industrial Engineering & Management
+Aviram,444,Computer Science
+Keli,445,Computer Science
+John,446,Industrial Engineering & Management
+Jerry,447,Computer Science
+Or,448,Computer Science
+Nati,449,Industrial Engineering & Management
+Keli,450,Economics
+Ohad,451,Computer Science
+Natasha,452,Industrial Engineering & Management
+Tali,453,Computer Science
+Uriel,454,Economics
+Tair,455,Industrial Engineering & Management
+Orly,456,Computer Science
+Chen,457,Computer Science
+Adele,458,Economics
+Ela,459,Economics
+Robin,460,Computer Science
+Nitzan,461,Industrial Engineering & Management
+Sapir,462,Industrial Engineering & Management
+Or,463,Economics
+Billy,464,Economics
+Jerry,465,Computer Science
+Mor,466,Computer Science
+Jerry,467,Economics
+Sapir,468,Economics
+Billy,469,Industrial Engineering & Management
+Avishay,470,Industrial Engineering & Management
+Tamar,471,Computer Science
+Sarah,472,Economics
+Linda,473,Industrial Engineering & Management
+Alex,474,Industrial Engineering & Management
+Esther,475,Industrial Engineering & Management
+Sapir,476,Industrial Engineering & Management
+Tair,477,Industrial Engineering & Management
+Sapir,478,Economics
+Or,479,Computer Science
+Alex,480,Computer Science
+Eliran,481,Industrial Engineering & Management
+Nitzan,482,Economics
+Zohar,483,Computer Science
+Mor,484,Computer Science
+Adam,485,Industrial Engineering & Management
+Mor,486,Computer Science
+Amram,487,Industrial Engineering & Management
+Danny,488,Industrial Engineering & Management
+Or,489,Computer Science
+Robin,490,Computer Science
+Sapir,491,Economics
+Idan,492,Economics
+Tali,493,Industrial Engineering & Management
+Billy,494,Economics
+Or,495,Industrial Engineering & Management
+Ariel,496,Computer Science
+Keli,497,Industrial Engineering & Management
+Katia,498,Computer Science
+Ariel,499,Industrial Engineering & Management
+Katia,500,Computer Science
+Sarah,501,Industrial Engineering & Management

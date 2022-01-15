@@ -1,0 +1,493 @@
+Name,s_Id,Lectures,Labs,submit?,Average,Pass_test,department
+Adele,1,55.0,85.0,1.0,96.0,1,Economics
+Keli,2,100.0,70.0,1.0,79.0,0,Industrial Engineering & Management
+Esther,3,80.0,100.0,1.0,85.0,0,Economics
+Uriel,5,100.0,100.0,1.0,75.0,1,Economics
+Alex,6,100.0,75.0,1.0,84.0,0,Economics
+Idan,7,80.0,55.0,1.0,90.0,1,Industrial Engineering & Management
+Eliran,8,80.0,85.0,1.0,78.0,1,Computer Science
+John,9,50.0,90.0,1.0,65.0,1,Industrial Engineering & Management
+Brian,10,80.0,100.0,1.0,65.0,1,Industrial Engineering & Management
+Dor,12,100.0,70.0,1.0,93.0,0,Computer Science
+Chen,13,45.0,85.0,1.0,95.0,1,Computer Science
+Robin,14,85.0,100.0,1.0,88.0,0,Industrial Engineering & Management
+Ohad,15,100.0,80.0,1.0,84.0,0,Computer Science
+Adam,16,65.0,82.56172839506173,1.0,78.0,0,Industrial Engineering & Management
+Amram,17,80.0,70.0,1.0,76.0,1,Industrial Engineering & Management
+Zohar,18,85.0,100.0,0.0,92.0,1,Industrial Engineering & Management
+Ido,19,100.0,80.0,1.0,80.0,0,Economics
+Natasha,20,65.0,90.0,1.0,78.0,1,Industrial Engineering & Management
+Linda,21,45.0,95.0,1.0,88.0,1,Computer Science
+Billy,22,100.0,85.0,0.0,89.0,1,Computer Science
+Adele,23,45.0,100.0,1.0,55.0,1,Computer Science
+Robin,24,60.0,75.0,1.0,94.0,0,Economics
+Robin,25,50.0,55.0,1.0,80.0,1,Computer Science
+Kevin,26,85.0,90.0,1.0,100.0,0,Industrial Engineering & Management
+Michael,28,80.0,100.0,1.0,83.0,0,Economics
+Jerry,29,100.0,100.0,1.0,79.0,0,Industrial Engineering & Management
+John,30,90.0,82.56172839506173,1.0,98.0,1,Computer Science
+Tali,31,65.0,95.0,1.0,81.0,1,Computer Science
+Ariel,32,90.0,100.0,1.0,80.0,0,Computer Science
+Jerry,33,60.0,70.0,1.0,80.0,1,Computer Science
+Zohar,34,65.0,90.0,1.0,95.0,1,Industrial Engineering & Management
+Keli,35,100.0,70.0,1.0,65.0,1,Computer Science
+Ariel,37,70.0,90.0,1.0,78.0,1,Industrial Engineering & Management
+Dor,38,100.0,80.0,0.0,94.0,1,Computer Science
+Tamar,39,90.0,100.0,1.0,65.0,1,Industrial Engineering & Management
+Eliran,40,55.0,100.0,1.0,92.0,1,Industrial Engineering & Management
+Ido,41,80.0,100.0,1.0,55.0,1,Computer Science
+Jerry,42,50.0,100.0,0.0,90.0,1,Economics
+Adam,43,65.0,100.0,0.0,80.0,1,Computer Science
+Aviram,44,75.0,100.0,1.0,92.0,0,Industrial Engineering & Management
+Sapir,45,55.0,45.0,1.0,78.0,0,Industrial Engineering & Management
+Tamar,46,90.0,80.0,1.0,90.0,0,Economics
+Esther,47,100.0,80.0,1.0,95.0,0,Industrial Engineering & Management
+Kevin,48,80.0,55.0,1.0,85.0,1,Computer Science
+Adam,49,70.0,82.56172839506173,1.0,88.0,1,Computer Science
+Kevin,50,50.0,85.0,1.0,94.0,1,Industrial Engineering & Management
+Sarah,51,70.0,100.0,1.0,92.0,1,Economics
+Alex,52,100.0,100.0,1.0,88.0,0,Industrial Engineering & Management
+Uriel,53,60.0,100.0,1.0,98.0,1,Economics
+Adele,54,90.0,100.0,1.0,80.0,0,Industrial Engineering & Management
+Nitzan,55,75.0,100.0,1.0,90.0,0,Computer Science
+Linda,56,80.0,90.0,1.0,65.0,1,Economics
+Katia,57,75.0,90.0,0.0,80.0,1,Computer Science
+Esther,58,45.0,85.0,1.0,76.0,1,Industrial Engineering & Management
+Ela,59,80.0,85.0,1.0,78.0,1,Economics
+Ohad,60,80.0,90.0,1.0,79.0,0,Computer Science
+Michael,61,70.0,85.0,1.0,96.0,1,Economics
+Dor,62,90.0,60.0,1.0,80.0,1,Industrial Engineering & Management
+Danny,63,70.0,100.0,1.0,88.0,1,Industrial Engineering & Management
+Esther,64,45.0,82.56172839506173,1.0,81.0,1,Economics
+Nati,65,75.0,65.0,1.0,100.0,1,Economics
+Kevin,66,80.0,100.0,0.0,76.0,0,Computer Science
+Keli,67,100.0,100.0,1.0,90.0,0,Computer Science
+Ram,68,60.0,100.0,0.0,65.0,1,Computer Science
+Orly,69,80.0,55.0,0.0,80.0,1,Computer Science
+Keli,70,55.0,65.0,1.0,75.0,1,Economics
+Jerry,71,75.0,100.0,1.0,98.0,0,Computer Science
+Eliran,73,45.0,75.0,1.0,100.0,1,Economics
+Mor,74,50.0,60.0,1.0,79.0,1,Computer Science
+Adam,75,75.0,100.0,0.0,100.0,1,Economics
+Sarah,76,75.0,100.0,1.0,100.0,0,Economics
+Robin,77,55.0,100.0,1.0,55.0,1,Computer Science
+Dor,78,100.0,100.0,1.0,95.0,0,Industrial Engineering & Management
+Jerry,79,100.0,80.0,1.0,79.0,1,Economics
+Ram,80,100.0,90.0,1.0,83.0,0,Industrial Engineering & Management
+Jerry,81,85.0,90.0,0.0,80.0,1,Economics
+Adam,82,75.0,65.0,1.0,96.0,1,Industrial Engineering & Management
+Esther,83,85.0,100.0,1.0,80.0,0,Industrial Engineering & Management
+Adele,84,70.0,95.0,1.0,65.0,0,Economics
+Michael,85,100.0,75.0,0.0,93.0,1,Industrial Engineering & Management
+Idan,86,90.0,100.0,1.0,93.0,0,Computer Science
+Billy,87,100.0,90.0,0.0,100.0,1,Industrial Engineering & Management
+Billy,88,100.0,100.0,1.0,100.0,0,Economics
+Kevin,89,75.0,45.0,0.0,81.0,1,Industrial Engineering & Management
+Tamar,90,65.0,90.0,1.0,75.0,1,Computer Science
+Zohar,91,80.0,100.0,1.0,84.0,0,Economics
+Amram,92,100.0,65.0,1.0,100.0,1,Economics
+Tair,93,95.0,50.0,1.0,92.0,1,Computer Science
+Brian,94,60.0,75.0,1.0,55.0,1,Computer Science
+Brian,95,100.0,100.0,1.0,100.0,0,Economics
+Sarah,96,45.0,90.0,1.0,89.0,0,Computer Science
+Tair,97,75.0,90.0,0.0,80.0,1,Industrial Engineering & Management
+Natasha,98,80.0,70.0,1.0,75.0,1,Computer Science
+John,100,80.0,85.0,1.0,80.0,0,Computer Science
+Uriel,101,60.0,100.0,1.0,88.0,1,Computer Science
+Nitzan,102,80.0,100.0,1.0,83.0,0,Computer Science
+Ohad,103,100.0,90.0,0.0,89.0,1,Economics
+John,104,80.0,90.0,1.0,89.0,0,Industrial Engineering & Management
+Jerry,105,75.0,60.0,1.0,65.0,1,Computer Science
+Uriel,106,100.0,50.0,1.0,93.0,1,Industrial Engineering & Management
+Tamar,107,100.0,100.0,1.0,81.0,0,Economics
+Tamar,108,60.0,90.0,1.0,55.0,1,Industrial Engineering & Management
+Ela,109,90.0,50.0,1.0,84.0,0,Industrial Engineering & Management
+Nati,110,95.0,45.0,1.0,79.0,1,Industrial Engineering & Management
+Chen,111,80.0,75.0,1.0,78.0,1,Industrial Engineering & Management
+Esther,112,65.0,90.0,1.0,76.0,1,Computer Science
+Adam,113,70.0,60.0,1.0,84.0,1,Computer Science
+Orly,114,100.0,80.0,1.0,80.0,0,Industrial Engineering & Management
+Ohad,115,45.0,100.0,1.0,76.0,1,Computer Science
+Alex,116,75.0,80.0,1.0,100.0,0,Industrial Engineering & Management
+John,117,75.0,100.0,1.0,88.0,0,Computer Science
+Alex,118,70.0,75.0,1.0,80.0,0,Economics
+John,119,65.0,80.0,1.0,89.0,1,Industrial Engineering & Management
+Eliran,120,80.0,100.0,0.0,55.0,1,Economics
+Zohar,121,80.0,100.0,1.0,78.0,1,Economics
+Katia,122,70.0,45.0,1.0,65.0,1,Economics
+Avishay,123,75.0,50.0,0.0,85.0,1,Industrial Engineering & Management
+Idan,124,65.0,100.0,1.0,84.0,1,Computer Science
+Orly,125,100.0,75.0,1.0,80.0,0,Industrial Engineering & Management
+Brian,126,90.0,80.0,1.0,79.0,0,Computer Science
+Ela,127,75.0,90.0,1.0,89.0,1,Industrial Engineering & Management
+Kevin,128,70.0,75.0,1.0,75.0,1,Computer Science
+Kevin,129,95.0,80.0,1.0,83.0,1,Computer Science
+Sarah,130,100.0,60.0,1.0,95.0,1,Industrial Engineering & Management
+Tamar,131,100.0,82.56172839506173,1.0,89.0,1,Computer Science
+Ariel,132,45.0,90.0,1.0,100.0,1,Computer Science
+Idan,134,80.0,45.0,0.0,95.0,1,Economics
+Avishay,135,100.0,75.0,1.0,78.0,1,Computer Science
+Esther,136,90.0,50.0,1.0,84.0,1,Industrial Engineering & Management
+Adam,137,100.0,90.0,1.0,88.0,0,Economics
+Adele,138,55.0,90.0,1.0,80.0,1,Computer Science
+Tali,139,75.0,100.0,1.0,80.0,0,Computer Science
+Billy,140,45.0,80.0,0.0,90.0,1,Industrial Engineering & Management
+Adele,141,55.0,75.0,0.0,79.0,1,Computer Science
+Ram,142,80.0,55.0,0.0,92.0,1,Economics
+Sapir,143,80.0,90.0,1.0,98.0,0,Industrial Engineering & Management
+Ariel,144,100.0,55.0,0.0,92.0,1,Computer Science
+Katia,145,80.0,70.0,1.0,93.0,0,Computer Science
+Mor,146,70.0,95.0,0.0,78.0,1,Computer Science
+Chen,147,70.0,100.0,1.0,88.0,1,Industrial Engineering & Management
+Or,149,100.0,100.0,1.0,83.0,0,Computer Science
+Ohad,150,100.0,100.0,1.0,84.0,0,Economics
+Alex,151,80.0,60.0,1.0,76.0,1,Computer Science
+Zohar,152,100.0,85.0,1.0,100.0,0,Industrial Engineering & Management
+Idan,153,90.0,80.0,1.0,96.0,0,Economics
+Robin,154,55.0,100.0,1.0,98.0,1,Economics
+Tair,155,65.0,95.0,1.0,75.0,1,Computer Science
+Nati,156,65.0,60.0,1.0,93.0,1,Economics
+Katia,157,100.0,100.0,1.0,93.0,0,Economics
+Sarah,158,100.0,100.0,1.0,80.0,0,Computer Science
+Idan,159,70.0,45.0,1.0,90.0,1,Economics
+Ido,160,100.0,100.0,1.0,83.0,0,Economics
+Esther,161,100.0,45.0,1.0,100.0,1,Industrial Engineering & Management
+Ariel,162,80.0,65.0,1.0,80.0,1,Economics
+Sarah,163,100.0,90.0,1.0,76.0,1,Economics
+Tali,164,100.0,100.0,0.0,90.0,1,Economics
+Nati,165,65.0,45.0,1.0,83.0,1,Economics
+Adele,166,70.0,70.0,1.0,96.0,1,Economics
+Dor,167,80.0,100.0,1.0,84.0,0,Industrial Engineering & Management
+Keli,168,60.0,50.0,1.0,88.0,1,Industrial Engineering & Management
+Eliran,169,80.0,45.0,1.0,90.0,1,Computer Science
+Billy,170,65.0,85.0,0.0,93.0,1,Economics
+Michael,171,90.0,100.0,0.0,75.0,1,Economics
+Sarah,172,45.0,100.0,1.0,80.0,1,Computer Science
+Nitzan,173,75.0,85.0,1.0,89.0,0,Economics
+Zohar,174,65.0,60.0,1.0,90.0,1,Industrial Engineering & Management
+Uriel,175,80.0,75.0,1.0,76.0,1,Economics
+Esther,176,90.0,60.0,0.0,78.0,1,Industrial Engineering & Management
+Or,177,75.0,80.0,1.0,90.0,0,Industrial Engineering & Management
+Danny,178,80.0,100.0,1.0,85.0,0,Computer Science
+Sapir,179,90.0,80.0,0.0,75.0,1,Economics
+Nitzan,180,80.0,45.0,1.0,75.0,1,Industrial Engineering & Management
+John,181,95.0,90.0,1.0,55.0,1,Industrial Engineering & Management
+Chen,182,50.0,85.0,0.0,79.0,1,Computer Science
+Nati,183,75.0,50.0,1.0,90.0,1,Computer Science
+Ela,184,70.0,100.0,0.0,80.0,1,Economics
+Chen,185,95.0,75.0,1.0,89.0,0,Computer Science
+Linda,186,100.0,80.0,1.0,55.0,1,Computer Science
+Jerry,187,100.0,55.0,1.0,93.0,1,Economics
+Orly,188,45.0,45.0,0.0,100.0,1,Computer Science
+Danny,189,95.0,100.0,1.0,81.0,0,Computer Science
+Mor,190,70.0,100.0,1.0,88.0,1,Economics
+Billy,191,70.0,90.0,1.0,65.0,1,Industrial Engineering & Management
+Orly,193,85.0,90.0,1.0,80.0,0,Computer Science
+Ido,194,90.0,55.0,0.0,78.0,1,Computer Science
+John,195,80.0,70.0,1.0,76.0,1,Industrial Engineering & Management
+Sapir,196,100.0,80.0,1.0,96.0,0,Economics
+Esther,197,80.0,90.0,1.0,80.0,0,Computer Science
+Ram,198,100.0,100.0,1.0,80.0,0,Economics
+Danny,199,80.0,95.0,1.0,100.0,0,Economics
+Robin,200,90.0,90.0,1.0,89.0,0,Computer Science
+Or,201,70.0,90.0,1.0,65.0,0,Computer Science
+Ariel,202,55.0,65.0,1.0,100.0,1,Industrial Engineering & Management
+Robin,203,75.0,50.0,1.0,76.0,1,Industrial Engineering & Management
+Ram,204,85.0,95.0,0.0,65.0,1,Economics
+Chen,205,100.0,70.0,1.0,84.0,0,Computer Science
+Katia,206,60.0,85.0,0.0,88.0,1,Computer Science
+Ram,207,100.0,100.0,1.0,98.0,0,Industrial Engineering & Management
+Idan,208,45.0,85.0,1.0,80.0,1,Industrial Engineering & Management
+Dor,209,80.0,50.0,1.0,83.0,1,Economics
+Michael,210,45.0,50.0,1.0,78.0,1,Economics
+Nitzan,211,70.0,95.0,1.0,80.0,1,Industrial Engineering & Management
+Ariel,212,100.0,95.0,1.0,98.0,0,Industrial Engineering & Management
+Robin,213,100.0,100.0,1.0,96.0,0,Industrial Engineering & Management
+Keli,214,75.0,100.0,1.0,78.0,1,Economics
+Adele,215,100.0,75.0,1.0,90.0,0,Economics
+Ido,216,45.0,90.0,1.0,88.0,1,Economics
+Ido,217,70.0,100.0,1.0,79.0,1,Industrial Engineering & Management
+Robin,218,45.0,75.0,1.0,98.0,1,Computer Science
+Ohad,219,100.0,50.0,1.0,80.0,1,Economics
+Or,220,100.0,100.0,1.0,100.0,1,Industrial Engineering & Management
+Idan,221,100.0,90.0,0.0,89.0,1,Computer Science
+Uriel,222,90.0,90.0,0.0,90.0,1,Computer Science
+Uriel,223,80.0,95.0,1.0,95.0,0,Economics
+Linda,224,45.0,100.0,1.0,90.0,1,Computer Science
+Idan,225,100.0,100.0,1.0,92.0,0,Computer Science
+Aviram,226,80.0,90.0,0.0,84.0,1,Computer Science
+Michael,227,90.0,70.0,1.0,76.0,1,Economics
+Tamar,228,100.0,100.0,1.0,79.0,0,Industrial Engineering & Management
+Adele,229,100.0,85.0,0.0,55.0,1,Computer Science
+Ariel,230,90.0,90.0,1.0,90.0,0,Industrial Engineering & Management
+Tamar,231,80.0,50.0,1.0,90.0,1,Economics
+Sapir,232,100.0,100.0,1.0,94.0,0,Industrial Engineering & Management
+Ariel,233,75.0,80.0,1.0,93.0,0,Industrial Engineering & Management
+Nati,234,70.0,90.0,0.0,79.0,1,Industrial Engineering & Management
+Keli,235,80.0,80.0,0.0,100.0,1,Economics
+Adele,236,100.0,100.0,1.0,94.0,0,Economics
+Adele,237,85.0,100.0,1.0,84.0,0,Computer Science
+Sarah,238,55.0,60.0,1.0,90.0,1,Industrial Engineering & Management
+Keli,239,80.0,100.0,1.0,83.0,0,Industrial Engineering & Management
+Natasha,240,95.0,95.0,0.0,93.0,1,Economics
+Michael,241,75.0,100.0,1.0,83.0,0,Economics
+Nitzan,242,65.0,70.0,1.0,98.0,1,Economics
+Ram,243,80.0,50.0,1.0,76.0,1,Economics
+Zohar,244,65.0,100.0,1.0,92.0,1,Computer Science
+Ariel,245,100.0,80.0,1.0,94.0,0,Economics
+Nati,246,45.0,80.0,1.0,80.0,1,Economics
+Michael,247,100.0,90.0,1.0,89.0,0,Industrial Engineering & Management
+Ram,248,75.0,100.0,1.0,92.0,0,Economics
+Mor,249,80.0,75.0,0.0,81.0,1,Industrial Engineering & Management
+Amram,250,95.0,75.0,1.0,88.0,0,Economics
+Uriel,251,55.0,90.0,1.0,93.0,0,Industrial Engineering & Management
+Ela,252,100.0,80.0,1.0,92.0,0,Computer Science
+Esther,253,90.0,65.0,1.0,89.0,1,Computer Science
+Katia,254,80.0,80.0,1.0,79.0,0,Computer Science
+Tali,255,80.0,55.0,1.0,80.0,1,Computer Science
+Alex,256,75.0,100.0,1.0,88.0,0,Industrial Engineering & Management
+Sapir,257,90.0,70.0,1.0,76.0,1,Industrial Engineering & Management
+Dor,258,60.0,75.0,1.0,98.0,1,Industrial Engineering & Management
+Billy,259,80.0,100.0,1.0,85.0,0,Computer Science
+Mor,260,45.0,100.0,1.0,96.0,1,Computer Science
+Ela,261,80.0,90.0,1.0,85.0,0,Economics
+Ela,262,80.0,100.0,1.0,65.0,1,Industrial Engineering & Management
+Sarah,263,90.0,85.0,1.0,94.0,0,Economics
+Ram,264,55.0,70.0,1.0,92.0,1,Economics
+Ariel,265,80.0,100.0,1.0,84.0,0,Computer Science
+Danny,266,100.0,100.0,1.0,100.0,0,Industrial Engineering & Management
+Uriel,267,100.0,100.0,0.0,55.0,1,Industrial Engineering & Management
+Tali,268,65.0,70.0,1.0,93.0,1,Industrial Engineering & Management
+Aviram,269,80.0,75.0,1.0,84.0,0,Industrial Engineering & Management
+Katia,270,100.0,100.0,1.0,80.0,0,Economics
+Adam,271,55.0,65.0,1.0,79.0,1,Industrial Engineering & Management
+Orly,272,80.0,100.0,0.0,83.0,1,Economics
+Natasha,273,100.0,80.0,1.0,76.0,1,Industrial Engineering & Management
+Kevin,274,90.0,80.0,0.0,84.0,1,Industrial Engineering & Management
+Alex,275,45.0,100.0,1.0,55.0,1,Industrial Engineering & Management
+Or,276,100.0,100.0,0.0,90.0,1,Computer Science
+Eliran,277,100.0,70.0,0.0,88.0,1,Computer Science
+Amram,278,100.0,65.0,1.0,90.0,1,Economics
+Avishay,279,100.0,75.0,0.0,85.0,1,Economics
+Tali,280,90.0,100.0,1.0,81.0,0,Industrial Engineering & Management
+Tamar,281,100.0,100.0,1.0,76.0,1,Economics
+Tair,282,90.0,60.0,1.0,80.0,1,Industrial Engineering & Management
+Natasha,283,100.0,100.0,1.0,94.0,0,Computer Science
+Tamar,284,100.0,45.0,1.0,83.0,1,Industrial Engineering & Management
+Adele,285,70.0,65.0,1.0,100.0,1,Industrial Engineering & Management
+Ohad,286,90.0,100.0,1.0,85.0,0,Economics
+Tair,287,100.0,80.0,1.0,85.0,0,Industrial Engineering & Management
+Eliran,288,95.0,100.0,1.0,55.0,1,Industrial Engineering & Management
+Katia,289,70.0,100.0,1.0,80.0,1,Economics
+Orly,290,100.0,100.0,0.0,76.0,0,Economics
+Michael,291,90.0,90.0,1.0,55.0,1,Economics
+Billy,292,70.0,100.0,1.0,55.0,1,Computer Science
+Linda,293,100.0,55.0,1.0,75.0,1,Industrial Engineering & Management
+Idan,294,100.0,90.0,1.0,55.0,1,Computer Science
+Uriel,295,100.0,80.0,1.0,80.0,0,Computer Science
+Dor,296,100.0,100.0,0.0,80.0,1,Industrial Engineering & Management
+Ela,297,65.0,90.0,1.0,80.0,1,Industrial Engineering & Management
+Nati,298,100.0,80.0,0.0,81.0,1,Industrial Engineering & Management
+Amram,299,100.0,65.0,1.0,55.0,1,Computer Science
+Robin,300,70.0,90.0,0.0,92.0,1,Computer Science
+Tair,301,75.0,100.0,1.0,80.0,1,Industrial Engineering & Management
+Tamar,302,70.0,100.0,1.0,76.0,1,Economics
+Robin,303,100.0,100.0,1.0,85.0,0,Economics
+Ela,304,55.0,100.0,1.0,65.0,1,Computer Science
+Amram,305,100.0,90.0,1.0,78.0,1,Economics
+Dor,306,100.0,100.0,1.0,83.0,0,Industrial Engineering & Management
+Ohad,307,95.0,80.0,1.0,85.0,0,Economics
+Tamar,308,60.0,70.0,1.0,92.0,1,Industrial Engineering & Management
+Uriel,309,100.0,100.0,1.0,84.0,1,Computer Science
+Adam,310,100.0,60.0,0.0,76.0,1,Industrial Engineering & Management
+Ohad,311,90.0,80.0,1.0,90.0,0,Computer Science
+Ariel,312,100.0,100.0,1.0,84.0,0,Industrial Engineering & Management
+Ohad,313,85.0,45.0,1.0,85.0,1,Industrial Engineering & Management
+Mor,314,100.0,90.0,1.0,100.0,0,Industrial Engineering & Management
+Avishay,315,50.0,70.0,0.0,65.0,1,Economics
+Jerry,316,45.0,100.0,1.0,75.0,1,Economics
+Ido,317,85.0,75.0,1.0,81.0,0,Computer Science
+Orly,318,55.0,80.0,1.0,98.0,1,Economics
+Sapir,319,100.0,80.0,1.0,85.0,0,Industrial Engineering & Management
+Ido,320,100.0,90.0,1.0,65.0,1,Industrial Engineering & Management
+Nati,321,70.0,85.0,0.0,89.0,1,Computer Science
+Eliran,322,70.0,100.0,1.0,80.0,1,Industrial Engineering & Management
+Nati,323,90.0,80.0,1.0,65.0,1,Industrial Engineering & Management
+Adam,324,90.0,75.0,1.0,95.0,0,Economics
+Sarah,325,100.0,90.0,0.0,96.0,1,Computer Science
+Nati,326,75.0,50.0,1.0,100.0,1,Industrial Engineering & Management
+Alex,327,90.0,70.0,1.0,89.0,0,Computer Science
+Adam,328,60.0,70.0,1.0,80.0,1,Industrial Engineering & Management
+Eliran,329,80.0,75.0,1.0,100.0,0,Computer Science
+Katia,330,100.0,65.0,1.0,80.0,1,Industrial Engineering & Management
+Aviram,331,100.0,60.0,0.0,98.0,1,Industrial Engineering & Management
+Chen,332,55.0,90.0,0.0,80.0,1,Industrial Engineering & Management
+Tamar,333,80.0,85.0,1.0,88.0,0,Computer Science
+Avishay,334,80.0,100.0,1.0,96.0,0,Industrial Engineering & Management
+Sapir,335,100.0,100.0,1.0,81.0,0,Industrial Engineering & Management
+Danny,336,100.0,80.0,1.0,80.0,0,Industrial Engineering & Management
+Nitzan,337,85.0,80.0,0.0,80.0,1,Industrial Engineering & Management
+Tali,338,50.0,50.0,1.0,76.0,1,Economics
+Ido,339,65.0,100.0,1.0,95.0,1,Computer Science
+Sapir,340,45.0,80.0,1.0,84.0,1,Computer Science
+Tali,341,75.0,80.0,1.0,65.0,1,Economics
+Billy,342,75.0,100.0,1.0,65.0,1,Economics
+Eliran,343,95.0,75.0,1.0,76.0,1,Computer Science
+Nati,344,100.0,70.0,1.0,94.0,0,Computer Science
+Adele,345,90.0,100.0,1.0,76.0,0,Industrial Engineering & Management
+Sapir,346,95.0,60.0,1.0,76.0,1,Computer Science
+Mor,347,100.0,50.0,1.0,95.0,1,Computer Science
+Jerry,348,100.0,90.0,1.0,84.0,0,Economics
+Sapir,349,90.0,45.0,1.0,80.0,1,Economics
+Ela,350,45.0,65.0,1.0,93.0,1,Economics
+Ohad,351,75.0,65.0,1.0,83.0,1,Economics
+Uriel,352,100.0,85.0,1.0,80.0,0,Economics
+Orly,353,90.0,100.0,1.0,80.0,0,Industrial Engineering & Management
+Katia,354,75.0,90.0,1.0,100.0,0,Economics
+Ela,355,75.0,90.0,1.0,78.0,1,Computer Science
+John,356,100.0,100.0,1.0,90.0,0,Industrial Engineering & Management
+Orly,357,100.0,95.0,1.0,80.0,0,Economics
+Eliran,358,80.0,80.0,1.0,83.0,0,Industrial Engineering & Management
+Sapir,359,100.0,45.0,1.0,78.0,1,Industrial Engineering & Management
+Uriel,360,100.0,85.0,1.0,94.0,0,Economics
+Tali,361,65.0,100.0,1.0,94.0,1,Economics
+John,362,75.0,60.0,1.0,89.0,1,Economics
+Esther,363,100.0,45.0,0.0,90.0,1,Economics
+Keli,364,90.0,75.0,0.0,93.0,1,Computer Science
+Avishay,365,45.0,100.0,1.0,79.0,1,Industrial Engineering & Management
+Nitzan,366,100.0,100.0,1.0,84.0,1,Computer Science
+Sarah,367,80.0,70.0,1.0,79.0,0,Economics
+Dor,368,100.0,100.0,1.0,80.0,0,Economics
+Mor,369,70.0,70.0,1.0,90.0,1,Computer Science
+Kevin,370,100.0,55.0,1.0,95.0,0,Economics
+Nitzan,371,70.0,50.0,1.0,84.0,1,Economics
+Katia,372,100.0,100.0,0.0,94.0,1,Computer Science
+Katia,373,80.0,100.0,1.0,83.0,1,Economics
+Tamar,374,70.0,100.0,1.0,55.0,1,Industrial Engineering & Management
+Sapir,375,95.0,45.0,1.0,65.0,1,Computer Science
+Ohad,376,100.0,90.0,1.0,95.0,0,Computer Science
+Sapir,377,80.0,85.0,1.0,78.0,1,Industrial Engineering & Management
+Billy,378,90.0,70.0,0.0,96.0,1,Industrial Engineering & Management
+Linda,379,75.0,100.0,1.0,94.0,0,Computer Science
+Idan,380,80.0,100.0,1.0,100.0,0,Computer Science
+Billy,381,75.0,95.0,1.0,100.0,0,Economics
+Michael,382,60.0,95.0,0.0,90.0,1,Economics
+Kevin,383,70.0,100.0,1.0,93.0,1,Industrial Engineering & Management
+Robin,384,75.0,90.0,1.0,100.0,0,Industrial Engineering & Management
+Adele,385,95.0,100.0,1.0,84.0,0,Economics
+Natasha,386,90.0,100.0,1.0,93.0,0,Industrial Engineering & Management
+Ela,387,100.0,80.0,0.0,79.0,1,Computer Science
+Amram,388,80.0,100.0,1.0,93.0,0,Economics
+Natasha,389,90.0,95.0,1.0,96.0,0,Industrial Engineering & Management
+Natasha,390,90.0,65.0,0.0,100.0,1,Industrial Engineering & Management
+Ido,391,100.0,70.0,1.0,90.0,0,Economics
+Aviram,392,100.0,70.0,0.0,80.0,1,Computer Science
+Ram,393,100.0,55.0,1.0,100.0,1,Economics
+Ram,394,90.0,70.0,1.0,80.0,0,Computer Science
+Jerry,395,100.0,100.0,1.0,65.0,0,Economics
+Mor,396,50.0,95.0,1.0,80.0,1,Industrial Engineering & Management
+Ido,397,80.0,90.0,1.0,83.0,0,Economics
+Aviram,398,80.0,60.0,1.0,90.0,1,Economics
+Nati,399,70.0,65.0,1.0,55.0,1,Computer Science
+Robin,400,70.0,90.0,1.0,100.0,1,Computer Science
+Eliran,401,70.0,90.0,0.0,65.0,0,Economics
+Sapir,402,75.0,100.0,1.0,84.0,1,Computer Science
+Avishay,403,90.0,100.0,1.0,92.0,0,Computer Science
+Natasha,404,100.0,90.0,1.0,75.0,1,Industrial Engineering & Management
+Adam,405,100.0,100.0,1.0,78.0,1,Computer Science
+Jerry,406,80.0,75.0,0.0,89.0,1,Computer Science
+Orly,407,100.0,100.0,1.0,84.0,0,Computer Science
+Michael,408,80.0,100.0,1.0,93.0,0,Industrial Engineering & Management
+Nitzan,409,80.0,80.0,1.0,83.0,0,Computer Science
+Nati,410,80.0,95.0,1.0,81.0,0,Computer Science
+Ela,411,75.0,75.0,0.0,80.0,1,Industrial Engineering & Management
+Mor,412,50.0,70.0,0.0,98.0,1,Computer Science
+Tamar,413,75.0,60.0,1.0,81.0,1,Economics
+Ariel,414,100.0,100.0,1.0,92.0,0,Industrial Engineering & Management
+John,415,100.0,65.0,1.0,100.0,1,Economics
+Adele,416,75.0,45.0,1.0,92.0,1,Economics
+Michael,417,100.0,70.0,1.0,88.0,0,Economics
+Kevin,418,60.0,90.0,1.0,98.0,1,Computer Science
+Nati,419,90.0,80.0,1.0,98.0,0,Computer Science
+Ido,420,75.0,100.0,1.0,89.0,0,Economics
+Tamar,421,65.0,80.0,0.0,80.0,1,Industrial Engineering & Management
+Natasha,422,100.0,55.0,1.0,93.0,1,Computer Science
+Avishay,423,80.0,80.0,1.0,65.0,1,Industrial Engineering & Management
+Mor,424,70.0,100.0,1.0,78.0,1,Computer Science
+Billy,425,80.0,70.0,1.0,75.0,1,Industrial Engineering & Management
+Linda,426,90.0,75.0,1.0,84.0,0,Industrial Engineering & Management
+Jerry,427,100.0,95.0,1.0,80.0,0,Industrial Engineering & Management
+Ariel,428,80.0,70.0,1.0,95.0,0,Industrial Engineering & Management
+Robin,429,65.0,100.0,1.0,80.0,1,Computer Science
+Amram,430,100.0,45.0,1.0,96.0,1,Industrial Engineering & Management
+Ela,431,60.0,90.0,1.0,95.0,1,Computer Science
+Nati,432,100.0,100.0,1.0,92.0,0,Computer Science
+Nitzan,433,85.0,75.0,1.0,80.0,0,Computer Science
+Danny,434,85.0,55.0,1.0,79.0,1,Industrial Engineering & Management
+Orly,435,80.0,100.0,1.0,85.0,0,Computer Science
+Adele,436,55.0,100.0,1.0,100.0,1,Industrial Engineering & Management
+Or,437,90.0,70.0,0.0,79.0,1,Economics
+Uriel,438,80.0,70.0,0.0,93.0,1,Industrial Engineering & Management
+Linda,439,100.0,90.0,0.0,81.0,1,Economics
+Brian,440,100.0,75.0,1.0,78.0,1,Economics
+Tair,441,100.0,85.0,1.0,80.0,0,Economics
+Tali,442,75.0,75.0,1.0,98.0,0,Economics
+Zohar,443,90.0,90.0,1.0,75.0,1,Industrial Engineering & Management
+Aviram,444,70.0,100.0,1.0,84.0,1,Computer Science
+Keli,445,95.0,80.0,1.0,93.0,0,Computer Science
+John,446,100.0,95.0,1.0,85.0,0,Industrial Engineering & Management
+Jerry,447,55.0,45.0,0.0,81.0,1,Computer Science
+Or,448,50.0,50.0,1.0,80.0,1,Computer Science
+Nati,449,85.0,90.0,1.0,75.0,1,Industrial Engineering & Management
+Keli,450,75.0,50.0,1.0,55.0,0,Economics
+Ohad,451,85.0,75.0,0.0,90.0,1,Computer Science
+Natasha,452,95.0,100.0,1.0,65.0,1,Industrial Engineering & Management
+Tali,453,100.0,75.0,1.0,96.0,0,Computer Science
+Uriel,454,100.0,80.0,0.0,89.0,1,Economics
+Tair,455,100.0,60.0,1.0,89.0,1,Industrial Engineering & Management
+Orly,456,100.0,100.0,0.0,96.0,1,Computer Science
+Chen,457,60.0,100.0,1.0,83.0,1,Computer Science
+Adele,458,55.0,90.0,1.0,94.0,1,Economics
+Ela,459,100.0,90.0,1.0,79.0,0,Economics
+Robin,460,100.0,70.0,1.0,88.0,0,Computer Science
+Nitzan,461,100.0,95.0,1.0,84.0,0,Industrial Engineering & Management
+Sapir,462,65.0,100.0,1.0,78.0,1,Industrial Engineering & Management
+Or,463,45.0,80.0,1.0,79.0,1,Economics
+Billy,464,100.0,75.0,1.0,83.0,0,Economics
+Jerry,465,85.0,100.0,1.0,93.0,0,Computer Science
+Mor,466,60.0,75.0,1.0,80.0,1,Computer Science
+Jerry,467,85.0,100.0,1.0,83.0,0,Economics
+Sapir,468,100.0,70.0,0.0,80.0,1,Economics
+Billy,469,75.0,70.0,1.0,80.0,0,Industrial Engineering & Management
+Avishay,470,100.0,50.0,1.0,89.0,1,Industrial Engineering & Management
+Tamar,471,90.0,100.0,0.0,84.0,1,Computer Science
+Sarah,472,100.0,100.0,1.0,65.0,1,Economics
+Linda,473,65.0,90.0,1.0,83.0,1,Industrial Engineering & Management
+Alex,474,80.0,100.0,1.0,84.0,0,Industrial Engineering & Management
+Esther,475,65.0,100.0,1.0,79.0,1,Industrial Engineering & Management
+Sapir,476,80.0,85.0,1.0,65.0,1,Industrial Engineering & Management
+Tair,477,90.0,60.0,1.0,84.0,1,Industrial Engineering & Management
+Sapir,478,100.0,45.0,1.0,76.0,1,Economics
+Or,479,90.0,100.0,1.0,81.0,0,Computer Science
+Alex,480,90.0,90.0,1.0,92.0,0,Computer Science
+Eliran,481,55.0,85.0,1.0,90.0,1,Industrial Engineering & Management
+Nitzan,482,75.0,55.0,1.0,78.0,1,Economics
+Zohar,483,100.0,60.0,1.0,98.0,1,Computer Science
+Mor,484,100.0,100.0,1.0,76.0,1,Computer Science
+Adam,485,80.0,70.0,0.0,94.0,1,Industrial Engineering & Management
+Mor,486,75.0,75.0,0.0,95.0,1,Computer Science
+Amram,487,70.0,100.0,1.0,80.0,1,Industrial Engineering & Management
+Danny,488,100.0,100.0,1.0,92.0,0,Industrial Engineering & Management
+Or,489,90.0,100.0,1.0,92.0,0,Computer Science
+Robin,490,50.0,90.0,1.0,94.0,1,Computer Science
+Sapir,491,60.0,90.0,1.0,96.0,1,Economics
+Idan,492,70.0,82.56172839506173,1.0,98.0,1,Economics
+Tali,493,100.0,90.0,1.0,100.0,0,Industrial Engineering & Management
+Billy,494,100.0,50.0,1.0,95.0,1,Economics
+Or,495,100.0,80.0,1.0,90.0,0,Industrial Engineering & Management
+Ariel,496,80.0,65.0,1.0,85.0,1,Computer Science
+Keli,497,100.0,70.0,1.0,75.0,1,Industrial Engineering & Management
+Katia,498,70.0,100.0,1.0,65.0,1,Computer Science
+Ariel,499,45.0,80.0,0.0,92.0,1,Industrial Engineering & Management
+Katia,500,80.0,100.0,1.0,84.0,1,Computer Science
+Sarah,501,90.0,100.0,1.0,78.0,1,Industrial Engineering & Management
