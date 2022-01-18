@@ -1,0 +1,1775 @@
+s_Id,First_Name,department
+1,Danny,Computer Science
+2,Ariel,Computer Science
+3,Robin,Industrial Engineering & Management
+4,Or,Economics
+5,Ram,Economics
+6,Or,Economics
+7,Keli,Computer Science
+8,Ela,Computer Science
+9,Danny,Industrial Engineering & Management
+10,Billy,Industrial Engineering & Management
+11,Or,Economics
+12,Avraham,Industrial Engineering & Management
+13,Tair,Computer Science
+14,Eliran,Economics
+15,Chen,Computer Science
+16,Linda,Industrial Engineering & Management
+17,Tamar,Industrial Engineering & Management
+18,Natasha,Economics
+19,Sapir,Economics
+20,Aviram,Computer Science
+21,Aviram,Computer Science
+22,Ido,Computer Science
+23,Linda,Industrial Engineering & Management
+24,Michael,Economics
+25,Ram,Computer Science
+26,Avishay,Industrial Engineering & Management
+27,Brian,Computer Science
+28,Tamar,Economics
+29,Orly,Industrial Engineering & Management
+30,Dorit,Economics
+31,Sarah,Industrial Engineering & Management
+32,Linda,Industrial Engineering & Management
+33,Tair,Industrial Engineering & Management
+34,Adele,Economics
+35,Adam,Economics
+36,Katia,Computer Science
+37,Robin,Industrial Engineering & Management
+38,Billy,Computer Science
+39,Billy,Computer Science
+40,Sapir,Computer Science
+41,Ela,Economics
+42,Jerry,Computer Science
+43,Danny,Industrial Engineering & Management
+44,Danny,Computer Science
+45,Billy,Economics
+46,Kevin,Computer Science
+47,Ariel,Industrial Engineering & Management
+48,Kevin,Computer Science
+49,Danny,Industrial Engineering & Management
+50,Ido,Computer Science
+51,Danny,Industrial Engineering & Management
+52,Eliran,Economics
+53,Jerry,Industrial Engineering & Management
+54,Sarah,Industrial Engineering & Management
+55,Sapir,Industrial Engineering & Management
+56,Brian,Industrial Engineering & Management
+57,Danny,Economics
+58,Ori,Industrial Engineering & Management
+59,Brian,Computer Science
+60,Zohar,Industrial Engineering & Management
+61,Sarah,Computer Science
+62,Ori,Computer Science
+63,Ela,Computer Science
+64,Sapir,Economics
+65,Orly,Computer Science
+66,Tair,Industrial Engineering & Management
+67,Tamar,Economics
+68,Talia,Industrial Engineering & Management
+69,Or,Computer Science
+70,Aviram,Industrial Engineering & Management
+71,Ela,Economics
+72,Esther,Industrial Engineering & Management
+73,Eliran,Computer Science
+74,Ori,Computer Science
+75,Or,Computer Science
+76,Nati,Industrial Engineering & Management
+77,Jerry,Computer Science
+78,Danny,Computer Science
+79,Ori,Economics
+80,Chen,Industrial Engineering & Management
+81,Katia,Economics
+82,Kevin,Computer Science
+83,Esther,Economics
+84,Tamar,Computer Science
+85,Ela,Computer Science
+86,Ori,Computer Science
+87,Adam,Computer Science
+88,Michael,Computer Science
+89,Ido,Economics
+90,Ohad,Industrial Engineering & Management
+91,Tair,Economics
+92,Linda,Computer Science
+93,Billy,Industrial Engineering & Management
+94,Orly,Industrial Engineering & Management
+95,Jerry,Industrial Engineering & Management
+96,Talia,Computer Science
+97,Or,Industrial Engineering & Management
+98,John,Computer Science
+99,Adele,Economics
+100,Tair,Industrial Engineering & Management
+101,Sapir,Economics
+102,Idan,Economics
+103,Brian,Industrial Engineering & Management
+104,Keli,Economics
+105,Kevin,Industrial Engineering & Management
+106,Chen,Industrial Engineering & Management
+107,Sapir,Economics
+108,Dorit,Economics
+109,Billy,Industrial Engineering & Management
+110,Mor,Economics
+111,Jerry,Industrial Engineering & Management
+112,Or,Industrial Engineering & Management
+113,Kevin,Computer Science
+114,Nati,Economics
+115,Tair,Economics
+116,Ela,Industrial Engineering & Management
+117,Ido,Computer Science
+118,Natasha,Computer Science
+119,Sarah,Industrial Engineering & Management
+120,Avishay,Computer Science
+121,Eliran,Economics
+122,Chen,Economics
+123,Ariel,Computer Science
+124,Adam,Industrial Engineering & Management
+125,Eliran,Computer Science
+126,Esther,Economics
+127,Aviram,Computer Science
+128,John,Economics
+129,Ori,Industrial Engineering & Management
+130,Ohad,Industrial Engineering & Management
+131,Ohad,Computer Science
+132,Brian,Economics
+133,Dorit,Industrial Engineering & Management
+134,Kevin,Industrial Engineering & Management
+135,Aviram,Industrial Engineering & Management
+136,John,Industrial Engineering & Management
+137,Linda,Economics
+138,Kevin,Computer Science
+139,Nitzan,Economics
+140,Or,Industrial Engineering & Management
+141,Kevin,Computer Science
+142,Ela,Economics
+143,Idan,Computer Science
+144,Sapir,Economics
+145,Chen,Industrial Engineering & Management
+146,Sarah,Industrial Engineering & Management
+147,Kevin,Economics
+148,Avishay,Economics
+149,Adele,Economics
+150,Jerry,Industrial Engineering & Management
+151,Tamar,Industrial Engineering & Management
+152,John,Economics
+153,Brian,Computer Science
+154,Brian,Industrial Engineering & Management
+155,Ram,Economics
+156,Tamar,Industrial Engineering & Management
+157,Nati,Computer Science
+158,Linda,Computer Science
+159,Ori,Computer Science
+160,Or,Economics
+161,Tamar,Computer Science
+162,Chen,Economics
+163,Ori,Industrial Engineering & Management
+164,Danny,Industrial Engineering & Management
+165,Aviram,Industrial Engineering & Management
+166,Chen,Industrial Engineering & Management
+167,Alex,Economics
+168,Ram,Computer Science
+169,Ela,Computer Science
+170,Danny,Computer Science
+171,Natasha,Economics
+172,Keli,Industrial Engineering & Management
+173,Kevin,Industrial Engineering & Management
+174,Billy,Computer Science
+175,Katia,Economics
+176,Katia,Industrial Engineering & Management
+177,Talia,Economics
+178,Billy,Industrial Engineering & Management
+179,Orly,Computer Science
+180,Danny,Economics
+181,Nitzan,Computer Science
+182,Nati,Economics
+183,Katia,Economics
+184,Sarah,Industrial Engineering & Management
+185,Talia,Computer Science
+186,Zohar,Computer Science
+187,Ohad,Industrial Engineering & Management
+188,Talia,Economics
+189,John,Economics
+190,Billy,Economics
+191,Ori,Industrial Engineering & Management
+192,Ram,Industrial Engineering & Management
+193,Robin,Economics
+194,Katia,Economics
+195,Ido,Industrial Engineering & Management
+196,Orly,Computer Science
+197,Ram,Computer Science
+198,Eliran,Industrial Engineering & Management
+199,Katia,Economics
+200,Ariel,Industrial Engineering & Management
+201,Ido,Economics
+202,Ori,Computer Science
+203,Zohar,Industrial Engineering & Management
+204,Orly,Industrial Engineering & Management
+205,Katia,Industrial Engineering & Management
+206,Sapir,Computer Science
+207,Esther,Economics
+208,Or,Computer Science
+209,Adele,Economics
+210,Nitzan,Economics
+211,Sapir,Economics
+212,Sapir,Economics
+213,Nati,Computer Science
+214,Ela,Computer Science
+215,Ohad,Computer Science
+216,Esther,Industrial Engineering & Management
+217,Robin,Computer Science
+218,John,Computer Science
+219,Brian,Computer Science
+220,Michael,Industrial Engineering & Management
+221,Nitzan,Industrial Engineering & Management
+222,Avraham,Computer Science
+223,Michael,Industrial Engineering & Management
+224,Adam,Industrial Engineering & Management
+225,John,Computer Science
+226,Katia,Industrial Engineering & Management
+227,Keli,Industrial Engineering & Management
+228,Ram,Industrial Engineering & Management
+229,Ela,Industrial Engineering & Management
+230,Kevin,Industrial Engineering & Management
+231,Billy,Industrial Engineering & Management
+232,John,Industrial Engineering & Management
+233,Adam,Economics
+234,Aviram,Computer Science
+235,Nitzan,Economics
+236,Eliran,Economics
+237,Aviram,Industrial Engineering & Management
+238,Chen,Computer Science
+239,Robin,Industrial Engineering & Management
+240,Ido,Economics
+241,Ela,Economics
+242,Ela,Computer Science
+243,Tamar,Computer Science
+244,Natasha,Computer Science
+245,Keli,Computer Science
+246,Orly,Computer Science
+247,Mor,Computer Science
+248,Katia,Economics
+249,Robin,Computer Science
+250,Zohar,Computer Science
+251,Avishay,Industrial Engineering & Management
+252,Brian,Computer Science
+253,Idan,Industrial Engineering & Management
+254,Ela,Industrial Engineering & Management
+255,Nitzan,Industrial Engineering & Management
+256,Brian,Industrial Engineering & Management
+257,Jerry,Industrial Engineering & Management
+258,Brian,Computer Science
+259,Orly,Economics
+260,Avishay,Industrial Engineering & Management
+261,Billy,Economics
+262,Ohad,Industrial Engineering & Management
+263,John,Computer Science
+264,John,Industrial Engineering & Management
+265,Keli,Economics
+266,Ido,Industrial Engineering & Management
+267,Ela,Computer Science
+268,Ori,Computer Science
+269,Aviram,Economics
+270,Brian,Computer Science
+271,Ori,Computer Science
+272,Kevin,Economics
+273,Jerry,Economics
+274,Avishay,Industrial Engineering & Management
+275,Aviram,Computer Science
+276,Mor,Economics
+277,Eliran,Computer Science
+278,Danny,Industrial Engineering & Management
+279,Zohar,Economics
+280,Kevin,Industrial Engineering & Management
+281,Tair,Industrial Engineering & Management
+282,Idan,Computer Science
+283,Ela,Computer Science
+284,Brian,Computer Science
+285,Ram,Industrial Engineering & Management
+286,Ram,Computer Science
+287,Danny,Industrial Engineering & Management
+288,Linda,Industrial Engineering & Management
+289,Ram,Industrial Engineering & Management
+290,Ido,Economics
+291,Tamar,Computer Science
+292,Ela,Computer Science
+293,Robin,Computer Science
+294,Adele,Economics
+295,Sapir,Economics
+296,Alex,Computer Science
+297,Aviram,Computer Science
+298,Avraham,Industrial Engineering & Management
+299,John,Economics
+300,Linda,Computer Science
+301,Keli,Economics
+302,Adele,Computer Science
+303,Ram,Economics
+304,Orly,Industrial Engineering & Management
+305,Chen,Industrial Engineering & Management
+306,Or,Industrial Engineering & Management
+307,Esther,Industrial Engineering & Management
+308,Ori,Computer Science
+309,Sapir,Computer Science
+310,Linda,Computer Science
+311,Ram,Economics
+312,Eliran,Industrial Engineering & Management
+313,Chen,Computer Science
+314,Ela,Economics
+315,Natasha,Computer Science
+316,Avraham,Computer Science
+317,Natasha,Industrial Engineering & Management
+318,Nati,Computer Science
+319,Billy,Economics
+320,Avishay,Industrial Engineering & Management
+321,Dorit,Computer Science
+322,Zohar,Industrial Engineering & Management
+323,Brian,Industrial Engineering & Management
+324,Ram,Economics
+325,Avishay,Computer Science
+326,Or,Economics
+327,Sarah,Computer Science
+328,Eliran,Industrial Engineering & Management
+329,Adele,Industrial Engineering & Management
+330,Ram,Computer Science
+331,John,Computer Science
+332,Nitzan,Economics
+333,Brian,Industrial Engineering & Management
+334,Alex,Computer Science
+335,Tair,Industrial Engineering & Management
+336,Alex,Computer Science
+337,Keli,Economics
+338,Orly,Economics
+339,Brian,Computer Science
+340,Danny,Industrial Engineering & Management
+341,Ohad,Economics
+342,Nitzan,Industrial Engineering & Management
+343,Dorit,Computer Science
+344,Orly,Economics
+345,Ido,Economics
+346,Ido,Industrial Engineering & Management
+347,Eliran,Industrial Engineering & Management
+348,Idan,Economics
+349,Sapir,Industrial Engineering & Management
+350,Ela,Industrial Engineering & Management
+351,Kevin,Computer Science
+352,Talia,Economics
+353,Michael,Computer Science
+354,Nati,Computer Science
+355,Ram,Economics
+356,Kevin,Economics
+357,Adele,Computer Science
+358,Brian,Computer Science
+359,Tair,Industrial Engineering & Management
+360,Eliran,Economics
+361,Adele,Economics
+362,Sarah,Economics
+363,Brian,Computer Science
+364,Keli,Computer Science
+365,Adele,Industrial Engineering & Management
+366,Sarah,Computer Science
+367,Talia,Computer Science
+368,Adam,Economics
+369,Aviram,Industrial Engineering & Management
+370,John,Industrial Engineering & Management
+371,Tamar,Industrial Engineering & Management
+372,Billy,Economics
+373,Mor,Industrial Engineering & Management
+374,Kevin,Economics
+375,Tamar,Computer Science
+376,Jerry,Industrial Engineering & Management
+377,Ariel,Economics
+378,Ela,Industrial Engineering & Management
+379,Billy,Computer Science
+380,Danny,Computer Science
+381,Nitzan,Computer Science
+382,Aviram,Computer Science
+383,Ori,Industrial Engineering & Management
+384,Tamar,Economics
+385,Danny,Computer Science
+386,Avraham,Economics
+387,Avishay,Computer Science
+388,Michael,Computer Science
+389,Brian,Industrial Engineering & Management
+390,Linda,Economics
+391,John,Economics
+392,Ido,Industrial Engineering & Management
+393,Adam,Economics
+394,Keli,Economics
+395,Orly,Computer Science
+396,Ori,Industrial Engineering & Management
+397,Adele,Computer Science
+398,Dorit,Computer Science
+399,Zohar,Economics
+400,Avraham,Computer Science
+401,Or,Industrial Engineering & Management
+402,Tamar,Industrial Engineering & Management
+403,Mor,Industrial Engineering & Management
+404,Sarah,Computer Science
+405,Ori,Industrial Engineering & Management
+406,Tair,Industrial Engineering & Management
+407,Chen,Economics
+408,Tair,Computer Science
+409,Natasha,Industrial Engineering & Management
+410,Aviram,Economics
+411,Tair,Computer Science
+412,Danny,Computer Science
+413,Ido,Industrial Engineering & Management
+414,Katia,Computer Science
+415,Ori,Economics
+416,Esther,Industrial Engineering & Management
+417,Michael,Computer Science
+418,Ela,Industrial Engineering & Management
+419,Robin,Computer Science
+420,Idan,Economics
+421,Kevin,Industrial Engineering & Management
+422,Or,Industrial Engineering & Management
+423,Idan,Computer Science
+424,Ohad,Computer Science
+425,Ido,Computer Science
+426,Ido,Computer Science
+427,Avishay,Computer Science
+428,Idan,Industrial Engineering & Management
+429,Sapir,Computer Science
+430,Ela,Industrial Engineering & Management
+431,Alex,Computer Science
+432,Chen,Industrial Engineering & Management
+433,Nitzan,Industrial Engineering & Management
+434,Ido,Economics
+435,Kevin,Computer Science
+436,Avishay,Industrial Engineering & Management
+437,Esther,Economics
+438,Ram,Computer Science
+439,Orly,Industrial Engineering & Management
+440,Nitzan,Industrial Engineering & Management
+441,Tamar,Computer Science
+442,Esther,Industrial Engineering & Management
+443,Billy,Economics
+444,Adam,Industrial Engineering & Management
+445,Natasha,Computer Science
+446,Ohad,Economics
+447,Brian,Industrial Engineering & Management
+448,Tair,Computer Science
+449,Chen,Economics
+450,Danny,Economics
+451,Robin,Industrial Engineering & Management
+452,Zohar,Economics
+453,Mor,Computer Science
+454,Michael,Computer Science
+455,Dorit,Economics
+456,Adam,Industrial Engineering & Management
+457,Or,Industrial Engineering & Management
+458,Or,Economics
+459,Talia,Economics
+460,Aviram,Economics
+461,Chen,Industrial Engineering & Management
+462,Ram,Industrial Engineering & Management
+463,John,Economics
+464,Talia,Computer Science
+465,Nati,Economics
+466,Aviram,Economics
+467,Nitzan,Computer Science
+468,Alex,Economics
+469,Ela,Economics
+470,Natasha,Industrial Engineering & Management
+471,Avishay,Industrial Engineering & Management
+472,Or,Computer Science
+473,Katia,Industrial Engineering & Management
+474,Katia,Computer Science
+475,Tamar,Economics
+476,Avraham,Computer Science
+477,Ori,Industrial Engineering & Management
+478,Danny,Economics
+479,Ram,Industrial Engineering & Management
+480,Kevin,Economics
+481,Mor,Industrial Engineering & Management
+482,Dorit,Computer Science
+483,Kevin,Economics
+484,Kevin,Industrial Engineering & Management
+485,Ido,Economics
+486,Katia,Economics
+487,Ariel,Economics
+488,Kevin,Computer Science
+489,Mor,Industrial Engineering & Management
+490,Sarah,Computer Science
+491,Esther,Industrial Engineering & Management
+492,Idan,Economics
+493,Ariel,Computer Science
+494,Katia,Economics
+495,Nati,Computer Science
+496,Ori,Industrial Engineering & Management
+497,Orly,Computer Science
+498,Keli,Economics
+499,Idan,Industrial Engineering & Management
+500,Nitzan,Computer Science
+501,Mor,Computer Science
+502,Tamar,Industrial Engineering & Management
+503,Billy,Industrial Engineering & Management
+504,Ela,Industrial Engineering & Management
+505,Tamar,Economics
+506,Idan,Computer Science
+507,Jerry,Industrial Engineering & Management
+508,Aviram,Industrial Engineering & Management
+509,Sarah,Computer Science
+510,Aviram,Industrial Engineering & Management
+511,Ohad,Industrial Engineering & Management
+512,Eliran,Economics
+513,Katia,Economics
+514,Nitzan,Computer Science
+515,Ariel,Economics
+516,Eliran,Economics
+517,Zohar,Computer Science
+518,Sarah,Industrial Engineering & Management
+519,Esther,Computer Science
+520,Jerry,Industrial Engineering & Management
+521,Danny,Industrial Engineering & Management
+522,Alex,Economics
+523,Or,Computer Science
+524,Mor,Economics
+525,Ori,Industrial Engineering & Management
+526,Ela,Industrial Engineering & Management
+527,Ela,Computer Science
+528,Avraham,Computer Science
+529,Zohar,Computer Science
+530,Adam,Industrial Engineering & Management
+531,Chen,Computer Science
+532,Michael,Economics
+533,Ori,Computer Science
+534,Nati,Economics
+535,Billy,Computer Science
+536,Talia,Computer Science
+537,Or,Economics
+538,Tair,Economics
+539,Esther,Industrial Engineering & Management
+540,Nitzan,Computer Science
+541,Sarah,Industrial Engineering & Management
+542,Ohad,Computer Science
+543,Orly,Industrial Engineering & Management
+544,Zohar,Economics
+545,Idan,Economics
+546,Brian,Computer Science
+547,Brian,Industrial Engineering & Management
+548,Chen,Computer Science
+549,Ariel,Computer Science
+550,Ori,Computer Science
+551,Chen,Computer Science
+552,Idan,Industrial Engineering & Management
+553,Esther,Computer Science
+554,Robin,Computer Science
+555,Nati,Computer Science
+556,Billy,Economics
+557,Ram,Economics
+558,Talia,Computer Science
+559,Chen,Economics
+560,Kevin,Industrial Engineering & Management
+561,Keli,Economics
+562,Avraham,Economics
+563,Ela,Computer Science
+564,Avishay,Industrial Engineering & Management
+565,Alex,Computer Science
+566,Keli,Computer Science
+567,Michael,Computer Science
+568,Nati,Industrial Engineering & Management
+569,Michael,Economics
+570,Ela,Computer Science
+571,Chen,Industrial Engineering & Management
+572,Billy,Economics
+573,Adele,Computer Science
+574,Linda,Computer Science
+575,Ram,Industrial Engineering & Management
+576,Ori,Computer Science
+577,Nati,Economics
+578,John,Industrial Engineering & Management
+579,Linda,Computer Science
+580,Brian,Computer Science
+581,Natasha,Computer Science
+582,Billy,Computer Science
+583,Katia,Economics
+584,Orly,Computer Science
+585,Nati,Computer Science
+586,Linda,Economics
+587,Sarah,Economics
+588,Michael,Industrial Engineering & Management
+589,Katia,Computer Science
+590,Robin,Economics
+591,Nati,Industrial Engineering & Management
+592,Nati,Computer Science
+593,Or,Industrial Engineering & Management
+594,Adam,Economics
+595,John,Economics
+596,Chen,Industrial Engineering & Management
+597,Danny,Industrial Engineering & Management
+598,Tamar,Economics
+599,Linda,Industrial Engineering & Management
+600,Keli,Computer Science
+601,Kevin,Industrial Engineering & Management
+602,Mor,Computer Science
+603,Katia,Computer Science
+604,Tamar,Economics
+605,Sapir,Economics
+606,Or,Industrial Engineering & Management
+607,Brian,Industrial Engineering & Management
+608,Adele,Computer Science
+609,Nati,Computer Science
+610,Dorit,Industrial Engineering & Management
+611,Brian,Industrial Engineering & Management
+612,Avraham,Industrial Engineering & Management
+613,Jerry,Computer Science
+614,Natasha,Computer Science
+615,Ram,Computer Science
+616,Mor,Computer Science
+617,Or,Industrial Engineering & Management
+618,Ela,Computer Science
+619,Ido,Economics
+620,Tair,Computer Science
+621,Adam,Computer Science
+622,Nitzan,Industrial Engineering & Management
+623,Ariel,Computer Science
+624,Ohad,Computer Science
+625,Sarah,Computer Science
+626,John,Industrial Engineering & Management
+627,Ela,Computer Science
+628,Sarah,Economics
+629,Jerry,Computer Science
+630,Avishay,Economics
+631,Ela,Industrial Engineering & Management
+632,Dorit,Computer Science
+633,Keli,Industrial Engineering & Management
+634,Natasha,Computer Science
+635,Katia,Industrial Engineering & Management
+636,Ori,Computer Science
+637,Avishay,Economics
+638,Tair,Industrial Engineering & Management
+639,Brian,Computer Science
+640,Zohar,Economics
+641,Michael,Industrial Engineering & Management
+642,Idan,Economics
+643,Chen,Economics
+644,Eliran,Economics
+645,Tair,Industrial Engineering & Management
+646,Brian,Economics
+647,Nitzan,Economics
+648,Mor,Industrial Engineering & Management
+649,Ela,Industrial Engineering & Management
+650,Aviram,Industrial Engineering & Management
+651,Adele,Computer Science
+652,Tair,Economics
+653,Kevin,Computer Science
+654,Adele,Computer Science
+655,Chen,Computer Science
+656,Natasha,Economics
+657,Katia,Economics
+658,Kevin,Industrial Engineering & Management
+659,Ido,Computer Science
+660,Tamar,Industrial Engineering & Management
+661,Adele,Economics
+662,Ram,Economics
+663,Orly,Economics
+664,John,Economics
+665,Linda,Industrial Engineering & Management
+666,Ram,Economics
+667,Robin,Industrial Engineering & Management
+668,Michael,Industrial Engineering & Management
+669,Michael,Industrial Engineering & Management
+670,Nitzan,Industrial Engineering & Management
+671,Nati,Industrial Engineering & Management
+672,Talia,Computer Science
+673,Ram,Economics
+674,Tair,Computer Science
+675,Aviram,Economics
+676,Nitzan,Industrial Engineering & Management
+677,Kevin,Economics
+678,Mor,Industrial Engineering & Management
+679,Nitzan,Computer Science
+680,Tair,Industrial Engineering & Management
+681,Ohad,Computer Science
+682,Robin,Computer Science
+683,Ram,Computer Science
+684,Brian,Economics
+685,Billy,Economics
+686,John,Economics
+687,Adele,Industrial Engineering & Management
+688,Brian,Industrial Engineering & Management
+689,Tair,Economics
+690,Alex,Computer Science
+691,Tamar,Industrial Engineering & Management
+692,Adele,Industrial Engineering & Management
+693,Mor,Computer Science
+694,Ram,Economics
+695,Nati,Economics
+696,Tair,Economics
+697,Adele,Computer Science
+698,Billy,Computer Science
+699,Esther,Economics
+700,Tamar,Computer Science
+701,Tair,Computer Science
+702,Ido,Industrial Engineering & Management
+703,Keli,Economics
+704,Ela,Computer Science
+705,Orly,Industrial Engineering & Management
+706,Adele,Computer Science
+707,Tair,Industrial Engineering & Management
+708,Tair,Economics
+709,Tair,Industrial Engineering & Management
+710,Ori,Economics
+711,Brian,Industrial Engineering & Management
+712,Sapir,Economics
+713,Or,Industrial Engineering & Management
+714,Nati,Economics
+715,Brian,Economics
+716,Adam,Economics
+717,Eliran,Computer Science
+718,Nati,Economics
+719,Kevin,Computer Science
+720,Billy,Computer Science
+721,Adam,Economics
+722,Idan,Economics
+723,Jerry,Economics
+724,Ori,Economics
+725,Mor,Economics
+726,Zohar,Economics
+727,Idan,Computer Science
+728,Jerry,Economics
+729,Adam,Industrial Engineering & Management
+730,Linda,Industrial Engineering & Management
+731,Ori,Industrial Engineering & Management
+732,Kevin,Computer Science
+733,Adam,Computer Science
+734,Linda,Industrial Engineering & Management
+735,Or,Economics
+736,Avraham,Industrial Engineering & Management
+737,Ram,Industrial Engineering & Management
+738,Adam,Computer Science
+739,Natasha,Industrial Engineering & Management
+740,Aviram,Economics
+741,Ram,Industrial Engineering & Management
+742,John,Industrial Engineering & Management
+743,Billy,Computer Science
+744,Kevin,Economics
+745,Jerry,Economics
+746,Brian,Industrial Engineering & Management
+747,Linda,Economics
+748,Brian,Computer Science
+749,Robin,Computer Science
+750,Keli,Economics
+751,Eliran,Economics
+752,Ariel,Economics
+753,Brian,Computer Science
+754,Ariel,Economics
+755,Ram,Economics
+756,Aviram,Computer Science
+757,Ori,Economics
+758,Ori,Economics
+759,Kevin,Economics
+760,Zohar,Industrial Engineering & Management
+761,Ram,Economics
+762,Tair,Economics
+763,Ido,Economics
+764,Jerry,Computer Science
+765,Keli,Economics
+766,Sapir,Computer Science
+767,Esther,Computer Science
+768,Or,Economics
+769,Ido,Industrial Engineering & Management
+770,Danny,Economics
+771,Nati,Industrial Engineering & Management
+772,Kevin,Economics
+773,Aviram,Economics
+774,Mor,Economics
+775,Avraham,Economics
+776,Dorit,Industrial Engineering & Management
+777,Adam,Computer Science
+778,Danny,Industrial Engineering & Management
+779,Alex,Computer Science
+780,Nati,Industrial Engineering & Management
+781,Alex,Industrial Engineering & Management
+782,Sarah,Economics
+783,Sapir,Computer Science
+784,Keli,Industrial Engineering & Management
+785,Natasha,Industrial Engineering & Management
+786,Ariel,Economics
+787,Ariel,Economics
+788,Adam,Computer Science
+789,Or,Computer Science
+790,Kevin,Computer Science
+791,Ori,Industrial Engineering & Management
+792,John,Computer Science
+793,Talia,Computer Science
+794,Avishay,Computer Science
+795,Zohar,Economics
+796,Ram,Economics
+797,Jerry,Industrial Engineering & Management
+798,Chen,Economics
+799,Dorit,Economics
+800,Ohad,Industrial Engineering & Management
+801,Tair,Economics
+802,Linda,Computer Science
+803,Ohad,Economics
+804,Ori,Computer Science
+805,Jerry,Computer Science
+806,Avishay,Industrial Engineering & Management
+807,Ariel,Computer Science
+808,Ohad,Economics
+809,Linda,Computer Science
+810,Linda,Economics
+811,Ori,Industrial Engineering & Management
+812,Michael,Industrial Engineering & Management
+813,Robin,Industrial Engineering & Management
+814,Ariel,Computer Science
+815,Sarah,Industrial Engineering & Management
+816,Ohad,Computer Science
+817,Avishay,Industrial Engineering & Management
+818,Brian,Economics
+819,Chen,Industrial Engineering & Management
+820,Katia,Economics
+821,Kevin,Economics
+822,Mor,Industrial Engineering & Management
+823,Zohar,Industrial Engineering & Management
+824,Ela,Industrial Engineering & Management
+825,Kevin,Economics
+826,Orly,Computer Science
+827,Zohar,Economics
+828,Ela,Computer Science
+829,Adam,Industrial Engineering & Management
+830,Esther,Industrial Engineering & Management
+831,Idan,Industrial Engineering & Management
+832,Avishay,Economics
+833,Sapir,Economics
+834,Katia,Computer Science
+835,Ram,Industrial Engineering & Management
+836,Jerry,Economics
+837,Robin,Computer Science
+838,Robin,Economics
+839,Linda,Industrial Engineering & Management
+840,Or,Economics
+841,Nati,Computer Science
+842,Zohar,Economics
+843,John,Computer Science
+844,Danny,Economics
+845,Adele,Computer Science
+846,Michael,Economics
+847,Billy,Computer Science
+848,Ela,Computer Science
+849,Tair,Computer Science
+850,Natasha,Computer Science
+851,Adam,Economics
+852,Ohad,Computer Science
+853,Linda,Economics
+854,Chen,Industrial Engineering & Management
+855,Ram,Industrial Engineering & Management
+856,Danny,Economics
+857,Nitzan,Computer Science
+858,Tamar,Computer Science
+859,Alex,Industrial Engineering & Management
+860,Mor,Industrial Engineering & Management
+861,Ela,Industrial Engineering & Management
+862,Dorit,Industrial Engineering & Management
+863,Dorit,Computer Science
+864,Linda,Industrial Engineering & Management
+865,Alex,Industrial Engineering & Management
+866,Alex,Industrial Engineering & Management
+867,John,Industrial Engineering & Management
+868,Brian,Economics
+869,Billy,Computer Science
+870,Chen,Economics
+871,Adele,Computer Science
+872,Chen,Industrial Engineering & Management
+873,Ariel,Economics
+874,Billy,Industrial Engineering & Management
+875,Brian,Industrial Engineering & Management
+876,John,Computer Science
+877,Nati,Industrial Engineering & Management
+878,Sapir,Computer Science
+879,Ohad,Economics
+880,Ela,Economics
+881,Billy,Industrial Engineering & Management
+882,Kevin,Economics
+883,Tamar,Computer Science
+884,Aviram,Computer Science
+885,Linda,Computer Science
+886,Robin,Economics
+887,Adam,Industrial Engineering & Management
+888,Kevin,Economics
+889,Chen,Economics
+890,Brian,Computer Science
+891,Talia,Industrial Engineering & Management
+892,Avishay,Computer Science
+893,Adam,Economics
+894,Ariel,Industrial Engineering & Management
+895,Linda,Computer Science
+896,Alex,Industrial Engineering & Management
+897,Sapir,Computer Science
+898,Michael,Computer Science
+899,Tamar,Computer Science
+900,Zohar,Computer Science
+901,Danny,Industrial Engineering & Management
+902,Michael,Industrial Engineering & Management
+903,Ela,Industrial Engineering & Management
+904,Adele,Economics
+905,Ram,Computer Science
+906,Orly,Economics
+907,Kevin,Computer Science
+908,Or,Industrial Engineering & Management
+909,John,Industrial Engineering & Management
+910,Danny,Computer Science
+911,Sapir,Computer Science
+912,Chen,Computer Science
+913,Chen,Industrial Engineering & Management
+914,Jerry,Economics
+915,Danny,Industrial Engineering & Management
+916,Tamar,Computer Science
+917,Aviram,Economics
+918,Keli,Industrial Engineering & Management
+919,Ohad,Industrial Engineering & Management
+920,Eliran,Industrial Engineering & Management
+921,Danny,Economics
+922,Robin,Industrial Engineering & Management
+923,Orly,Computer Science
+924,Danny,Industrial Engineering & Management
+925,Eliran,Economics
+926,Aviram,Industrial Engineering & Management
+927,Natasha,Economics
+928,Ram,Economics
+929,Orly,Computer Science
+930,Avishay,Computer Science
+931,Or,Industrial Engineering & Management
+932,Tair,Computer Science
+933,Ido,Computer Science
+934,Adam,Computer Science
+935,Tamar,Economics
+936,Keli,Economics
+937,Avishay,Economics
+938,Brian,Industrial Engineering & Management
+939,Chen,Industrial Engineering & Management
+940,Sapir,Industrial Engineering & Management
+941,Zohar,Economics
+942,Katia,Computer Science
+943,Alex,Industrial Engineering & Management
+944,Avraham,Computer Science
+945,Sarah,Computer Science
+946,Ido,Computer Science
+947,Ela,Industrial Engineering & Management
+948,Katia,Industrial Engineering & Management
+949,John,Industrial Engineering & Management
+950,Ido,Industrial Engineering & Management
+951,Talia,Economics
+952,Katia,Economics
+953,Dorit,Computer Science
+954,Natasha,Computer Science
+955,Adele,Computer Science
+956,Adele,Computer Science
+957,Brian,Industrial Engineering & Management
+958,Eliran,Economics
+959,Idan,Industrial Engineering & Management
+960,Nitzan,Industrial Engineering & Management
+961,Avraham,Computer Science
+962,Talia,Economics
+963,Ela,Industrial Engineering & Management
+964,Dorit,Economics
+965,Chen,Industrial Engineering & Management
+966,Orly,Computer Science
+967,Keli,Computer Science
+968,Tair,Computer Science
+969,Robin,Industrial Engineering & Management
+970,Esther,Computer Science
+971,Kevin,Economics
+972,Adam,Economics
+973,Michael,Computer Science
+974,Sarah,Computer Science
+975,Avishay,Industrial Engineering & Management
+976,John,Industrial Engineering & Management
+977,Chen,Industrial Engineering & Management
+978,Tair,Economics
+979,Tamar,Economics
+980,Mor,Computer Science
+981,Sarah,Computer Science
+982,Ram,Industrial Engineering & Management
+983,Kevin,Economics
+984,Danny,Economics
+985,Talia,Industrial Engineering & Management
+986,Ido,Industrial Engineering & Management
+987,Kevin,Industrial Engineering & Management
+988,Ela,Economics
+989,Dorit,Economics
+990,Tair,Industrial Engineering & Management
+991,Mor,Computer Science
+992,Avishay,Computer Science
+993,Avraham,Computer Science
+994,Sapir,Economics
+995,Tair,Economics
+996,Zohar,Industrial Engineering & Management
+997,Dorit,Economics
+998,Zohar,Industrial Engineering & Management
+999,Or,Computer Science
+1000,Jerry,Computer Science
+1001,Sarah,Industrial Engineering & Management
+1002,Alex,Economics
+1003,Danny,Computer Science
+1004,Avishay,Industrial Engineering & Management
+1005,Avishay,Economics
+1006,Nitzan,Computer Science
+1007,Robin,Economics
+1008,Tamar,Industrial Engineering & Management
+1009,Linda,Industrial Engineering & Management
+1010,Ohad,Industrial Engineering & Management
+1011,Orly,Economics
+1012,Tamar,Computer Science
+1013,Tamar,Industrial Engineering & Management
+1014,Ido,Economics
+1015,Jerry,Computer Science
+1016,Keli,Industrial Engineering & Management
+1017,Tair,Economics
+1018,Dorit,Economics
+1019,Ohad,Economics
+1020,John,Economics
+1021,Ido,Industrial Engineering & Management
+1022,Adam,Computer Science
+1023,Chen,Economics
+1024,Ram,Industrial Engineering & Management
+1025,Keli,Computer Science
+1026,Avishay,Industrial Engineering & Management
+1027,Adele,Computer Science
+1028,Adam,Economics
+1029,Natasha,Industrial Engineering & Management
+1030,Avraham,Economics
+1031,Keli,Economics
+1032,Nitzan,Economics
+1033,Keli,Industrial Engineering & Management
+1034,Ram,Computer Science
+1035,Chen,Economics
+1036,Ariel,Computer Science
+1037,Ido,Computer Science
+1038,Alex,Industrial Engineering & Management
+1039,Natasha,Computer Science
+1040,John,Computer Science
+1041,Avishay,Computer Science
+1042,Michael,Economics
+1043,Michael,Computer Science
+1044,Ela,Computer Science
+1045,Alex,Industrial Engineering & Management
+1046,Nitzan,Computer Science
+1047,Ido,Industrial Engineering & Management
+1048,Brian,Industrial Engineering & Management
+1049,Ram,Computer Science
+1050,Ohad,Economics
+1051,Brian,Industrial Engineering & Management
+1052,Idan,Computer Science
+1053,Keli,Industrial Engineering & Management
+1054,Avishay,Computer Science
+1055,Avishay,Industrial Engineering & Management
+1056,Or,Industrial Engineering & Management
+1057,Keli,Industrial Engineering & Management
+1058,Tair,Industrial Engineering & Management
+1059,Alex,Economics
+1060,Nitzan,Industrial Engineering & Management
+1061,Chen,Computer Science
+1062,Ela,Computer Science
+1063,Avraham,Industrial Engineering & Management
+1064,Ori,Industrial Engineering & Management
+1065,Robin,Computer Science
+1066,Mor,Economics
+1067,Kevin,Industrial Engineering & Management
+1068,Mor,Industrial Engineering & Management
+1069,Or,Economics
+1070,Talia,Economics
+1071,Sapir,Industrial Engineering & Management
+1072,Ariel,Economics
+1073,Zohar,Computer Science
+1074,Linda,Economics
+1075,Brian,Economics
+1076,Adele,Economics
+1077,Aviram,Industrial Engineering & Management
+1078,Alex,Computer Science
+1079,Dorit,Economics
+1080,Orly,Economics
+1081,Sapir,Economics
+1082,Sarah,Economics
+1083,Tair,Computer Science
+1084,Sapir,Computer Science
+1085,Kevin,Computer Science
+1086,Natasha,Economics
+1087,Orly,Industrial Engineering & Management
+1088,Orly,Computer Science
+1089,Or,Computer Science
+1090,Danny,Industrial Engineering & Management
+1091,John,Economics
+1092,Ori,Economics
+1093,Natasha,Computer Science
+1094,Ariel,Computer Science
+1095,Sarah,Industrial Engineering & Management
+1096,Ariel,Computer Science
+1097,Billy,Industrial Engineering & Management
+1098,Danny,Economics
+1099,Avraham,Computer Science
+1100,Adam,Economics
+1101,Danny,Economics
+1102,Eliran,Computer Science
+1103,Sarah,Economics
+1104,Natasha,Industrial Engineering & Management
+1105,Esther,Computer Science
+1106,Dorit,Computer Science
+1107,Adam,Industrial Engineering & Management
+1108,Robin,Industrial Engineering & Management
+1109,Tamar,Computer Science
+1110,Ori,Economics
+1111,Keli,Industrial Engineering & Management
+1112,Ariel,Economics
+1113,Natasha,Computer Science
+1114,Kevin,Computer Science
+1115,Ori,Industrial Engineering & Management
+1116,Ela,Economics
+1117,Adele,Computer Science
+1118,Brian,Computer Science
+1119,Ohad,Industrial Engineering & Management
+1120,Aviram,Computer Science
+1121,Kevin,Computer Science
+1122,Tamar,Computer Science
+1123,Avraham,Economics
+1124,Ariel,Economics
+1125,Tair,Industrial Engineering & Management
+1126,Eliran,Industrial Engineering & Management
+1127,Ori,Computer Science
+1128,Adam,Industrial Engineering & Management
+1129,Billy,Economics
+1130,Tamar,Economics
+1131,Ohad,Economics
+1132,Tair,Industrial Engineering & Management
+1133,Or,Industrial Engineering & Management
+1134,Linda,Industrial Engineering & Management
+1135,Ori,Industrial Engineering & Management
+1136,Ariel,Computer Science
+1137,Sarah,Industrial Engineering & Management
+1138,Jerry,Economics
+1139,John,Economics
+1140,Mor,Computer Science
+1141,Katia,Computer Science
+1142,Chen,Computer Science
+1143,Kevin,Economics
+1144,Robin,Computer Science
+1145,Sarah,Industrial Engineering & Management
+1146,Tair,Economics
+1147,Tamar,Economics
+1148,Brian,Industrial Engineering & Management
+1149,Adam,Industrial Engineering & Management
+1150,Katia,Computer Science
+1151,Ido,Economics
+1152,Esther,Industrial Engineering & Management
+1153,Eliran,Computer Science
+1154,Ariel,Computer Science
+1155,Avishay,Computer Science
+1156,Talia,Economics
+1157,Esther,Industrial Engineering & Management
+1158,Billy,Economics
+1159,Jerry,Computer Science
+1160,Talia,Computer Science
+1161,Natasha,Computer Science
+1162,Avishay,Computer Science
+1163,Avraham,Industrial Engineering & Management
+1164,Ori,Economics
+1165,Ariel,Economics
+1166,Billy,Computer Science
+1167,Talia,Computer Science
+1168,Ohad,Industrial Engineering & Management
+1169,John,Computer Science
+1170,Or,Economics
+1171,Keli,Computer Science
+1172,Orly,Industrial Engineering & Management
+1173,John,Industrial Engineering & Management
+1174,Brian,Industrial Engineering & Management
+1175,Brian,Industrial Engineering & Management
+1176,Kevin,Computer Science
+1177,Ido,Economics
+1178,Danny,Industrial Engineering & Management
+1179,Kevin,Economics
+1180,Sarah,Computer Science
+1181,Nitzan,Computer Science
+1182,Billy,Industrial Engineering & Management
+1183,Esther,Industrial Engineering & Management
+1184,Esther,Computer Science
+1185,Ohad,Industrial Engineering & Management
+1186,Ido,Computer Science
+1187,Avraham,Industrial Engineering & Management
+1188,Orly,Industrial Engineering & Management
+1189,Nati,Computer Science
+1190,Kevin,Economics
+1191,Robin,Computer Science
+1192,Idan,Economics
+1193,Orly,Economics
+1194,Kevin,Computer Science
+1195,Kevin,Computer Science
+1196,Ori,Computer Science
+1197,Or,Computer Science
+1198,Tair,Computer Science
+1199,Brian,Industrial Engineering & Management
+1200,Mor,Industrial Engineering & Management
+1201,Kevin,Industrial Engineering & Management
+1202,Adam,Industrial Engineering & Management
+1203,Ela,Industrial Engineering & Management
+1204,Talia,Industrial Engineering & Management
+1205,Robin,Economics
+1206,Katia,Economics
+1207,Ohad,Computer Science
+1208,Ori,Economics
+1209,Ido,Computer Science
+1210,Zohar,Industrial Engineering & Management
+1211,Nati,Economics
+1212,Avishay,Economics
+1213,Aviram,Computer Science
+1214,Nati,Industrial Engineering & Management
+1215,Aviram,Economics
+1216,Avraham,Economics
+1217,Ido,Economics
+1218,Natasha,Industrial Engineering & Management
+1219,John,Computer Science
+1220,Talia,Economics
+1221,Kevin,Industrial Engineering & Management
+1222,Robin,Economics
+1223,Tamar,Computer Science
+1224,Ido,Industrial Engineering & Management
+1225,Nitzan,Computer Science
+1226,Eliran,Economics
+1227,Ori,Economics
+1228,John,Economics
+1229,Nati,Economics
+1230,Adele,Computer Science
+1231,Kevin,Industrial Engineering & Management
+1232,Orly,Industrial Engineering & Management
+1233,Sapir,Computer Science
+1234,Ori,Computer Science
+1235,Avishay,Computer Science
+1236,Idan,Computer Science
+1237,Dorit,Industrial Engineering & Management
+1238,Ori,Economics
+1239,Aviram,Computer Science
+1240,Natasha,Industrial Engineering & Management
+1241,Or,Economics
+1242,Ela,Economics
+1243,Chen,Computer Science
+1244,Jerry,Industrial Engineering & Management
+1245,Chen,Computer Science
+1246,Chen,Industrial Engineering & Management
+1247,Orly,Industrial Engineering & Management
+1248,Linda,Industrial Engineering & Management
+1249,Orly,Industrial Engineering & Management
+1250,Nitzan,Economics
+1251,Kevin,Computer Science
+1252,Chen,Economics
+1253,Sarah,Computer Science
+1254,Nitzan,Industrial Engineering & Management
+1255,Ori,Economics
+1256,Or,Economics
+1257,Avraham,Computer Science
+1258,Ela,Industrial Engineering & Management
+1259,Kevin,Economics
+1260,Alex,Computer Science
+1261,Dorit,Industrial Engineering & Management
+1262,Chen,Economics
+1263,Danny,Computer Science
+1264,Kevin,Economics
+1265,Brian,Industrial Engineering & Management
+1266,Ela,Industrial Engineering & Management
+1267,Adele,Economics
+1268,Eliran,Industrial Engineering & Management
+1269,Avraham,Industrial Engineering & Management
+1270,Avraham,Industrial Engineering & Management
+1271,Ido,Economics
+1272,Kevin,Industrial Engineering & Management
+1273,Dorit,Economics
+1274,Sapir,Computer Science
+1275,Ela,Industrial Engineering & Management
+1276,Brian,Industrial Engineering & Management
+1277,Alex,Industrial Engineering & Management
+1278,Sarah,Industrial Engineering & Management
+1279,Danny,Economics
+1280,Nati,Computer Science
+1281,Dorit,Industrial Engineering & Management
+1282,Adam,Computer Science
+1283,Chen,Industrial Engineering & Management
+1284,Michael,Computer Science
+1285,Orly,Computer Science
+1286,Dorit,Economics
+1287,Natasha,Economics
+1288,Eliran,Economics
+1289,Avraham,Economics
+1290,Alex,Industrial Engineering & Management
+1291,Esther,Industrial Engineering & Management
+1292,Eliran,Industrial Engineering & Management
+1293,Kevin,Industrial Engineering & Management
+1294,Avraham,Economics
+1295,Orly,Economics
+1296,Ohad,Economics
+1297,Talia,Economics
+1298,Orly,Economics
+1299,Nati,Computer Science
+1300,Jerry,Industrial Engineering & Management
+1301,Ori,Computer Science
+1302,Aviram,Industrial Engineering & Management
+1303,Michael,Computer Science
+1304,Ohad,Computer Science
+1305,Danny,Industrial Engineering & Management
+1306,Ohad,Computer Science
+1307,Chen,Economics
+1308,Ariel,Economics
+1309,Kevin,Industrial Engineering & Management
+1310,Kevin,Industrial Engineering & Management
+1311,Michael,Economics
+1312,Aviram,Economics
+1313,Kevin,Economics
+1314,Ido,Industrial Engineering & Management
+1315,Ela,Industrial Engineering & Management
+1316,Idan,Computer Science
+1317,Esther,Computer Science
+1318,Adele,Economics
+1319,Linda,Economics
+1320,Ido,Computer Science
+1321,Michael,Computer Science
+1322,Robin,Computer Science
+1323,Tair,Economics
+1324,Adam,Computer Science
+1325,Robin,Computer Science
+1326,Robin,Industrial Engineering & Management
+1327,Idan,Industrial Engineering & Management
+1328,Katia,Computer Science
+1329,Robin,Computer Science
+1330,Alex,Economics
+1331,Ram,Economics
+1332,Ram,Industrial Engineering & Management
+1333,Ariel,Computer Science
+1334,Ela,Industrial Engineering & Management
+1335,Robin,Industrial Engineering & Management
+1336,Mor,Computer Science
+1337,Dorit,Industrial Engineering & Management
+1338,Adam,Economics
+1339,Esther,Industrial Engineering & Management
+1340,Sapir,Computer Science
+1341,Michael,Computer Science
+1342,Zohar,Computer Science
+1343,Orly,Economics
+1344,Natasha,Industrial Engineering & Management
+1345,Ariel,Economics
+1346,Eliran,Industrial Engineering & Management
+1347,Mor,Economics
+1348,Kevin,Industrial Engineering & Management
+1349,Michael,Industrial Engineering & Management
+1350,John,Economics
+1351,Talia,Computer Science
+1352,Ariel,Industrial Engineering & Management
+1353,Katia,Computer Science
+1354,Kevin,Economics
+1355,Brian,Computer Science
+1356,Robin,Economics
+1357,Nitzan,Computer Science
+1358,Eliran,Computer Science
+1359,Brian,Industrial Engineering & Management
+1360,Ela,Industrial Engineering & Management
+1361,Nitzan,Industrial Engineering & Management
+1362,Ido,Industrial Engineering & Management
+1363,Katia,Industrial Engineering & Management
+1364,Brian,Computer Science
+1365,John,Economics
+1366,Dorit,Economics
+1367,Adele,Industrial Engineering & Management
+1368,Kevin,Economics
+1369,Keli,Computer Science
+1370,Keli,Computer Science
+1371,Ariel,Computer Science
+1372,Kevin,Economics
+1373,Sarah,Industrial Engineering & Management
+1374,Orly,Industrial Engineering & Management
+1375,Adele,Economics
+1376,Adele,Computer Science
+1377,Tair,Industrial Engineering & Management
+1378,Linda,Economics
+1379,Talia,Economics
+1380,Avraham,Industrial Engineering & Management
+1381,Tair,Computer Science
+1382,Robin,Computer Science
+1383,Or,Economics
+1384,Billy,Industrial Engineering & Management
+1385,Sapir,Industrial Engineering & Management
+1386,Ela,Computer Science
+1387,Talia,Economics
+1388,Billy,Industrial Engineering & Management
+1389,Natasha,Economics
+1390,Aviram,Economics
+1391,Keli,Economics
+1392,Ori,Economics
+1393,Nitzan,Computer Science
+1394,Mor,Economics
+1395,Ohad,Computer Science
+1396,Kevin,Industrial Engineering & Management
+1397,Sapir,Industrial Engineering & Management
+1398,Idan,Economics
+1399,Idan,Computer Science
+1400,Nitzan,Industrial Engineering & Management
+1401,Ram,Computer Science
+1402,Ohad,Economics
+1403,Avraham,Computer Science
+1404,Alex,Industrial Engineering & Management
+1405,Natasha,Economics
+1406,Mor,Industrial Engineering & Management
+1407,Tamar,Economics
+1408,Adele,Economics
+1409,Mor,Industrial Engineering & Management
+1410,Kevin,Economics
+1411,Danny,Economics
+1412,Michael,Economics
+1413,Orly,Industrial Engineering & Management
+1414,Sarah,Computer Science
+1415,Adele,Industrial Engineering & Management
+1416,Ela,Computer Science
+1417,Katia,Industrial Engineering & Management
+1418,Or,Computer Science
+1419,John,Economics
+1420,Avishay,Industrial Engineering & Management
+1421,Dorit,Computer Science
+1422,Michael,Computer Science
+1423,Katia,Economics
+1424,Ram,Computer Science
+1425,Talia,Computer Science
+1426,Ori,Economics
+1427,Adam,Computer Science
+1428,Idan,Economics
+1429,Nitzan,Industrial Engineering & Management
+1430,Michael,Economics
+1431,Katia,Economics
+1432,Ariel,Industrial Engineering & Management
+1433,Sapir,Industrial Engineering & Management
+1434,Danny,Industrial Engineering & Management
+1435,John,Industrial Engineering & Management
+1436,Chen,Economics
+1437,Ariel,Computer Science
+1438,Nitzan,Economics
+1439,Dorit,Computer Science
+1440,Orly,Computer Science
+1441,Orly,Industrial Engineering & Management
+1442,Ori,Computer Science
+1443,Natasha,Computer Science
+1444,Zohar,Computer Science
+1445,Ido,Industrial Engineering & Management
+1446,Ram,Industrial Engineering & Management
+1447,Or,Economics
+1448,Dorit,Computer Science
+1449,Ohad,Economics
+1450,Avishay,Economics
+1451,Eliran,Industrial Engineering & Management
+1452,Avraham,Industrial Engineering & Management
+1453,Mor,Economics
+1454,Tair,Industrial Engineering & Management
+1455,Zohar,Computer Science
+1456,Chen,Computer Science
+1457,Eliran,Computer Science
+1458,Mor,Economics
+1459,Kevin,Economics
+1460,Zohar,Industrial Engineering & Management
+1461,Tair,Economics
+1462,Kevin,Industrial Engineering & Management
+1463,Idan,Computer Science
+1464,Keli,Industrial Engineering & Management
+1465,Ela,Economics
+1466,Kevin,Industrial Engineering & Management
+1467,Ido,Computer Science
+1468,Sapir,Computer Science
+1469,Keli,Computer Science
+1470,Brian,Economics
+1471,Aviram,Economics
+1472,Zohar,Computer Science
+1473,Mor,Economics
+1474,Sarah,Industrial Engineering & Management
+1475,Sarah,Computer Science
+1476,Michael,Computer Science
+1477,John,Industrial Engineering & Management
+1478,Idan,Computer Science
+1479,Avraham,Economics
+1480,Avishay,Industrial Engineering & Management
+1481,Nati,Computer Science
+1482,Avishay,Economics
+1483,Nati,Economics
+1484,Ido,Economics
+1485,Tamar,Industrial Engineering & Management
+1486,Talia,Industrial Engineering & Management
+1487,Linda,Economics
+1488,Zohar,Economics
+1489,Ram,Computer Science
+1490,Or,Economics
+1491,Tamar,Economics
+1492,Kevin,Industrial Engineering & Management
+1493,Kevin,Industrial Engineering & Management
+1494,Chen,Computer Science
+1495,Ela,Computer Science
+1496,Avraham,Industrial Engineering & Management
+1497,Sapir,Industrial Engineering & Management
+1498,Avishay,Industrial Engineering & Management
+1499,Brian,Industrial Engineering & Management
+1500,Tamar,Economics
+1501,Or,Economics
+1502,Eliran,Computer Science
+1503,Ori,Economics
+1504,Ohad,Economics
+1505,Nati,Industrial Engineering & Management
+1506,Katia,Computer Science
+1507,Sarah,Industrial Engineering & Management
+1508,Nati,Computer Science
+1509,Nati,Computer Science
+1510,Danny,Computer Science
+1511,Tair,Industrial Engineering & Management
+1512,Brian,Economics
+1513,Esther,Industrial Engineering & Management
+1514,Adele,Economics
+1515,Jerry,Industrial Engineering & Management
+1516,Chen,Computer Science
+1517,Chen,Economics
+1518,Keli,Computer Science
+1519,Adam,Computer Science
+1520,Alex,Economics
+1521,Alex,Industrial Engineering & Management
+1522,Linda,Computer Science
+1523,Avraham,Industrial Engineering & Management
+1524,Danny,Industrial Engineering & Management
+1525,Zohar,Economics
+1526,Chen,Computer Science
+1527,Zohar,Industrial Engineering & Management
+1528,Ido,Computer Science
+1529,Nati,Economics
+1530,Keli,Industrial Engineering & Management
+1531,Eliran,Industrial Engineering & Management
+1532,Ori,Economics
+1533,Tamar,Industrial Engineering & Management
+1534,Kevin,Computer Science
+1535,Mor,Industrial Engineering & Management
+1536,Mor,Economics
+1537,Alex,Economics
+1538,Ram,Economics
+1539,Sarah,Industrial Engineering & Management
+1540,Linda,Economics
+1541,Orly,Economics
+1542,Kevin,Computer Science
+1543,Esther,Economics
+1544,Avishay,Industrial Engineering & Management
+1545,Katia,Economics
+1546,Zohar,Industrial Engineering & Management
+1547,John,Computer Science
+1548,Avishay,Industrial Engineering & Management
+1549,Alex,Industrial Engineering & Management
+1550,Ohad,Computer Science
+1551,Chen,Economics
+1552,Sapir,Computer Science
+1553,Natasha,Computer Science
+1554,Ram,Economics
+1555,Danny,Computer Science
+1556,Adele,Computer Science
+1557,Ori,Industrial Engineering & Management
+1558,Nitzan,Industrial Engineering & Management
+1559,Ido,Industrial Engineering & Management
+1560,Tair,Industrial Engineering & Management
+1561,Jerry,Computer Science
+1562,Mor,Computer Science
+1563,Billy,Economics
+1564,Sarah,Economics
+1565,Keli,Industrial Engineering & Management
+1566,Nati,Economics
+1567,Zohar,Industrial Engineering & Management
+1568,Avraham,Economics
+1569,Natasha,Economics
+1570,Adele,Industrial Engineering & Management
+1571,Aviram,Economics
+1572,Zohar,Economics
+1573,Idan,Computer Science
+1574,Brian,Industrial Engineering & Management
+1575,Keli,Economics
+1576,Ido,Computer Science
+1577,Esther,Economics
+1578,Adam,Computer Science
+1579,Adele,Economics
+1580,Orly,Economics
+1581,Ori,Industrial Engineering & Management
+1582,Alex,Computer Science
+1583,Alex,Economics
+1584,Ori,Economics
+1585,Adam,Computer Science
+1586,Brian,Computer Science
+1587,Or,Computer Science
+1588,Eliran,Industrial Engineering & Management
+1589,Zohar,Industrial Engineering & Management
+1590,Mor,Industrial Engineering & Management
+1591,Natasha,Economics
+1592,Chen,Economics
+1593,Adam,Computer Science
+1594,Dorit,Computer Science
+1595,Dorit,Computer Science
+1596,Sarah,Industrial Engineering & Management
+1597,Brian,Industrial Engineering & Management
+1598,Or,Economics
+1599,Talia,Industrial Engineering & Management
+1600,Adele,Economics
+1601,Aviram,Industrial Engineering & Management
+1602,Danny,Economics
+1603,Dorit,Industrial Engineering & Management
+1604,Sarah,Economics
+1605,Zohar,Economics
+1606,Avraham,Computer Science
+1607,Chen,Economics
+1608,Or,Economics
+1609,Aviram,Industrial Engineering & Management
+1610,Alex,Computer Science
+1611,Natasha,Economics
+1612,Talia,Industrial Engineering & Management
+1613,Dorit,Industrial Engineering & Management
+1614,Ela,Economics
+1615,Adam,Computer Science
+1616,Dorit,Computer Science
+1617,Adam,Industrial Engineering & Management
+1618,Aviram,Computer Science
+1619,Chen,Computer Science
+1620,Ohad,Economics
+1621,Billy,Industrial Engineering & Management
+1622,Keli,Economics
+1623,Avraham,Industrial Engineering & Management
+1624,Nitzan,Industrial Engineering & Management
+1625,Or,Economics
+1626,Danny,Computer Science
+1627,Mor,Economics
+1628,Sapir,Economics
+1629,Ariel,Economics
+1630,Keli,Economics
+1631,Adele,Industrial Engineering & Management
+1632,Katia,Industrial Engineering & Management
+1633,Sapir,Industrial Engineering & Management
+1634,Michael,Economics
+1635,John,Industrial Engineering & Management
+1636,Chen,Industrial Engineering & Management
+1637,Adele,Industrial Engineering & Management
+1638,Nati,Economics
+1639,Or,Computer Science
+1640,Esther,Computer Science
+1641,Sapir,Economics
+1642,Zohar,Economics
+1643,Alex,Computer Science
+1644,Robin,Computer Science
+1645,Ohad,Computer Science
+1646,Chen,Industrial Engineering & Management
+1647,Sapir,Computer Science
+1648,Nati,Industrial Engineering & Management
+1649,Katia,Industrial Engineering & Management
+1650,Ori,Computer Science
+1651,Adele,Economics
+1652,Eliran,Industrial Engineering & Management
+1653,Mor,Computer Science
+1654,Esther,Industrial Engineering & Management
+1655,Ohad,Computer Science
+1656,Chen,Computer Science
+1657,Esther,Economics
+1658,Jerry,Industrial Engineering & Management
+1659,Nitzan,Industrial Engineering & Management
+1660,Ori,Industrial Engineering & Management
+1661,Kevin,Computer Science
+1662,Zohar,Computer Science
+1663,Billy,Economics
+1664,Eliran,Industrial Engineering & Management
+1665,Ram,Computer Science
+1666,Ela,Industrial Engineering & Management
+1667,Avraham,Computer Science
+1668,Adele,Economics
+1669,Tamar,Computer Science
+1670,Ariel,Industrial Engineering & Management
+1671,Chen,Economics
+1672,Katia,Industrial Engineering & Management
+1673,Sapir,Economics
+1674,Brian,Industrial Engineering & Management
+1675,Eliran,Economics
+1676,Natasha,Computer Science
+1677,Orly,Industrial Engineering & Management
+1678,Sapir,Economics
+1679,Kevin,Economics
+1680,Billy,Economics
+1681,Natasha,Economics
+1682,Zohar,Industrial Engineering & Management
+1683,Ela,Industrial Engineering & Management
+1684,Avishay,Industrial Engineering & Management
+1685,Ohad,Computer Science
+1686,Jerry,Computer Science
+1687,Idan,Industrial Engineering & Management
+1688,Chen,Computer Science
+1689,Billy,Industrial Engineering & Management
+1690,Natasha,Computer Science
+1691,Linda,Industrial Engineering & Management
+1692,Dorit,Economics
+1693,Tamar,Economics
+1694,Robin,Computer Science
+1695,Or,Economics
+1696,Esther,Computer Science
+1697,John,Computer Science
+1698,Aviram,Economics
+1699,Ram,Computer Science
+1700,Esther,Economics
+1701,Ori,Economics
+1702,Natasha,Industrial Engineering & Management
+1703,Kevin,Industrial Engineering & Management
+1704,Kevin,Computer Science
+1705,Linda,Economics
+1706,Ohad,Economics
+1707,Idan,Industrial Engineering & Management
+1708,Or,Industrial Engineering & Management
+1709,Brian,Computer Science
+1710,Kevin,Computer Science
+1711,Chen,Industrial Engineering & Management
+1712,Adam,Economics
+1713,Avraham,Computer Science
+1714,Danny,Economics
+1715,Aviram,Computer Science
+1716,Esther,Industrial Engineering & Management
+1717,Robin,Economics
+1718,John,Industrial Engineering & Management
+1719,Avraham,Computer Science
+1720,Sapir,Industrial Engineering & Management
+1721,Adele,Economics
+1722,Sarah,Computer Science
+1723,Michael,Industrial Engineering & Management
+1724,Billy,Computer Science
+1725,Zohar,Computer Science
+1726,Mor,Economics
+1727,Avraham,Computer Science
+1728,Jerry,Computer Science
+1729,Sarah,Computer Science
+1730,Billy,Computer Science
+1731,Tair,Computer Science
+1732,Kevin,Economics
+1733,Ohad,Computer Science
+1734,Robin,Economics
+1735,Keli,Industrial Engineering & Management
+1736,Idan,Economics
+1737,Dorit,Computer Science
+1738,Ohad,Computer Science
+1739,Tair,Computer Science
+1740,Kevin,Industrial Engineering & Management
+1741,Katia,Economics
+1742,Ori,Economics
+1743,Linda,Economics
+1744,Alex,Economics
+1745,Tair,Economics
+1746,Nati,Economics
+1747,Kevin,Computer Science
+1748,Ori,Economics
+1749,Robin,Industrial Engineering & Management
+1750,Sapir,Industrial Engineering & Management
+1751,Eliran,Economics
+1752,Tamar,Computer Science
+1753,Brian,Computer Science
+1754,Talia,Industrial Engineering & Management
+1755,Avishay,Economics
+1756,Natasha,Industrial Engineering & Management
+1757,Natasha,Computer Science
+1758,Idan,Computer Science
+1759,Idan,Economics
+1760,Avishay,Economics
+1761,Talia,Industrial Engineering & Management
+1762,Jerry,Economics
+1763,Aviram,Computer Science
+1764,Adam,Economics
+1765,Brian,Computer Science
+1766,Robin,Industrial Engineering & Management
+1767,Dorit,Economics
+1768,Avraham,Industrial Engineering & Management
+1769,Ido,Computer Science
+1770,Avraham,Computer Science
+1771,Esther,Computer Science
+1772,Adam,Economics
+1773,Eliran,Computer Science
+1774,Tamar,Computer Science

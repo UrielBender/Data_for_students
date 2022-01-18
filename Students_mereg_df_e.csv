@@ -1,0 +1,1775 @@
+s_Id,First_Name,Attendance,Assignments_Avg,Overall_Avg,Stud_Preference,pass_test,Last_Name,department
+1,Danny,60,80,65,1,0,Maman,Computer Science
+2,Ariel,55,50,65,0,0,Ben-Moshe,Computer Science
+3,Robin,70,100,95,0,1,Itzhak,Industrial Engineering & Management
+4,Or,100,99,85,1,1,Shmuel,Economics
+5,Ram,95,84,75,1,1,Ben-Zvi,Economics
+6,Or,60,78,85,0,1,Haviv,Economics
+7,Keli,50,85,85,1,0,Ben-Moshe,Computer Science
+8,Ela,100,95,75,0,1,Avraham,Computer Science
+9,Danny,75,80,85,0,1,Desta,Industrial Engineering & Management
+10,Billy,55,79,85,1,0,Shalom,Industrial Engineering & Management
+11,Or,100,80,85,1,1,Haviv,Economics
+12,Avraham,100,89,85,1,1,Oved,Industrial Engineering & Management
+13,Tair,95,91,85,1,1,Ben-Zvi,Computer Science
+14,Eliran,100,98,85,0,0,Ben-Zvi,Economics
+15,Chen,65,96,85,0,0,Avraham,Computer Science
+16,Linda,85,81,85,1,0,Ben-Moshe,Industrial Engineering & Management
+17,Tamar,65,70,85,0,1,Oved,Industrial Engineering & Management
+18,Natasha,70,80,85,0,1,Atia,Economics
+19,Sapir,100,89,85,0,0,Nickolson,Economics
+20,Aviram,65,98,85,1,1,Ben-Zvi,Computer Science
+21,Aviram,100,97,95,0,0,Desta,Computer Science
+22,Ido,80,75,85,1,0,Atia,Computer Science
+23,Linda,95,80,65,0,0,Biton,Industrial Engineering & Management
+24,Michael,85,78,95,1,1,Porat,Economics
+25,Ram,100,90,65,1,0,Haviv,Computer Science
+26,Avishay,100,95,65,0,0,Maman,Industrial Engineering & Management
+27,Brian,100,95,75,0,1,Porat,Computer Science
+28,Tamar,70,79,75,0,1,Itzhak,Economics
+29,Orly,80,92,95,1,1,Shalom,Industrial Engineering & Management
+30,Dorit,70,95,95,0,1,Atia,Economics
+31,Sarah,65,55,95,0,0,Haviv,Industrial Engineering & Management
+32,Linda,90,95,75,1,1,Ben-Moshe,Industrial Engineering & Management
+33,Tair,100,86,85,0,0,Desta,Industrial Engineering & Management
+34,Adele,75,90,65,0,0,Ben-Zvi,Economics
+35,Adam,100,100,85,0,1,Avraham,Economics
+36,Katia,90,85,85,0,1,Nickolson,Computer Science
+37,Robin,90,95,85,0,1,Cohen,Industrial Engineering & Management
+38,Billy,70,100,85,0,1,Haviv,Computer Science
+39,Billy,65,80,85,0,1,Ben-Zvi,Computer Science
+40,Sapir,80,100,75,1,1,Shalom,Computer Science
+41,Ela,75,81,75,0,1,Ben-Zvi,Economics
+42,Jerry,55,55,95,1,0,Shalom,Computer Science
+43,Danny,80,93,95,1,1,Ben-Moshe,Industrial Engineering & Management
+44,Danny,90,80,85,1,1,Ben-Moshe,Computer Science
+45,Billy,100,100,75,0,1,Ben-Moshe,Economics
+46,Kevin,100,65,75,0,0,Itzhak,Computer Science
+47,Ariel,100,75,95,1,0,Deri,Industrial Engineering & Management
+48,Kevin,70,88,85,1,1,Nickolson,Computer Science
+49,Danny,55,96,85,0,0,Ben-Moshe,Industrial Engineering & Management
+50,Ido,90,88,65,0,0,Cohen,Computer Science
+51,Danny,90,78,85,0,1,Nickolson,Industrial Engineering & Management
+52,Eliran,55,55,85,0,0,Maman,Economics
+53,Jerry,100,85,95,0,1,Biton,Industrial Engineering & Management
+54,Sarah,100,88,95,1,1,Bar,Industrial Engineering & Management
+55,Sapir,80,85,85,1,1,Oved,Industrial Engineering & Management
+56,Brian,70,81,75,1,1,Cohen,Industrial Engineering & Management
+57,Danny,70,83,75,0,0,Porat,Economics
+58,Ori,60,85,85,1,1,Nickolson,Industrial Engineering & Management
+59,Brian,100,80,85,0,1,Ben-Moshe,Computer Science
+60,Zohar,100,83,65,1,0,Itzhak,Industrial Engineering & Management
+61,Sarah,50,78,95,0,0,Ben-Moshe,Computer Science
+62,Ori,90,80,65,0,0,Desta,Computer Science
+63,Ela,100,80,95,1,1,Cohen,Computer Science
+64,Sapir,65,94,75,0,1,Bar,Economics
+65,Orly,85,79,75,0,1,Shmuel,Computer Science
+66,Tair,90,81,75,1,1,Itzhak,Industrial Engineering & Management
+67,Tamar,70,83,95,1,1,Bar,Economics
+68,Talia,80,79,85,0,1,Shalom,Industrial Engineering & Management
+69,Or,90,80,65,0,0,Oved,Computer Science
+70,Aviram,75,78,85,0,1,Avraham,Industrial Engineering & Management
+71,Ela,50,65,65,0,0,Shmuel,Economics
+72,Esther,100,65,75,0,0,Bar,Industrial Engineering & Management
+73,Eliran,75,78,75,0,1,Maman,Computer Science
+74,Ori,60,100,95,1,1,Biton,Computer Science
+75,Or,60,88,85,1,1,Ben-Zvi,Computer Science
+76,Nati,80,93,65,0,0,Shmuel,Industrial Engineering & Management
+77,Jerry,95,100,85,0,1,Desta,Computer Science
+78,Danny,65,55,75,0,0,Deri,Computer Science
+79,Ori,100,100,85,0,1,Atia,Economics
+80,Chen,100,81,85,0,1,Ben-Moshe,Industrial Engineering & Management
+81,Katia,80,90,85,0,0,Bar,Economics
+82,Kevin,95,80,85,0,1,Bender,Computer Science
+83,Esther,90,78,85,1,0,Bender,Economics
+84,Tamar,50,65,85,1,0,Bender,Computer Science
+85,Ela,90,100,95,0,1,Bender,Computer Science
+86,Ori,55,80,85,1,0,Shmuel,Computer Science
+87,Adam,55,50,85,1,0,Atia,Computer Science
+88,Michael,55,50,85,1,0,Ben-Zvi,Computer Science
+89,Ido,70,83,95,0,1,Bar,Economics
+90,Ohad,100,83,85,1,1,Ben-Zvi,Industrial Engineering & Management
+91,Tair,100,100,65,0,0,Atia,Economics
+92,Linda,80,65,85,0,0,Shalom,Computer Science
+93,Billy,70,80,95,0,1,Maman,Industrial Engineering & Management
+94,Orly,100,79,95,1,1,Deri,Industrial Engineering & Management
+95,Jerry,90,83,85,0,1,Biton,Industrial Engineering & Management
+96,Talia,90,80,75,0,1,Itzhak,Computer Science
+97,Or,100,90,85,1,1,Nickolson,Industrial Engineering & Management
+98,John,80,89,85,0,1,Atia,Computer Science
+99,Adele,100,100,85,0,1,Shmuel,Economics
+100,Tair,80,55,95,1,0,Deri,Industrial Engineering & Management
+101,Sapir,90,83,75,1,1,Atia,Economics
+102,Idan,50,65,85,0,0,Nickolson,Economics
+103,Brian,100,89,75,1,1,Ben-Zvi,Industrial Engineering & Management
+104,Keli,95,98,85,1,1,Cohen,Economics
+105,Kevin,50,78,85,1,0,Avraham,Industrial Engineering & Management
+106,Chen,80,90,85,0,1,Ben-Moshe,Industrial Engineering & Management
+107,Sapir,65,94,75,1,1,Cohen,Economics
+108,Dorit,100,100,85,0,0,Desta,Economics
+109,Billy,100,78,95,1,1,Biton,Industrial Engineering & Management
+110,Mor,100,100,95,1,1,Shalom,Economics
+111,Jerry,80,88,85,1,1,Desta,Industrial Engineering & Management
+112,Or,70,95,85,1,1,Maman,Industrial Engineering & Management
+113,Kevin,90,100,85,1,1,Nickolson,Computer Science
+114,Nati,70,83,85,1,1,Nickolson,Economics
+115,Tair,90,84,85,1,0,Avraham,Economics
+116,Ela,95,81,85,1,1,Avraham,Industrial Engineering & Management
+117,Ido,55,50,85,0,0,Bar,Computer Science
+118,Natasha,80,85,85,0,1,Desta,Computer Science
+119,Sarah,55,55,85,1,0,Porat,Industrial Engineering & Management
+120,Avishay,100,88,85,1,1,Biton,Computer Science
+121,Eliran,55,55,85,0,0,Biton,Economics
+122,Chen,100,100,75,1,1,Haviv,Economics
+123,Ariel,75,94,85,0,1,Cohen,Computer Science
+124,Adam,80,75,85,0,0,Oved,Industrial Engineering & Management
+125,Eliran,90,93,85,1,1,Cohen,Computer Science
+126,Esther,70,83,85,1,1,Ben-Moshe,Economics
+127,Aviram,80,79,85,1,1,Itzhak,Computer Science
+128,John,100,100,85,0,1,Ben-Zvi,Economics
+129,Ori,75,80,85,0,1,Itzhak,Industrial Engineering & Management
+130,Ohad,90,80,65,1,0,Oved,Industrial Engineering & Management
+131,Ohad,90,92,75,1,1,Avraham,Computer Science
+132,Brian,65,84,75,1,0,Biton,Economics
+133,Dorit,80,78,75,0,1,Cohen,Industrial Engineering & Management
+134,Kevin,100,65,65,1,0,Nickolson,Industrial Engineering & Management
+135,Aviram,80,85,75,1,1,Haviv,Industrial Engineering & Management
+136,John,60,78,95,1,1,Itzhak,Industrial Engineering & Management
+137,Linda,95,98,85,1,1,Shmuel,Economics
+138,Kevin,70,78,75,0,1,Porat,Computer Science
+139,Nitzan,100,100,85,0,1,Haviv,Economics
+140,Or,100,80,95,1,1,Atia,Industrial Engineering & Management
+141,Kevin,65,88,65,0,0,Atia,Computer Science
+142,Ela,100,100,85,1,1,Ben-Zvi,Economics
+143,Idan,80,55,75,0,0,Desta,Computer Science
+144,Sapir,80,90,85,1,1,Haviv,Economics
+145,Chen,100,100,75,1,1,Avraham,Industrial Engineering & Management
+146,Sarah,65,80,95,0,1,Shmuel,Industrial Engineering & Management
+147,Kevin,80,90,85,1,1,Maman,Economics
+148,Avishay,90,81,95,0,1,Porat,Economics
+149,Adele,65,84,95,0,1,Haviv,Economics
+150,Jerry,70,84,75,0,1,Maman,Industrial Engineering & Management
+151,Tamar,85,100,75,1,1,Ben-Zvi,Industrial Engineering & Management
+152,John,75,88,85,1,1,Porat,Economics
+153,Brian,50,80,85,1,0,Haviv,Computer Science
+154,Brian,100,81,85,0,1,Avraham,Industrial Engineering & Management
+155,Ram,90,92,85,0,0,Deri,Economics
+156,Tamar,50,100,95,1,0,Cohen,Industrial Engineering & Management
+157,Nati,75,100,75,1,1,Nickolson,Computer Science
+158,Linda,80,79,85,0,1,Nickolson,Computer Science
+159,Ori,55,75,95,1,0,Cohen,Computer Science
+160,Or,70,83,85,0,1,Shalom,Economics
+161,Tamar,100,92,85,0,1,Oved,Computer Science
+162,Chen,55,55,95,1,0,Shmuel,Economics
+163,Ori,85,83,95,0,1,Oved,Industrial Engineering & Management
+164,Danny,85,79,95,1,1,Desta,Industrial Engineering & Management
+165,Aviram,80,92,75,0,1,Atia,Industrial Engineering & Management
+166,Chen,85,81,85,0,1,Haviv,Industrial Engineering & Management
+167,Alex,55,55,95,0,0,Itzhak,Economics
+168,Ram,90,94,85,1,1,Biton,Computer Science
+169,Ela,55,65,75,1,0,Bar,Computer Science
+170,Danny,75,95,85,1,1,Oved,Computer Science
+171,Natasha,100,100,75,0,1,Bar,Economics
+172,Keli,90,93,95,1,1,Avraham,Industrial Engineering & Management
+173,Kevin,90,83,85,1,1,Atia,Industrial Engineering & Management
+174,Billy,90,55,85,1,0,Itzhak,Computer Science
+175,Katia,95,98,95,0,1,Nickolson,Economics
+176,Katia,100,65,95,1,0,Desta,Industrial Engineering & Management
+177,Talia,100,100,85,1,1,Haviv,Economics
+178,Billy,100,65,75,1,0,Porat,Industrial Engineering & Management
+179,Orly,100,55,85,0,0,Oved,Computer Science
+180,Danny,100,100,75,0,1,Porat,Economics
+181,Nitzan,80,55,85,0,0,Ben-Zvi,Computer Science
+182,Nati,80,90,85,0,1,Deri,Economics
+183,Katia,75,93,85,0,1,Cohen,Economics
+184,Sarah,65,55,85,0,0,Desta,Industrial Engineering & Management
+185,Talia,55,65,85,1,0,Shmuel,Computer Science
+186,Zohar,100,92,75,0,1,Oved,Computer Science
+187,Ohad,95,79,65,1,0,Atia,Industrial Engineering & Management
+188,Talia,100,100,65,1,0,Porat,Economics
+189,John,90,92,75,1,1,Porat,Economics
+190,Billy,55,55,75,0,0,Desta,Economics
+191,Ori,85,100,95,1,1,Biton,Industrial Engineering & Management
+192,Ram,70,90,85,0,1,Shalom,Industrial Engineering & Management
+193,Robin,75,84,65,1,0,Porat,Economics
+194,Katia,90,92,75,0,0,Desta,Economics
+195,Ido,90,55,85,0,0,Shmuel,Industrial Engineering & Management
+196,Orly,80,90,85,0,1,Cohen,Computer Science
+197,Ram,55,63,75,0,0,Haviv,Computer Science
+198,Eliran,55,90,85,1,0,Nickolson,Industrial Engineering & Management
+199,Katia,50,65,95,1,0,Ben-Zvi,Economics
+200,Ariel,80,80,85,0,1,Deri,Industrial Engineering & Management
+201,Ido,100,100,85,1,1,Desta,Economics
+202,Ori,80,78,95,0,1,Haviv,Computer Science
+203,Zohar,65,93,65,1,0,Desta,Industrial Engineering & Management
+204,Orly,90,79,85,1,1,Atia,Industrial Engineering & Management
+205,Katia,100,89,95,0,1,Ben-Zvi,Industrial Engineering & Management
+206,Sapir,80,95,85,0,1,Porat,Computer Science
+207,Esther,100,100,95,0,0,Atia,Economics
+208,Or,65,84,85,1,1,Maman,Computer Science
+209,Adele,80,90,85,0,1,Biton,Economics
+210,Nitzan,100,100,65,0,0,Desta,Economics
+211,Sapir,50,65,75,1,0,Haviv,Economics
+212,Sapir,80,98,95,0,1,Shmuel,Economics
+213,Nati,100,88,95,1,1,Bar,Computer Science
+214,Ela,75,94,85,0,1,Avraham,Computer Science
+215,Ohad,100,81,85,0,1,Oved,Computer Science
+216,Esther,65,89,75,0,1,Shalom,Industrial Engineering & Management
+217,Robin,100,80,75,1,1,Biton,Computer Science
+218,John,70,95,75,1,1,Deri,Computer Science
+219,Brian,100,93,75,1,1,Nickolson,Computer Science
+220,Michael,55,79,95,1,0,Avraham,Industrial Engineering & Management
+221,Nitzan,80,80,85,1,1,Oved,Industrial Engineering & Management
+222,Avraham,75,80,75,0,1,Maman,Computer Science
+223,Michael,90,89,95,1,1,Cohen,Industrial Engineering & Management
+224,Adam,100,65,95,1,0,Avraham,Industrial Engineering & Management
+225,John,90,55,95,0,0,Itzhak,Computer Science
+226,Katia,90,80,75,1,1,Shmuel,Industrial Engineering & Management
+227,Keli,95,79,95,0,1,Avraham,Industrial Engineering & Management
+228,Ram,70,80,85,0,1,Nickolson,Industrial Engineering & Management
+229,Ela,60,95,95,0,1,Nickolson,Industrial Engineering & Management
+230,Kevin,90,75,75,0,0,Avraham,Industrial Engineering & Management
+231,Billy,85,55,75,0,0,Biton,Industrial Engineering & Management
+232,John,50,78,75,0,0,Porat,Industrial Engineering & Management
+233,Adam,50,65,75,0,0,Atia,Economics
+234,Aviram,100,75,65,0,0,Atia,Computer Science
+235,Nitzan,70,83,95,1,1,Nickolson,Economics
+236,Eliran,75,98,65,0,0,Nickolson,Economics
+237,Aviram,80,83,95,0,1,Deri,Industrial Engineering & Management
+238,Chen,80,94,75,1,1,Biton,Computer Science
+239,Robin,90,96,65,1,0,Maman,Industrial Engineering & Management
+240,Ido,75,84,95,0,1,Oved,Economics
+241,Ela,80,93,75,0,1,Bar,Economics
+242,Ela,65,100,75,0,1,Oved,Computer Science
+243,Tamar,50,55,85,0,0,Nickolson,Computer Science
+244,Natasha,55,92,85,1,0,Nickolson,Computer Science
+245,Keli,100,88,65,0,0,Shmuel,Computer Science
+246,Orly,80,100,85,1,1,Porat,Computer Science
+247,Mor,100,80,85,1,1,Haviv,Computer Science
+248,Katia,90,92,85,0,1,Haviv,Economics
+249,Robin,70,79,85,1,1,Deri,Computer Science
+250,Zohar,55,88,75,0,0,Ben-Moshe,Computer Science
+251,Avishay,100,92,85,1,1,Shalom,Industrial Engineering & Management
+252,Brian,50,55,95,1,0,Oved,Computer Science
+253,Idan,100,96,95,0,1,Shmuel,Industrial Engineering & Management
+254,Ela,90,80,85,0,1,Desta,Industrial Engineering & Management
+255,Nitzan,100,89,65,1,0,Porat,Industrial Engineering & Management
+256,Brian,90,80,75,1,1,Atia,Industrial Engineering & Management
+257,Jerry,75,65,95,0,0,Shalom,Industrial Engineering & Management
+258,Brian,100,93,95,0,1,Itzhak,Computer Science
+259,Orly,100,100,85,0,1,Ben-Moshe,Economics
+260,Avishay,85,83,75,1,1,Deri,Industrial Engineering & Management
+261,Billy,90,92,95,0,1,Deri,Economics
+262,Ohad,90,84,85,1,1,Haviv,Industrial Engineering & Management
+263,John,90,92,65,1,0,Atia,Computer Science
+264,John,70,78,75,0,1,Porat,Industrial Engineering & Management
+265,Keli,100,100,85,1,1,Avraham,Economics
+266,Ido,85,92,95,0,1,Avraham,Industrial Engineering & Management
+267,Ela,75,83,75,1,1,Shmuel,Computer Science
+268,Ori,80,65,85,0,0,Atia,Computer Science
+269,Aviram,55,55,75,1,0,Maman,Economics
+270,Brian,100,55,85,0,0,Atia,Computer Science
+271,Ori,65,94,85,1,1,Shalom,Computer Science
+272,Kevin,100,100,85,0,1,Ben-Moshe,Economics
+273,Jerry,65,85,65,0,0,Biton,Economics
+274,Avishay,70,78,95,0,1,Ben-Moshe,Industrial Engineering & Management
+275,Aviram,60,96,85,1,1,Nickolson,Computer Science
+276,Mor,100,100,85,0,1,Ben-Moshe,Economics
+277,Eliran,100,78,85,1,1,Maman,Computer Science
+278,Danny,55,78,75,0,0,Deri,Industrial Engineering & Management
+279,Zohar,80,90,85,0,1,Shmuel,Economics
+280,Kevin,70,88,85,0,1,Shmuel,Industrial Engineering & Management
+281,Tair,70,80,95,0,1,Avraham,Industrial Engineering & Management
+282,Idan,80,84,75,1,1,Bar,Computer Science
+283,Ela,100,92,85,1,1,Bar,Computer Science
+284,Brian,100,100,85,0,1,Itzhak,Computer Science
+285,Ram,80,94,95,0,1,Bar,Industrial Engineering & Management
+286,Ram,80,92,75,1,1,Porat,Computer Science
+287,Danny,55,90,95,1,0,Haviv,Industrial Engineering & Management
+288,Linda,100,78,85,0,1,Shalom,Industrial Engineering & Management
+289,Ram,70,80,85,1,1,Haviv,Industrial Engineering & Management
+290,Ido,75,84,75,1,1,Haviv,Economics
+291,Tamar,80,88,95,1,1,Ben-Moshe,Computer Science
+292,Ela,65,100,75,0,1,Desta,Computer Science
+293,Robin,60,94,85,0,1,Porat,Computer Science
+294,Adele,80,90,95,0,1,Shmuel,Economics
+295,Sapir,65,85,95,1,1,Shalom,Economics
+296,Alex,100,90,85,0,1,Nickolson,Computer Science
+297,Aviram,50,55,85,0,0,Itzhak,Computer Science
+298,Avraham,100,93,85,1,1,Bar,Industrial Engineering & Management
+299,John,100,100,95,1,1,Itzhak,Economics
+300,Linda,100,89,85,1,1,Ben-Moshe,Computer Science
+301,Keli,50,55,85,1,0,Shalom,Economics
+302,Adele,55,85,95,1,0,Shalom,Computer Science
+303,Ram,75,84,85,1,1,Maman,Economics
+304,Orly,100,88,95,1,1,Cohen,Industrial Engineering & Management
+305,Chen,80,92,85,0,1,Maman,Industrial Engineering & Management
+306,Or,85,90,65,1,0,Oved,Industrial Engineering & Management
+307,Esther,80,78,85,0,1,Cohen,Industrial Engineering & Management
+308,Ori,70,79,85,0,1,Nickolson,Computer Science
+309,Sapir,100,100,85,1,1,Avraham,Computer Science
+310,Linda,75,80,95,1,1,Itzhak,Computer Science
+311,Ram,70,83,95,0,1,Porat,Economics
+312,Eliran,65,88,75,1,1,Ben-Zvi,Industrial Engineering & Management
+313,Chen,50,55,85,1,0,Atia,Computer Science
+314,Ela,90,92,85,1,1,Porat,Economics
+315,Natasha,95,93,75,0,1,Desta,Computer Science
+316,Avraham,75,55,85,0,0,Cohen,Computer Science
+317,Natasha,100,93,95,0,1,Biton,Industrial Engineering & Management
+318,Nati,70,89,95,0,1,Cohen,Computer Science
+319,Billy,65,85,65,0,0,Atia,Economics
+320,Avishay,70,90,85,0,1,Cohen,Industrial Engineering & Management
+321,Dorit,100,88,65,1,0,Haviv,Computer Science
+322,Zohar,100,93,95,1,1,Ben-Zvi,Industrial Engineering & Management
+323,Brian,70,81,85,1,1,Deri,Industrial Engineering & Management
+324,Ram,100,100,85,0,1,Biton,Economics
+325,Avishay,80,95,85,0,1,Desta,Computer Science
+326,Or,100,100,85,1,1,Porat,Economics
+327,Sarah,85,93,65,1,0,Ben-Zvi,Computer Science
+328,Eliran,100,93,95,1,1,Itzhak,Industrial Engineering & Management
+329,Adele,70,83,75,0,1,Shalom,Industrial Engineering & Management
+330,Ram,70,78,85,0,1,Oved,Computer Science
+331,John,70,79,85,1,1,Cohen,Computer Science
+332,Nitzan,65,85,85,0,1,Nickolson,Economics
+333,Brian,100,94,75,0,1,Nickolson,Industrial Engineering & Management
+334,Alex,100,96,95,0,1,Biton,Computer Science
+335,Tair,90,100,95,0,1,Oved,Industrial Engineering & Management
+336,Alex,85,90,75,1,1,Cohen,Computer Science
+337,Keli,80,90,75,1,1,Atia,Economics
+338,Orly,100,100,85,1,1,Atia,Economics
+339,Brian,75,90,75,1,1,Maman,Computer Science
+340,Danny,85,90,85,1,1,Itzhak,Industrial Engineering & Management
+341,Ohad,100,100,95,1,1,Deri,Economics
+342,Nitzan,50,55,85,0,0,Deri,Industrial Engineering & Management
+343,Dorit,75,98,75,0,1,Ben-Moshe,Computer Science
+344,Orly,95,98,85,1,1,Avraham,Economics
+345,Ido,80,90,85,0,1,Maman,Economics
+346,Ido,55,55,95,1,0,Shmuel,Industrial Engineering & Management
+347,Eliran,100,65,75,0,0,Porat,Industrial Engineering & Management
+348,Idan,100,100,85,0,1,Haviv,Economics
+349,Sapir,75,80,85,0,1,Porat,Industrial Engineering & Management
+350,Ela,100,92,95,0,1,Atia,Industrial Engineering & Management
+351,Kevin,100,55,85,1,0,Nickolson,Computer Science
+352,Talia,95,98,65,0,0,Atia,Economics
+353,Michael,70,90,85,1,1,Maman,Computer Science
+354,Nati,90,65,95,1,0,Bar,Computer Science
+355,Ram,100,100,95,1,1,Oved,Economics
+356,Kevin,95,98,85,1,1,Desta,Economics
+357,Adele,100,80,85,0,1,Maman,Computer Science
+358,Brian,70,81,75,0,1,Bar,Computer Science
+359,Tair,90,83,95,1,1,Atia,Industrial Engineering & Management
+360,Eliran,100,100,85,0,1,Ben-Zvi,Economics
+361,Adele,100,100,95,1,1,Shmuel,Economics
+362,Sarah,70,83,65,1,0,Atia,Economics
+363,Brian,65,88,65,0,0,Ben-Moshe,Computer Science
+364,Keli,55,81,95,0,0,Desta,Computer Science
+365,Adele,70,85,85,1,1,Oved,Industrial Engineering & Management
+366,Sarah,100,98,65,0,0,Bar,Computer Science
+367,Talia,55,89,95,1,0,Bar,Computer Science
+368,Adam,100,100,85,1,0,Porat,Economics
+369,Aviram,85,93,85,1,1,Itzhak,Industrial Engineering & Management
+370,John,70,88,95,1,1,Ben-Zvi,Industrial Engineering & Management
+371,Tamar,90,88,75,0,1,Ben-Zvi,Industrial Engineering & Management
+372,Billy,75,84,75,0,1,Ben-Moshe,Economics
+373,Mor,100,89,95,1,1,Atia,Industrial Engineering & Management
+374,Kevin,90,92,85,0,1,Shalom,Economics
+375,Tamar,90,75,85,0,0,Oved,Computer Science
+376,Jerry,80,80,85,1,1,Haviv,Industrial Engineering & Management
+377,Ariel,75,84,95,1,1,Oved,Economics
+378,Ela,80,96,95,1,1,Ben-Zvi,Industrial Engineering & Management
+379,Billy,90,80,65,1,0,Haviv,Computer Science
+380,Danny,100,88,75,1,1,Deri,Computer Science
+381,Nitzan,80,81,85,0,1,Nickolson,Computer Science
+382,Aviram,95,100,85,0,1,Maman,Computer Science
+383,Ori,80,89,95,1,1,Bar,Industrial Engineering & Management
+384,Tamar,70,83,75,0,1,Ben-Zvi,Economics
+385,Danny,80,94,95,1,1,Itzhak,Computer Science
+386,Avraham,90,92,95,0,1,Avraham,Economics
+387,Avishay,100,100,65,0,0,Maman,Computer Science
+388,Michael,100,93,85,1,1,Deri,Computer Science
+389,Brian,55,92,85,0,0,Desta,Industrial Engineering & Management
+390,Linda,55,55,85,1,0,Bar,Economics
+391,John,90,92,85,0,1,Desta,Economics
+392,Ido,100,95,85,0,1,Nickolson,Industrial Engineering & Management
+393,Adam,90,92,95,0,1,Maman,Economics
+394,Keli,90,92,95,0,0,Oved,Economics
+395,Orly,100,94,95,1,1,Shmuel,Computer Science
+396,Ori,100,65,65,1,0,Atia,Industrial Engineering & Management
+397,Adele,100,78,95,1,1,Shalom,Computer Science
+398,Dorit,100,94,95,0,1,Atia,Computer Science
+399,Zohar,70,83,85,0,1,Atia,Economics
+400,Avraham,70,94,85,0,1,Shalom,Computer Science
+401,Or,95,80,95,0,1,Bar,Industrial Engineering & Management
+402,Tamar,100,93,75,1,1,Maman,Industrial Engineering & Management
+403,Mor,85,79,95,0,1,Porat,Industrial Engineering & Management
+404,Sarah,100,85,85,0,1,Nickolson,Computer Science
+405,Ori,100,65,85,0,0,Biton,Industrial Engineering & Management
+406,Tair,100,93,65,1,0,Maman,Industrial Engineering & Management
+407,Chen,100,100,75,0,1,Atia,Economics
+408,Tair,60,78,95,1,1,Deri,Computer Science
+409,Natasha,80,84,85,0,1,Ben-Moshe,Industrial Engineering & Management
+410,Aviram,75,84,95,0,0,Cohen,Economics
+411,Tair,80,78,75,1,1,Desta,Computer Science
+412,Danny,100,79,85,0,1,Ben-Moshe,Computer Science
+413,Ido,90,92,95,1,1,Haviv,Industrial Engineering & Management
+414,Katia,55,50,85,1,0,Atia,Computer Science
+415,Ori,75,84,75,0,1,Ben-Moshe,Economics
+416,Esther,100,83,85,0,1,Avraham,Industrial Engineering & Management
+417,Michael,75,88,85,0,1,Cohen,Computer Science
+418,Ela,100,80,65,1,0,Oved,Industrial Engineering & Management
+419,Robin,55,50,95,0,0,Haviv,Computer Science
+420,Idan,100,100,85,1,0,Deri,Economics
+421,Kevin,75,100,65,0,0,Haviv,Industrial Engineering & Management
+422,Or,100,95,75,1,1,Shmuel,Industrial Engineering & Management
+423,Idan,55,50,85,0,0,Atia,Computer Science
+424,Ohad,100,90,75,0,1,Oved,Computer Science
+425,Ido,80,92,85,1,1,Oved,Computer Science
+426,Ido,100,79,95,1,1,Shalom,Computer Science
+427,Avishay,50,55,85,0,0,Maman,Computer Science
+428,Idan,100,79,85,0,1,Bar,Industrial Engineering & Management
+429,Sapir,55,50,85,1,0,Ben-Moshe,Computer Science
+430,Ela,100,100,95,0,1,Bar,Industrial Engineering & Management
+431,Alex,80,78,65,0,0,Itzhak,Computer Science
+432,Chen,75,81,95,0,1,Shalom,Industrial Engineering & Management
+433,Nitzan,80,78,75,0,1,Oved,Industrial Engineering & Management
+434,Ido,90,92,85,0,1,Shmuel,Economics
+435,Kevin,100,83,95,1,1,Shalom,Computer Science
+436,Avishay,75,75,65,1,0,Cohen,Industrial Engineering & Management
+437,Esther,65,85,75,0,1,Desta,Economics
+438,Ram,100,78,95,1,1,Bar,Computer Science
+439,Orly,100,89,65,1,0,Ben-Moshe,Industrial Engineering & Management
+440,Nitzan,80,84,95,0,1,Nickolson,Industrial Engineering & Management
+441,Tamar,100,55,95,1,0,Ben-Zvi,Computer Science
+442,Esther,55,85,85,0,0,Atia,Industrial Engineering & Management
+443,Billy,60,78,85,0,1,Haviv,Economics
+444,Adam,100,88,85,1,1,Atia,Industrial Engineering & Management
+445,Natasha,75,80,85,1,1,Bar,Computer Science
+446,Ohad,100,100,95,1,1,Bar,Economics
+447,Brian,100,100,85,0,1,Biton,Industrial Engineering & Management
+448,Tair,90,80,95,0,1,Haviv,Computer Science
+449,Chen,60,79,65,1,0,Oved,Economics
+450,Danny,80,90,85,1,1,Shmuel,Economics
+451,Robin,100,55,85,0,0,Oved,Industrial Engineering & Management
+452,Zohar,65,85,75,1,1,Cohen,Economics
+453,Mor,100,80,75,1,1,Nickolson,Computer Science
+454,Michael,70,85,75,1,1,Desta,Computer Science
+455,Dorit,90,92,95,1,1,Itzhak,Economics
+456,Adam,100,88,95,1,1,Desta,Industrial Engineering & Management
+457,Or,90,75,85,1,0,Shalom,Industrial Engineering & Management
+458,Or,50,55,65,1,0,Ben-Moshe,Economics
+459,Talia,80,90,75,0,1,Nickolson,Economics
+460,Aviram,55,55,95,0,0,Oved,Economics
+461,Chen,75,80,75,0,1,Haviv,Industrial Engineering & Management
+462,Ram,55,60,85,0,0,Itzhak,Industrial Engineering & Management
+463,John,100,100,85,1,1,Ben-Moshe,Economics
+464,Talia,55,84,85,1,0,Shalom,Computer Science
+465,Nati,100,100,95,1,1,Cohen,Economics
+466,Aviram,50,55,85,0,0,Itzhak,Economics
+467,Nitzan,100,88,85,1,1,Cohen,Computer Science
+468,Alex,90,92,85,1,1,Shmuel,Economics
+469,Ela,55,55,85,0,0,Biton,Economics
+470,Natasha,85,78,75,0,1,Ben-Moshe,Industrial Engineering & Management
+471,Avishay,55,94,85,0,0,Haviv,Industrial Engineering & Management
+472,Or,80,90,95,1,1,Porat,Computer Science
+473,Katia,90,75,85,1,0,Biton,Industrial Engineering & Management
+474,Katia,90,100,95,0,1,Shalom,Computer Science
+475,Tamar,55,55,85,1,0,Shalom,Economics
+476,Avraham,100,90,85,1,1,Oved,Computer Science
+477,Ori,90,80,85,0,1,Shalom,Industrial Engineering & Management
+478,Danny,55,55,85,0,0,Atia,Economics
+479,Ram,90,98,85,0,1,Cohen,Industrial Engineering & Management
+480,Kevin,90,92,95,0,1,Cohen,Economics
+481,Mor,90,92,75,0,1,Haviv,Industrial Engineering & Management
+482,Dorit,90,79,65,1,0,Oved,Computer Science
+483,Kevin,80,90,75,1,1,Itzhak,Economics
+484,Kevin,100,80,95,0,1,Porat,Industrial Engineering & Management
+485,Ido,100,100,85,1,1,Nickolson,Economics
+486,Katia,80,90,75,1,1,Avraham,Economics
+487,Ariel,100,100,95,0,1,Porat,Economics
+488,Kevin,60,100,75,0,1,Bar,Computer Science
+489,Mor,60,78,85,1,1,Nickolson,Industrial Engineering & Management
+490,Sarah,100,90,65,1,0,Maman,Computer Science
+491,Esther,60,75,65,0,0,Ben-Zvi,Industrial Engineering & Management
+492,Idan,80,90,75,0,1,Maman,Economics
+493,Ariel,80,84,75,0,1,Haviv,Computer Science
+494,Katia,90,92,85,0,1,Avraham,Economics
+495,Nati,90,83,85,0,1,Cohen,Computer Science
+496,Ori,95,80,85,0,1,Biton,Industrial Engineering & Management
+497,Orly,90,85,85,1,1,Avraham,Computer Science
+498,Keli,90,90,85,0,1,Ben-Moshe,Economics
+499,Idan,70,83,95,0,1,Desta,Industrial Engineering & Management
+500,Nitzan,90,78,95,0,1,Shmuel,Computer Science
+501,Mor,90,93,75,1,1,Cohen,Computer Science
+502,Tamar,55,78,85,0,0,Porat,Industrial Engineering & Management
+503,Billy,85,79,95,0,1,Biton,Industrial Engineering & Management
+504,Ela,80,83,85,0,1,Shmuel,Industrial Engineering & Management
+505,Tamar,90,94,85,0,1,Bar,Economics
+506,Idan,50,55,85,0,0,Porat,Computer Science
+507,Jerry,85,55,75,1,0,Itzhak,Industrial Engineering & Management
+508,Aviram,100,75,85,0,0,Porat,Industrial Engineering & Management
+509,Sarah,100,80,85,0,1,Ben-Moshe,Computer Science
+510,Aviram,75,55,75,1,0,Shalom,Industrial Engineering & Management
+511,Ohad,70,84,85,1,1,Itzhak,Industrial Engineering & Management
+512,Eliran,100,100,85,1,1,Nickolson,Economics
+513,Katia,100,100,95,1,1,Cohen,Economics
+514,Nitzan,100,85,95,0,1,Haviv,Computer Science
+515,Ariel,75,84,85,0,1,Shalom,Economics
+516,Eliran,80,90,85,0,1,Nickolson,Economics
+517,Zohar,90,96,95,0,1,Nickolson,Computer Science
+518,Sarah,85,78,75,0,1,Biton,Industrial Engineering & Management
+519,Esther,100,55,75,0,0,Shmuel,Computer Science
+520,Jerry,100,75,75,1,0,Shalom,Industrial Engineering & Management
+521,Danny,90,90,95,0,1,Atia,Industrial Engineering & Management
+522,Alex,90,92,85,0,1,Ben-Moshe,Economics
+523,Or,100,81,65,1,0,Desta,Computer Science
+524,Mor,100,100,85,1,1,Desta,Economics
+525,Ori,100,75,65,0,0,Maman,Industrial Engineering & Management
+526,Ela,70,90,75,0,1,Maman,Industrial Engineering & Management
+527,Ela,90,65,85,1,0,Bar,Computer Science
+528,Avraham,95,98,85,1,1,Bar,Computer Science
+529,Zohar,75,96,85,1,1,Desta,Computer Science
+530,Adam,100,100,75,1,1,Desta,Industrial Engineering & Management
+531,Chen,90,78,95,0,1,Cohen,Computer Science
+532,Michael,55,55,85,0,0,Porat,Economics
+533,Ori,85,92,95,1,1,Avraham,Computer Science
+534,Nati,65,85,85,0,1,Oved,Economics
+535,Billy,50,55,65,1,0,Shmuel,Computer Science
+536,Talia,95,90,95,0,1,Porat,Computer Science
+537,Or,55,55,95,0,0,Ben-Zvi,Economics
+538,Tair,100,100,85,0,1,Porat,Economics
+539,Esther,100,94,85,1,1,Ben-Moshe,Industrial Engineering & Management
+540,Nitzan,50,78,85,0,0,Atia,Computer Science
+541,Sarah,95,89,85,1,1,Desta,Industrial Engineering & Management
+542,Ohad,80,78,95,1,1,Shalom,Computer Science
+543,Orly,100,92,95,1,1,Deri,Industrial Engineering & Management
+544,Zohar,90,92,85,0,1,Bar,Economics
+545,Idan,55,55,95,1,0,Maman,Economics
+546,Brian,55,85,65,1,0,Porat,Computer Science
+547,Brian,75,81,95,1,1,Nickolson,Industrial Engineering & Management
+548,Chen,80,78,85,0,1,Deri,Computer Science
+549,Ariel,100,100,65,0,0,Desta,Computer Science
+550,Ori,100,80,95,0,1,Shalom,Computer Science
+551,Chen,95,65,95,1,0,Biton,Computer Science
+552,Idan,100,80,95,0,1,Oved,Industrial Engineering & Management
+553,Esther,70,100,85,1,1,Desta,Computer Science
+554,Robin,70,80,85,1,1,Avraham,Computer Science
+555,Nati,70,98,85,1,1,Ben-Moshe,Computer Science
+556,Billy,70,83,85,0,1,Nickolson,Economics
+557,Ram,90,92,85,1,1,Desta,Economics
+558,Talia,100,89,85,0,1,Deri,Computer Science
+559,Chen,90,92,85,1,1,Porat,Economics
+560,Kevin,50,70,85,0,0,Ben-Moshe,Industrial Engineering & Management
+561,Keli,100,100,85,0,1,Avraham,Economics
+562,Avraham,80,90,85,0,1,Avraham,Economics
+563,Ela,65,95,75,1,1,Haviv,Computer Science
+564,Avishay,100,95,65,0,0,Porat,Industrial Engineering & Management
+565,Alex,100,78,85,0,1,Desta,Computer Science
+566,Keli,100,78,75,1,1,Atia,Computer Science
+567,Michael,95,80,75,0,1,Itzhak,Computer Science
+568,Nati,55,79,95,0,0,Avraham,Industrial Engineering & Management
+569,Michael,50,65,95,1,0,Porat,Economics
+570,Ela,80,100,95,0,1,Itzhak,Computer Science
+571,Chen,90,84,95,1,1,Maman,Industrial Engineering & Management
+572,Billy,75,84,85,0,1,Avraham,Economics
+573,Adele,100,95,65,0,0,Biton,Computer Science
+574,Linda,50,55,85,1,0,Avraham,Computer Science
+575,Ram,100,81,95,0,1,Deri,Industrial Engineering & Management
+576,Ori,50,55,75,0,0,Bar,Computer Science
+577,Nati,90,92,85,0,1,Deri,Economics
+578,John,100,89,65,0,0,Cohen,Industrial Engineering & Management
+579,Linda,55,80,85,1,0,Ben-Moshe,Computer Science
+580,Brian,70,80,85,1,1,Ben-Moshe,Computer Science
+581,Natasha,95,100,75,1,1,Maman,Computer Science
+582,Billy,100,84,95,0,1,Porat,Computer Science
+583,Katia,80,90,85,0,1,Cohen,Economics
+584,Orly,85,96,65,0,0,Biton,Computer Science
+585,Nati,80,90,85,1,1,Ben-Moshe,Computer Science
+586,Linda,75,84,75,0,1,Desta,Economics
+587,Sarah,85,88,75,0,1,Deri,Economics
+588,Michael,80,92,95,0,1,Haviv,Industrial Engineering & Management
+589,Katia,100,55,75,1,0,Maman,Computer Science
+590,Robin,100,100,75,0,1,Desta,Economics
+591,Nati,80,78,85,0,1,Itzhak,Industrial Engineering & Management
+592,Nati,100,81,75,1,1,Ben-Zvi,Computer Science
+593,Or,95,92,85,1,1,Ben-Zvi,Industrial Engineering & Management
+594,Adam,70,83,85,1,1,Porat,Economics
+595,John,60,79,85,1,1,Itzhak,Economics
+596,Chen,90,93,85,0,1,Bar,Industrial Engineering & Management
+597,Danny,80,80,85,0,1,Nickolson,Industrial Engineering & Management
+598,Tamar,65,85,65,1,0,Deri,Economics
+599,Linda,80,90,85,1,1,Porat,Industrial Engineering & Management
+600,Keli,90,96,65,0,0,Nickolson,Computer Science
+601,Kevin,75,98,85,0,1,Deri,Industrial Engineering & Management
+602,Mor,50,55,85,1,0,Haviv,Computer Science
+603,Katia,100,98,75,0,1,Bar,Computer Science
+604,Tamar,80,90,65,1,0,Porat,Economics
+605,Sapir,60,79,85,0,1,Itzhak,Economics
+606,Or,100,100,75,1,1,Shalom,Industrial Engineering & Management
+607,Brian,70,81,85,0,1,Biton,Industrial Engineering & Management
+608,Adele,100,88,85,0,1,Desta,Computer Science
+609,Nati,100,78,85,1,1,Maman,Computer Science
+610,Dorit,65,81,75,0,1,Oved,Industrial Engineering & Management
+611,Brian,100,55,75,0,0,Cohen,Industrial Engineering & Management
+612,Avraham,55,83,85,1,0,Porat,Industrial Engineering & Management
+613,Jerry,50,55,85,0,0,Haviv,Computer Science
+614,Natasha,50,55,85,1,0,Cohen,Computer Science
+615,Ram,55,96,85,1,0,Avraham,Computer Science
+616,Mor,75,100,95,0,1,Atia,Computer Science
+617,Or,70,100,85,1,1,Porat,Industrial Engineering & Management
+618,Ela,100,95,85,1,1,Maman,Computer Science
+619,Ido,100,100,95,1,0,Deri,Economics
+620,Tair,70,100,85,0,1,Shalom,Computer Science
+621,Adam,95,100,85,0,1,Shalom,Computer Science
+622,Nitzan,90,90,95,1,1,Shmuel,Industrial Engineering & Management
+623,Ariel,100,94,95,1,1,Deri,Computer Science
+624,Ohad,65,84,85,0,1,Shmuel,Computer Science
+625,Sarah,60,90,85,1,1,Nickolson,Computer Science
+626,John,55,62,85,1,0,Desta,Industrial Engineering & Management
+627,Ela,85,100,65,1,0,Bar,Computer Science
+628,Sarah,80,90,85,1,1,Haviv,Economics
+629,Jerry,100,100,85,1,1,Cohen,Computer Science
+630,Avishay,100,100,85,1,1,Itzhak,Economics
+631,Ela,100,79,75,1,1,Biton,Industrial Engineering & Management
+632,Dorit,75,65,95,1,0,Deri,Computer Science
+633,Keli,100,80,95,0,1,Nickolson,Industrial Engineering & Management
+634,Natasha,90,94,95,0,1,Haviv,Computer Science
+635,Katia,80,78,95,1,1,Ben-Zvi,Industrial Engineering & Management
+636,Ori,100,78,75,0,1,Bar,Computer Science
+637,Avishay,90,92,85,0,1,Cohen,Economics
+638,Tair,75,83,95,1,1,Biton,Industrial Engineering & Management
+639,Brian,70,78,85,0,1,Oved,Computer Science
+640,Zohar,85,88,75,1,1,Oved,Economics
+641,Michael,100,80,95,0,1,Ben-Moshe,Industrial Engineering & Management
+642,Idan,70,83,85,1,1,Ben-Moshe,Economics
+643,Chen,100,100,95,0,1,Itzhak,Economics
+644,Eliran,85,88,75,0,1,Ben-Zvi,Economics
+645,Tair,60,90,85,1,1,Nickolson,Industrial Engineering & Management
+646,Brian,65,85,75,0,1,Shmuel,Economics
+647,Nitzan,100,100,65,1,0,Itzhak,Economics
+648,Mor,90,88,65,1,0,Ben-Zvi,Industrial Engineering & Management
+649,Ela,55,62,75,0,0,Oved,Industrial Engineering & Management
+650,Aviram,95,55,65,0,0,Biton,Industrial Engineering & Management
+651,Adele,100,100,65,1,0,Porat,Computer Science
+652,Tair,80,90,85,1,0,Cohen,Economics
+653,Kevin,100,81,85,0,1,Nickolson,Computer Science
+654,Adele,70,88,75,0,1,Biton,Computer Science
+655,Chen,90,78,65,1,0,Ben-Zvi,Computer Science
+656,Natasha,100,100,95,1,1,Biton,Economics
+657,Katia,85,88,75,0,1,Cohen,Economics
+658,Kevin,65,89,95,0,1,Ben-Moshe,Industrial Engineering & Management
+659,Ido,55,78,95,0,0,Nickolson,Computer Science
+660,Tamar,55,80,85,0,0,Ben-Zvi,Industrial Engineering & Management
+661,Adele,100,100,85,0,1,Ben-Zvi,Economics
+662,Ram,80,90,95,1,1,Nickolson,Economics
+663,Orly,75,84,75,0,1,Cohen,Economics
+664,John,90,93,95,1,1,Nickolson,Economics
+665,Linda,75,100,85,0,1,Ben-Zvi,Industrial Engineering & Management
+666,Ram,100,100,85,1,1,Shmuel,Economics
+667,Robin,55,94,75,1,0,Oved,Industrial Engineering & Management
+668,Michael,80,94,85,0,1,Biton,Industrial Engineering & Management
+669,Michael,100,80,95,1,1,Haviv,Industrial Engineering & Management
+670,Nitzan,95,80,95,0,1,Nickolson,Industrial Engineering & Management
+671,Nati,90,80,95,0,1,Bar,Industrial Engineering & Management
+672,Talia,80,95,75,0,1,Ben-Moshe,Computer Science
+673,Ram,50,55,85,1,0,Shalom,Economics
+674,Tair,90,85,95,0,1,Itzhak,Computer Science
+675,Aviram,60,79,95,1,1,Bar,Economics
+676,Nitzan,80,93,85,1,1,Maman,Industrial Engineering & Management
+677,Kevin,75,84,85,1,1,Porat,Economics
+678,Mor,100,90,85,1,1,Shmuel,Industrial Engineering & Management
+679,Nitzan,55,80,85,0,0,Deri,Computer Science
+680,Tair,75,78,85,1,1,Ben-Moshe,Industrial Engineering & Management
+681,Ohad,50,55,75,1,0,Maman,Computer Science
+682,Robin,100,79,95,1,1,Shmuel,Computer Science
+683,Ram,85,88,85,0,1,Shmuel,Computer Science
+684,Brian,90,93,85,1,1,Deri,Economics
+685,Billy,75,84,85,0,1,Haviv,Economics
+686,John,65,85,85,1,1,Cohen,Economics
+687,Adele,80,80,95,0,1,Avraham,Industrial Engineering & Management
+688,Brian,65,88,95,0,1,Biton,Industrial Engineering & Management
+689,Tair,100,100,85,1,1,Porat,Economics
+690,Alex,70,92,95,0,1,Itzhak,Computer Science
+691,Tamar,100,84,85,0,1,Nickolson,Industrial Engineering & Management
+692,Adele,100,89,95,0,1,Desta,Industrial Engineering & Management
+693,Mor,80,88,85,1,1,Porat,Computer Science
+694,Ram,80,90,75,1,1,Shmuel,Economics
+695,Nati,100,100,75,1,1,Itzhak,Economics
+696,Tair,90,93,95,1,0,Desta,Economics
+697,Adele,90,92,75,0,1,Desta,Computer Science
+698,Billy,90,80,95,0,1,Atia,Computer Science
+699,Esther,75,84,95,0,1,Ben-Moshe,Economics
+700,Tamar,90,81,65,0,0,Oved,Computer Science
+701,Tair,50,55,95,1,0,Avraham,Computer Science
+702,Ido,95,80,85,1,1,Shmuel,Industrial Engineering & Management
+703,Keli,100,100,95,0,1,Nickolson,Economics
+704,Ela,90,94,85,1,1,Porat,Computer Science
+705,Orly,80,80,85,0,1,Porat,Industrial Engineering & Management
+706,Adele,100,88,85,0,1,Itzhak,Computer Science
+707,Tair,90,81,95,1,1,Shalom,Industrial Engineering & Management
+708,Tair,75,84,85,0,1,Shalom,Economics
+709,Tair,75,100,65,0,0,Deri,Industrial Engineering & Management
+710,Ori,100,100,85,0,1,Ben-Moshe,Economics
+711,Brian,100,81,85,1,1,Porat,Industrial Engineering & Management
+712,Sapir,60,79,85,0,1,Atia,Economics
+713,Or,55,75,85,1,0,Ben-Zvi,Industrial Engineering & Management
+714,Nati,100,100,75,1,1,Desta,Economics
+715,Brian,50,65,95,1,0,Maman,Economics
+716,Adam,100,100,85,1,1,Atia,Economics
+717,Eliran,100,81,85,0,1,Porat,Computer Science
+718,Nati,70,83,95,0,1,Biton,Economics
+719,Kevin,100,96,95,1,1,Biton,Computer Science
+720,Billy,65,90,75,0,1,Itzhak,Computer Science
+721,Adam,100,100,85,1,1,Desta,Economics
+722,Idan,100,100,85,0,1,Avraham,Economics
+723,Jerry,80,90,85,0,1,Maman,Economics
+724,Ori,75,84,75,0,1,Nickolson,Economics
+725,Mor,95,98,85,0,1,Oved,Economics
+726,Zohar,50,65,95,1,0,Porat,Economics
+727,Idan,100,55,95,0,0,Desta,Computer Science
+728,Jerry,100,100,85,0,1,Cohen,Economics
+729,Adam,50,88,85,1,0,Bar,Industrial Engineering & Management
+730,Linda,65,80,85,0,1,Ben-Zvi,Industrial Engineering & Management
+731,Ori,90,95,75,1,1,Biton,Industrial Engineering & Management
+732,Kevin,85,90,85,1,1,Biton,Computer Science
+733,Adam,90,80,75,0,1,Ben-Zvi,Computer Science
+734,Linda,70,75,65,0,0,Deri,Industrial Engineering & Management
+735,Or,90,93,85,1,1,Shalom,Economics
+736,Avraham,80,83,75,0,1,Ben-Zvi,Industrial Engineering & Management
+737,Ram,50,78,85,1,0,Porat,Industrial Engineering & Management
+738,Adam,75,94,95,0,1,Porat,Computer Science
+739,Natasha,80,65,75,0,0,Ben-Moshe,Industrial Engineering & Management
+740,Aviram,85,88,65,0,0,Bar,Economics
+741,Ram,75,80,85,0,1,Ben-Moshe,Industrial Engineering & Management
+742,John,55,89,95,0,0,Deri,Industrial Engineering & Management
+743,Billy,90,90,95,1,1,Shalom,Computer Science
+744,Kevin,70,83,65,0,0,Haviv,Economics
+745,Jerry,70,83,85,1,1,Haviv,Economics
+746,Brian,100,81,65,1,0,Oved,Industrial Engineering & Management
+747,Linda,100,100,85,0,1,Oved,Economics
+748,Brian,100,98,85,0,1,Atia,Computer Science
+749,Robin,50,65,65,1,0,Avraham,Computer Science
+750,Keli,70,83,85,0,1,Atia,Economics
+751,Eliran,95,98,85,1,1,Biton,Economics
+752,Ariel,100,100,95,0,0,Shalom,Economics
+753,Brian,100,78,85,0,1,Oved,Computer Science
+754,Ariel,100,100,75,1,1,Shmuel,Economics
+755,Ram,100,100,75,0,0,Atia,Economics
+756,Aviram,80,94,75,0,1,Maman,Computer Science
+757,Ori,70,83,65,0,0,Nickolson,Economics
+758,Ori,55,55,85,0,0,Biton,Economics
+759,Kevin,75,84,95,1,1,Cohen,Economics
+760,Zohar,55,55,65,1,0,Nickolson,Industrial Engineering & Management
+761,Ram,100,100,95,1,1,Ben-Zvi,Economics
+762,Tair,80,90,75,1,1,Shmuel,Economics
+763,Ido,90,93,85,1,0,Shalom,Economics
+764,Jerry,90,78,65,1,0,Biton,Computer Science
+765,Keli,60,79,75,1,1,Maman,Economics
+766,Sapir,100,80,95,0,1,Itzhak,Computer Science
+767,Esther,75,81,85,0,1,Nickolson,Computer Science
+768,Or,75,84,65,1,0,Nickolson,Economics
+769,Ido,90,88,95,1,1,Ben-Zvi,Industrial Engineering & Management
+770,Danny,75,94,85,1,1,Oved,Economics
+771,Nati,80,75,75,1,0,Haviv,Industrial Engineering & Management
+772,Kevin,80,90,75,0,1,Haviv,Economics
+773,Aviram,90,93,85,1,1,Atia,Economics
+774,Mor,50,65,95,1,0,Shalom,Economics
+775,Avraham,100,100,85,0,1,Shmuel,Economics
+776,Dorit,80,65,75,1,0,Itzhak,Industrial Engineering & Management
+777,Adam,60,93,75,0,1,Maman,Computer Science
+778,Danny,70,75,95,0,0,Oved,Industrial Engineering & Management
+779,Alex,70,95,95,0,1,Deri,Computer Science
+780,Nati,60,80,85,0,1,Haviv,Industrial Engineering & Management
+781,Alex,95,95,85,1,1,Oved,Industrial Engineering & Management
+782,Sarah,80,100,85,0,1,Shmuel,Economics
+783,Sapir,100,96,85,0,1,Biton,Computer Science
+784,Keli,75,81,85,1,1,Deri,Industrial Engineering & Management
+785,Natasha,80,65,95,1,0,Nickolson,Industrial Engineering & Management
+786,Ariel,100,100,75,1,1,Atia,Economics
+787,Ariel,100,100,75,1,1,Haviv,Economics
+788,Adam,100,75,85,0,0,Avraham,Computer Science
+789,Or,100,79,85,1,1,Shmuel,Computer Science
+790,Kevin,95,91,85,0,0,Desta,Computer Science
+791,Ori,100,81,85,0,1,Shalom,Industrial Engineering & Management
+792,John,55,50,65,1,0,Maman,Computer Science
+793,Talia,100,78,85,0,1,Ben-Moshe,Computer Science
+794,Avishay,85,92,85,1,1,Oved,Computer Science
+795,Zohar,80,78,95,0,1,Bar,Economics
+796,Ram,75,90,75,1,1,Nickolson,Economics
+797,Jerry,95,98,75,0,1,Ben-Moshe,Industrial Engineering & Management
+798,Chen,100,100,85,1,1,Shalom,Economics
+799,Dorit,50,65,75,1,0,Shalom,Economics
+800,Ohad,60,93,85,1,1,Avraham,Industrial Engineering & Management
+801,Tair,80,81,95,1,1,Bar,Economics
+802,Linda,100,94,85,0,1,Cohen,Computer Science
+803,Ohad,100,100,75,1,1,Ben-Moshe,Economics
+804,Ori,100,89,75,0,1,Atia,Computer Science
+805,Jerry,80,95,75,0,1,Atia,Computer Science
+806,Avishay,90,78,85,1,1,Itzhak,Industrial Engineering & Management
+807,Ariel,65,84,75,1,1,Maman,Computer Science
+808,Ohad,80,75,85,0,0,Avraham,Economics
+809,Linda,100,95,95,0,1,Biton,Computer Science
+810,Linda,90,93,85,1,0,Oved,Economics
+811,Ori,100,84,85,1,1,Shalom,Industrial Engineering & Management
+812,Michael,80,65,85,0,0,Atia,Industrial Engineering & Management
+813,Robin,75,100,85,0,1,Shmuel,Industrial Engineering & Management
+814,Ariel,75,94,75,0,1,Desta,Computer Science
+815,Sarah,80,84,95,1,1,Desta,Industrial Engineering & Management
+816,Ohad,100,92,75,1,1,Itzhak,Computer Science
+817,Avishay,85,80,95,0,1,Oved,Industrial Engineering & Management
+818,Brian,100,100,85,1,0,Nickolson,Economics
+819,Chen,100,88,95,0,1,Shmuel,Industrial Engineering & Management
+820,Katia,90,93,65,0,0,Atia,Economics
+821,Kevin,75,100,75,0,1,Shalom,Economics
+822,Mor,100,88,65,0,0,Ben-Moshe,Industrial Engineering & Management
+823,Zohar,100,75,75,0,0,Nickolson,Industrial Engineering & Management
+824,Ela,95,90,95,0,1,Deri,Industrial Engineering & Management
+825,Kevin,60,79,75,0,1,Avraham,Economics
+826,Orly,55,50,85,0,0,Desta,Computer Science
+827,Zohar,100,100,75,1,1,Nickolson,Economics
+828,Ela,65,96,75,0,1,Atia,Computer Science
+829,Adam,100,80,85,0,1,Porat,Industrial Engineering & Management
+830,Esther,100,81,85,1,1,Nickolson,Industrial Engineering & Management
+831,Idan,65,100,75,0,1,Nickolson,Industrial Engineering & Management
+832,Avishay,100,100,85,1,1,Shalom,Economics
+833,Sapir,100,100,75,1,0,Bar,Economics
+834,Katia,100,80,95,1,1,Atia,Computer Science
+835,Ram,70,90,95,1,1,Shalom,Industrial Engineering & Management
+836,Jerry,50,65,85,1,0,Shalom,Economics
+837,Robin,85,95,95,0,1,Avraham,Computer Science
+838,Robin,70,83,95,0,1,Shmuel,Economics
+839,Linda,65,88,95,1,1,Bar,Industrial Engineering & Management
+840,Or,100,100,85,1,1,Ben-Zvi,Economics
+841,Nati,65,94,85,1,1,Haviv,Computer Science
+842,Zohar,100,100,95,1,1,Ben-Moshe,Economics
+843,John,90,98,85,1,1,Itzhak,Computer Science
+844,Danny,70,83,85,1,1,Atia,Economics
+845,Adele,100,80,75,0,1,Haviv,Computer Science
+846,Michael,90,93,85,1,1,Bar,Economics
+847,Billy,100,80,95,0,1,Avraham,Computer Science
+848,Ela,90,80,85,1,1,Deri,Computer Science
+849,Tair,85,55,85,1,0,Shalom,Computer Science
+850,Natasha,80,83,75,0,1,Atia,Computer Science
+851,Adam,65,85,75,0,1,Itzhak,Economics
+852,Ohad,100,80,85,0,1,Deri,Computer Science
+853,Linda,75,90,75,0,0,Haviv,Economics
+854,Chen,70,100,75,1,1,Deri,Industrial Engineering & Management
+855,Ram,85,80,75,0,1,Cohen,Industrial Engineering & Management
+856,Danny,80,90,95,0,0,Deri,Economics
+857,Nitzan,90,94,95,0,1,Deri,Computer Science
+858,Tamar,90,79,95,1,1,Desta,Computer Science
+859,Alex,85,96,95,1,1,Ben-Moshe,Industrial Engineering & Management
+860,Mor,100,93,95,0,1,Shalom,Industrial Engineering & Management
+861,Ela,75,100,75,1,1,Shalom,Industrial Engineering & Management
+862,Dorit,55,50,85,1,0,Haviv,Industrial Engineering & Management
+863,Dorit,100,96,95,0,1,Shalom,Computer Science
+864,Linda,75,90,85,0,1,Biton,Industrial Engineering & Management
+865,Alex,100,83,95,1,1,Cohen,Industrial Engineering & Management
+866,Alex,70,83,85,1,1,Oved,Industrial Engineering & Management
+867,John,90,78,85,0,1,Nickolson,Industrial Engineering & Management
+868,Brian,80,100,75,0,1,Shmuel,Economics
+869,Billy,75,80,75,1,1,Haviv,Computer Science
+870,Chen,70,83,85,0,1,Itzhak,Economics
+871,Adele,100,100,85,1,1,Cohen,Computer Science
+872,Chen,100,90,95,0,1,Porat,Industrial Engineering & Management
+873,Ariel,100,100,85,0,1,Nickolson,Economics
+874,Billy,70,100,65,1,0,Nickolson,Industrial Engineering & Management
+875,Brian,60,95,85,0,1,Shmuel,Industrial Engineering & Management
+876,John,90,90,65,1,0,Porat,Computer Science
+877,Nati,75,80,95,1,1,Shmuel,Industrial Engineering & Management
+878,Sapir,65,85,85,1,1,Desta,Computer Science
+879,Ohad,90,94,95,1,1,Shmuel,Economics
+880,Ela,75,90,75,0,0,Shalom,Economics
+881,Billy,100,80,95,0,1,Ben-Zvi,Industrial Engineering & Management
+882,Kevin,80,90,85,0,0,Porat,Economics
+883,Tamar,60,65,75,1,0,Desta,Computer Science
+884,Aviram,100,75,85,0,0,Deri,Computer Science
+885,Linda,100,100,75,0,1,Cohen,Computer Science
+886,Robin,70,83,85,0,1,Nickolson,Economics
+887,Adam,95,92,85,1,1,Shmuel,Industrial Engineering & Management
+888,Kevin,70,83,85,0,1,Haviv,Economics
+889,Chen,70,83,85,0,1,Porat,Economics
+890,Brian,90,95,95,1,1,Ben-Moshe,Computer Science
+891,Talia,90,83,75,0,1,Maman,Industrial Engineering & Management
+892,Avishay,55,90,75,1,0,Shalom,Computer Science
+893,Adam,75,86,95,1,1,Ben-Moshe,Economics
+894,Ariel,100,55,65,0,0,Shalom,Industrial Engineering & Management
+895,Linda,75,81,85,1,1,Ben-Zvi,Computer Science
+896,Alex,60,94,85,0,1,Shmuel,Industrial Engineering & Management
+897,Sapir,100,100,95,0,1,Bar,Computer Science
+898,Michael,70,65,75,1,0,Shalom,Computer Science
+899,Tamar,80,100,65,1,0,Nickolson,Computer Science
+900,Zohar,70,78,85,0,1,Avraham,Computer Science
+901,Danny,80,79,85,1,1,Nickolson,Industrial Engineering & Management
+902,Michael,80,92,75,1,1,Itzhak,Industrial Engineering & Management
+903,Ela,55,90,75,1,0,Oved,Industrial Engineering & Management
+904,Adele,80,90,75,1,0,Nickolson,Economics
+905,Ram,100,83,95,0,1,Cohen,Computer Science
+906,Orly,55,55,85,0,0,Cohen,Economics
+907,Kevin,60,96,85,1,1,Nickolson,Computer Science
+908,Or,60,85,75,1,1,Atia,Industrial Engineering & Management
+909,John,95,88,85,1,1,Haviv,Industrial Engineering & Management
+910,Danny,50,81,85,0,0,Oved,Computer Science
+911,Sapir,100,89,85,0,1,Cohen,Computer Science
+912,Chen,55,80,75,1,0,Maman,Computer Science
+913,Chen,75,90,75,0,1,Oved,Industrial Engineering & Management
+914,Jerry,100,100,85,1,1,Bar,Economics
+915,Danny,80,92,95,1,1,Haviv,Industrial Engineering & Management
+916,Tamar,85,100,95,0,1,Biton,Computer Science
+917,Aviram,100,100,65,1,0,Deri,Economics
+918,Keli,60,100,85,0,1,Bar,Industrial Engineering & Management
+919,Ohad,85,88,75,1,1,Ben-Moshe,Industrial Engineering & Management
+920,Eliran,100,96,95,1,1,Haviv,Industrial Engineering & Management
+921,Danny,50,65,65,0,0,Avraham,Economics
+922,Robin,100,98,65,1,0,Nickolson,Industrial Engineering & Management
+923,Orly,55,90,85,0,0,Oved,Computer Science
+924,Danny,75,55,85,0,0,Avraham,Industrial Engineering & Management
+925,Eliran,55,55,65,0,0,Nickolson,Economics
+926,Aviram,90,94,85,0,1,Ben-Moshe,Industrial Engineering & Management
+927,Natasha,70,83,85,1,1,Desta,Economics
+928,Ram,80,83,65,1,0,Maman,Economics
+929,Orly,100,85,75,1,1,Itzhak,Computer Science
+930,Avishay,60,80,75,1,1,Bar,Computer Science
+931,Or,55,89,75,0,0,Ben-Zvi,Industrial Engineering & Management
+932,Tair,60,80,75,1,1,Oved,Computer Science
+933,Ido,60,100,95,1,1,Porat,Computer Science
+934,Adam,95,87,95,0,0,Shalom,Computer Science
+935,Tamar,80,95,85,1,1,Desta,Economics
+936,Keli,100,100,85,1,1,Bar,Economics
+937,Avishay,90,93,65,1,0,Ben-Moshe,Economics
+938,Brian,50,80,65,0,0,Porat,Industrial Engineering & Management
+939,Chen,100,93,95,0,1,Ben-Moshe,Industrial Engineering & Management
+940,Sapir,70,85,75,1,1,Bar,Industrial Engineering & Management
+941,Zohar,50,65,65,0,0,Shalom,Economics
+942,Katia,60,85,85,1,1,Shalom,Computer Science
+943,Alex,65,94,75,1,1,Nickolson,Industrial Engineering & Management
+944,Avraham,55,90,95,1,0,Biton,Computer Science
+945,Sarah,100,90,85,0,1,Ben-Moshe,Computer Science
+946,Ido,80,93,65,0,0,Cohen,Computer Science
+947,Ela,100,55,85,0,0,Bar,Industrial Engineering & Management
+948,Katia,90,79,65,1,0,Bar,Industrial Engineering & Management
+949,John,60,65,85,1,0,Desta,Industrial Engineering & Management
+950,Ido,80,79,75,0,1,Biton,Industrial Engineering & Management
+951,Talia,80,80,65,1,0,Maman,Economics
+952,Katia,90,93,95,1,1,Ben-Moshe,Economics
+953,Dorit,70,80,75,1,1,Porat,Computer Science
+954,Natasha,75,78,85,0,1,Itzhak,Computer Science
+955,Adele,100,88,85,1,1,Desta,Computer Science
+956,Adele,90,90,85,1,1,Cohen,Computer Science
+957,Brian,80,98,75,1,1,Maman,Industrial Engineering & Management
+958,Eliran,60,79,85,1,1,Ben-Moshe,Economics
+959,Idan,65,80,95,0,1,Atia,Industrial Engineering & Management
+960,Nitzan,50,55,65,0,0,Oved,Industrial Engineering & Management
+961,Avraham,70,100,95,1,1,Haviv,Computer Science
+962,Talia,75,86,75,0,1,Nickolson,Economics
+963,Ela,100,94,65,0,0,Atia,Industrial Engineering & Management
+964,Dorit,90,93,95,0,1,Ben-Zvi,Economics
+965,Chen,100,80,85,0,1,Oved,Industrial Engineering & Management
+966,Orly,100,84,75,0,1,Porat,Computer Science
+967,Keli,70,88,95,0,1,Shmuel,Computer Science
+968,Tair,100,78,85,1,1,Porat,Computer Science
+969,Robin,80,75,85,1,0,Itzhak,Industrial Engineering & Management
+970,Esther,90,78,95,0,1,Itzhak,Computer Science
+971,Kevin,75,86,85,1,1,Avraham,Economics
+972,Adam,55,55,85,0,0,Shalom,Economics
+973,Michael,80,80,95,0,1,Avraham,Computer Science
+974,Sarah,100,84,95,1,1,Bar,Computer Science
+975,Avishay,55,50,75,1,0,Atia,Industrial Engineering & Management
+976,John,80,84,85,0,1,Maman,Industrial Engineering & Management
+977,Chen,80,100,75,0,1,Ben-Moshe,Industrial Engineering & Management
+978,Tair,75,86,65,0,0,Biton,Economics
+979,Tamar,95,98,75,0,1,Maman,Economics
+980,Mor,70,84,65,0,0,Ben-Moshe,Computer Science
+981,Sarah,100,84,95,1,1,Deri,Computer Science
+982,Ram,100,88,85,1,1,Atia,Industrial Engineering & Management
+983,Kevin,90,93,95,1,1,Desta,Economics
+984,Danny,75,86,85,0,1,Ben-Moshe,Economics
+985,Talia,90,93,85,0,1,Porat,Industrial Engineering & Management
+986,Ido,100,78,75,1,1,Bar,Industrial Engineering & Management
+987,Kevin,100,80,75,0,1,Ben-Moshe,Industrial Engineering & Management
+988,Ela,80,92,95,1,1,Avraham,Economics
+989,Dorit,70,83,85,0,1,Porat,Economics
+990,Tair,100,85,95,0,1,Deri,Industrial Engineering & Management
+991,Mor,95,90,85,1,1,Maman,Computer Science
+992,Avishay,100,96,95,0,1,Maman,Computer Science
+993,Avraham,60,100,95,0,1,Ben-Zvi,Computer Science
+994,Sapir,90,93,75,0,1,Atia,Economics
+995,Tair,65,85,85,1,1,Nickolson,Economics
+996,Zohar,75,98,85,1,1,Maman,Industrial Engineering & Management
+997,Dorit,80,90,85,1,1,Haviv,Economics
+998,Zohar,85,95,75,1,1,Haviv,Industrial Engineering & Management
+999,Or,85,100,85,1,1,Shmuel,Computer Science
+1000,Jerry,100,85,65,0,0,Deri,Computer Science
+1001,Sarah,90,85,85,1,1,Nickolson,Industrial Engineering & Management
+1002,Alex,80,90,85,1,1,Deri,Economics
+1003,Danny,100,95,95,0,1,Oved,Computer Science
+1004,Avishay,55,50,85,1,0,Haviv,Industrial Engineering & Management
+1005,Avishay,80,90,75,1,1,Biton,Economics
+1006,Nitzan,80,94,95,1,1,Haviv,Computer Science
+1007,Robin,80,90,85,0,1,Bar,Economics
+1008,Tamar,100,92,95,1,1,Avraham,Industrial Engineering & Management
+1009,Linda,55,50,85,1,0,Cohen,Industrial Engineering & Management
+1010,Ohad,85,94,75,0,1,Desta,Industrial Engineering & Management
+1011,Orly,50,65,85,0,0,Maman,Economics
+1012,Tamar,90,89,85,1,1,Ben-Zvi,Computer Science
+1013,Tamar,55,50,95,1,0,Deri,Industrial Engineering & Management
+1014,Ido,50,65,95,1,0,Porat,Economics
+1015,Jerry,95,90,95,1,1,Bar,Computer Science
+1016,Keli,80,90,85,0,1,Deri,Industrial Engineering & Management
+1017,Tair,90,95,85,1,1,Haviv,Economics
+1018,Dorit,70,83,85,0,1,Cohen,Economics
+1019,Ohad,100,100,85,0,1,Shalom,Economics
+1020,John,70,83,65,0,0,Deri,Economics
+1021,Ido,80,80,75,1,1,Desta,Industrial Engineering & Management
+1022,Adam,85,92,95,1,1,Cohen,Computer Science
+1023,Chen,100,100,95,0,1,Oved,Economics
+1024,Ram,80,80,85,0,1,Shalom,Industrial Engineering & Management
+1025,Keli,80,80,75,0,1,Porat,Computer Science
+1026,Avishay,80,90,85,1,1,Biton,Industrial Engineering & Management
+1027,Adele,100,80,95,0,1,Itzhak,Computer Science
+1028,Adam,100,100,85,1,0,Shalom,Economics
+1029,Natasha,100,89,85,1,1,Maman,Industrial Engineering & Management
+1030,Avraham,75,86,85,1,1,Desta,Economics
+1031,Keli,60,79,85,1,1,Deri,Economics
+1032,Nitzan,75,86,95,1,1,Itzhak,Economics
+1033,Keli,65,55,85,0,0,Ben-Moshe,Industrial Engineering & Management
+1034,Ram,100,90,85,0,1,Ben-Moshe,Computer Science
+1035,Chen,100,100,75,0,1,Maman,Economics
+1036,Ariel,75,75,95,1,0,Cohen,Computer Science
+1037,Ido,50,78,85,1,0,Avraham,Computer Science
+1038,Alex,65,80,85,0,1,Bar,Industrial Engineering & Management
+1039,Natasha,75,81,75,1,1,Shalom,Computer Science
+1040,John,55,89,85,1,0,Bar,Computer Science
+1041,Avishay,75,80,95,1,1,Ben-Zvi,Computer Science
+1042,Michael,100,100,95,0,0,Haviv,Economics
+1043,Michael,75,65,95,1,0,Ben-Zvi,Computer Science
+1044,Ela,100,96,85,1,1,Nickolson,Computer Science
+1045,Alex,100,80,95,0,1,Avraham,Industrial Engineering & Management
+1046,Nitzan,70,92,65,1,0,Porat,Computer Science
+1047,Ido,75,80,85,1,1,Itzhak,Industrial Engineering & Management
+1048,Brian,70,93,75,1,1,Avraham,Industrial Engineering & Management
+1049,Ram,80,90,95,0,1,Ben-Moshe,Computer Science
+1050,Ohad,90,95,75,0,0,Porat,Economics
+1051,Brian,100,79,85,1,1,Maman,Industrial Engineering & Management
+1052,Idan,80,80,85,0,1,Deri,Computer Science
+1053,Keli,100,88,85,0,1,Nickolson,Industrial Engineering & Management
+1054,Avishay,55,55,95,0,0,Haviv,Computer Science
+1055,Avishay,90,65,85,0,0,Bar,Industrial Engineering & Management
+1056,Or,80,98,75,1,1,Biton,Industrial Engineering & Management
+1057,Keli,85,88,85,1,1,Itzhak,Industrial Engineering & Management
+1058,Tair,100,88,95,1,1,Oved,Industrial Engineering & Management
+1059,Alex,90,95,75,0,1,Avraham,Economics
+1060,Nitzan,90,79,75,0,1,Bar,Industrial Engineering & Management
+1061,Chen,50,95,95,1,0,Nickolson,Computer Science
+1062,Ela,100,100,85,1,1,Maman,Computer Science
+1063,Avraham,70,78,75,1,1,Cohen,Industrial Engineering & Management
+1064,Ori,90,65,95,0,0,Shmuel,Industrial Engineering & Management
+1065,Robin,100,65,75,0,0,Ben-Zvi,Computer Science
+1066,Mor,100,100,75,1,0,Ben-Moshe,Economics
+1067,Kevin,50,70,75,1,0,Shalom,Industrial Engineering & Management
+1068,Mor,90,94,95,1,1,Itzhak,Industrial Engineering & Management
+1069,Or,70,83,75,1,1,Maman,Economics
+1070,Talia,80,90,65,0,0,Oved,Economics
+1071,Sapir,75,84,85,0,1,Avraham,Industrial Engineering & Management
+1072,Ariel,80,92,75,0,1,Avraham,Economics
+1073,Zohar,80,79,75,1,1,Biton,Computer Science
+1074,Linda,100,100,85,1,1,Atia,Economics
+1075,Brian,55,55,85,1,0,Desta,Economics
+1076,Adele,100,100,85,0,1,Avraham,Economics
+1077,Aviram,95,84,95,1,1,Desta,Industrial Engineering & Management
+1078,Alex,80,94,95,0,1,Cohen,Computer Science
+1079,Dorit,100,100,85,1,1,Bar,Economics
+1080,Orly,55,55,75,0,0,Avraham,Economics
+1081,Sapir,60,79,65,0,0,Desta,Economics
+1082,Sarah,100,100,95,1,1,Nickolson,Economics
+1083,Tair,60,95,75,0,1,Maman,Computer Science
+1084,Sapir,90,92,85,1,1,Atia,Computer Science
+1085,Kevin,95,98,85,0,1,Maman,Computer Science
+1086,Natasha,100,100,85,1,1,Shalom,Economics
+1087,Orly,90,95,65,0,0,Biton,Industrial Engineering & Management
+1088,Orly,85,95,95,0,1,Oved,Computer Science
+1089,Or,100,92,65,1,0,Cohen,Computer Science
+1090,Danny,90,95,85,1,1,Shmuel,Industrial Engineering & Management
+1091,John,50,65,95,1,0,Desta,Economics
+1092,Ori,75,86,65,1,0,Biton,Economics
+1093,Natasha,80,85,95,0,1,Avraham,Computer Science
+1094,Ariel,100,100,85,0,1,Bar,Computer Science
+1095,Sarah,95,75,85,0,0,Avraham,Industrial Engineering & Management
+1096,Ariel,75,90,95,0,1,Desta,Computer Science
+1097,Billy,80,55,95,1,0,Ben-Moshe,Industrial Engineering & Management
+1098,Danny,100,100,75,1,1,Oved,Economics
+1099,Avraham,80,81,95,1,1,Avraham,Computer Science
+1100,Adam,100,100,85,1,1,Cohen,Economics
+1101,Danny,90,95,75,0,1,Avraham,Economics
+1102,Eliran,65,84,75,0,1,Shmuel,Computer Science
+1103,Sarah,50,65,95,1,0,Porat,Economics
+1104,Natasha,70,96,95,0,1,Bar,Industrial Engineering & Management
+1105,Esther,80,88,75,1,1,Shalom,Computer Science
+1106,Dorit,90,96,85,0,1,Itzhak,Computer Science
+1107,Adam,80,88,85,1,1,Oved,Industrial Engineering & Management
+1108,Robin,80,80,95,1,1,Biton,Industrial Engineering & Management
+1109,Tamar,100,98,65,1,0,Porat,Computer Science
+1110,Ori,55,55,65,0,0,Biton,Economics
+1111,Keli,90,90,75,0,1,Ben-Zvi,Industrial Engineering & Management
+1112,Ariel,100,100,75,0,1,Deri,Economics
+1113,Natasha,75,80,85,0,1,Deri,Computer Science
+1114,Kevin,100,100,95,1,1,Avraham,Computer Science
+1115,Ori,70,95,85,0,1,Deri,Industrial Engineering & Management
+1116,Ela,100,100,95,0,1,Atia,Economics
+1117,Adele,65,75,65,1,0,Biton,Computer Science
+1118,Brian,100,98,95,1,1,Avraham,Computer Science
+1119,Ohad,90,89,85,1,1,Desta,Industrial Engineering & Management
+1120,Aviram,85,85,75,0,1,Avraham,Computer Science
+1121,Kevin,100,55,85,0,0,Itzhak,Computer Science
+1122,Tamar,85,98,65,0,0,Desta,Computer Science
+1123,Avraham,100,100,65,0,0,Biton,Economics
+1124,Ariel,70,83,75,1,1,Desta,Economics
+1125,Tair,70,100,95,1,1,Haviv,Industrial Engineering & Management
+1126,Eliran,100,96,95,0,1,Atia,Industrial Engineering & Management
+1127,Ori,90,94,85,0,1,Deri,Computer Science
+1128,Adam,80,81,65,0,0,Biton,Industrial Engineering & Management
+1129,Billy,100,100,85,0,1,Atia,Economics
+1130,Tamar,55,55,65,1,0,Avraham,Economics
+1131,Ohad,55,55,85,1,0,Atia,Economics
+1132,Tair,80,55,95,0,0,Bar,Industrial Engineering & Management
+1133,Or,100,96,85,1,1,Avraham,Industrial Engineering & Management
+1134,Linda,75,98,85,0,1,Avraham,Industrial Engineering & Management
+1135,Ori,100,94,85,1,1,Porat,Industrial Engineering & Management
+1136,Ariel,90,78,65,0,0,Itzhak,Computer Science
+1137,Sarah,65,94,65,0,0,Maman,Industrial Engineering & Management
+1138,Jerry,100,100,95,1,1,Deri,Economics
+1139,John,100,100,95,1,0,Ben-Zvi,Economics
+1140,Mor,75,85,85,0,1,Ben-Zvi,Computer Science
+1141,Katia,100,88,65,1,0,Atia,Computer Science
+1142,Chen,75,100,65,0,0,Desta,Computer Science
+1143,Kevin,70,83,85,0,1,Ben-Moshe,Economics
+1144,Robin,100,83,85,0,1,Nickolson,Computer Science
+1145,Sarah,70,90,95,0,1,Avraham,Industrial Engineering & Management
+1146,Tair,100,100,85,0,0,Biton,Economics
+1147,Tamar,100,100,85,1,1,Oved,Economics
+1148,Brian,80,95,95,1,1,Cohen,Industrial Engineering & Management
+1149,Adam,75,65,85,0,0,Avraham,Industrial Engineering & Management
+1150,Katia,75,93,85,1,1,Nickolson,Computer Science
+1151,Ido,75,86,75,1,1,Bar,Economics
+1152,Esther,75,80,85,1,1,Biton,Industrial Engineering & Management
+1153,Eliran,80,88,95,1,1,Ben-Moshe,Computer Science
+1154,Ariel,55,93,85,0,0,Shalom,Computer Science
+1155,Avishay,100,79,75,0,1,Oved,Computer Science
+1156,Talia,75,86,75,1,1,Bar,Economics
+1157,Esther,90,80,85,1,1,Biton,Industrial Engineering & Management
+1158,Billy,50,65,85,0,0,Shmuel,Economics
+1159,Jerry,90,95,85,1,1,Avraham,Computer Science
+1160,Talia,80,94,95,0,1,Maman,Computer Science
+1161,Natasha,100,89,95,0,1,Haviv,Computer Science
+1162,Avishay,75,80,65,0,0,Desta,Computer Science
+1163,Avraham,70,90,75,0,1,Nickolson,Industrial Engineering & Management
+1164,Ori,50,65,95,1,0,Desta,Economics
+1165,Ariel,100,100,85,0,1,Shalom,Economics
+1166,Billy,55,55,85,1,0,Haviv,Computer Science
+1167,Talia,100,55,85,0,0,Porat,Computer Science
+1168,Ohad,70,55,95,0,0,Ben-Zvi,Industrial Engineering & Management
+1169,John,90,92,75,0,1,Nickolson,Computer Science
+1170,Or,75,86,75,1,1,Shalom,Economics
+1171,Keli,85,78,75,0,1,Atia,Computer Science
+1172,Orly,55,90,85,1,0,Oved,Industrial Engineering & Management
+1173,John,80,100,85,0,1,Shmuel,Industrial Engineering & Management
+1174,Brian,70,84,85,1,1,Porat,Industrial Engineering & Management
+1175,Brian,100,81,95,1,1,Porat,Industrial Engineering & Management
+1176,Kevin,100,78,75,1,1,Deri,Computer Science
+1177,Ido,70,83,95,0,1,Shmuel,Economics
+1178,Danny,90,89,65,0,0,Shmuel,Industrial Engineering & Management
+1179,Kevin,50,65,95,0,0,Oved,Economics
+1180,Sarah,100,55,85,1,0,Atia,Computer Science
+1181,Nitzan,80,100,85,0,1,Ben-Zvi,Computer Science
+1182,Billy,60,78,85,1,1,Shmuel,Industrial Engineering & Management
+1183,Esther,50,50,95,1,0,Biton,Industrial Engineering & Management
+1184,Esther,100,89,95,0,1,Porat,Computer Science
+1185,Ohad,100,85,85,0,1,Shalom,Industrial Engineering & Management
+1186,Ido,55,80,85,1,0,Oved,Computer Science
+1187,Avraham,100,85,65,0,0,Shmuel,Industrial Engineering & Management
+1188,Orly,100,100,95,0,1,Shalom,Industrial Engineering & Management
+1189,Nati,90,80,85,1,1,Shalom,Computer Science
+1190,Kevin,60,79,65,1,0,Avraham,Economics
+1191,Robin,50,50,85,0,0,Avraham,Computer Science
+1192,Idan,100,100,65,1,0,Desta,Economics
+1193,Orly,100,100,65,0,0,Deri,Economics
+1194,Kevin,90,78,65,1,0,Atia,Computer Science
+1195,Kevin,85,96,95,1,1,Nickolson,Computer Science
+1196,Ori,70,78,95,0,1,Shmuel,Computer Science
+1197,Or,70,80,85,1,1,Biton,Computer Science
+1198,Tair,55,89,65,0,0,Cohen,Computer Science
+1199,Brian,95,94,65,1,0,Nickolson,Industrial Engineering & Management
+1200,Mor,80,79,95,0,1,Ben-Moshe,Industrial Engineering & Management
+1201,Kevin,100,96,85,0,1,Biton,Industrial Engineering & Management
+1202,Adam,100,90,95,1,1,Nickolson,Industrial Engineering & Management
+1203,Ela,95,92,95,1,0,Nickolson,Industrial Engineering & Management
+1204,Talia,70,75,85,0,0,Bar,Industrial Engineering & Management
+1205,Robin,50,50,95,1,0,Porat,Economics
+1206,Katia,55,90,65,0,0,Nickolson,Economics
+1207,Ohad,100,65,85,0,0,Ben-Zvi,Computer Science
+1208,Ori,70,83,85,1,1,Bar,Economics
+1209,Ido,80,98,85,0,1,Oved,Computer Science
+1210,Zohar,70,78,95,0,1,Itzhak,Industrial Engineering & Management
+1211,Nati,65,85,85,1,1,Desta,Economics
+1212,Avishay,80,90,85,0,1,Shmuel,Economics
+1213,Aviram,90,100,95,1,1,Nickolson,Computer Science
+1214,Nati,90,98,65,1,0,Oved,Industrial Engineering & Management
+1215,Aviram,80,88,75,1,1,Shalom,Economics
+1216,Avraham,65,85,95,0,1,Oved,Economics
+1217,Ido,100,100,65,1,0,Shmuel,Economics
+1218,Natasha,55,85,75,1,0,Nickolson,Industrial Engineering & Management
+1219,John,100,100,95,1,1,Nickolson,Computer Science
+1220,Talia,75,86,85,1,1,Biton,Economics
+1221,Kevin,70,78,65,1,0,Biton,Industrial Engineering & Management
+1222,Robin,85,88,85,0,1,Porat,Economics
+1223,Tamar,55,80,75,0,0,Ben-Zvi,Computer Science
+1224,Ido,100,65,75,1,0,Itzhak,Industrial Engineering & Management
+1225,Nitzan,100,81,65,0,0,Ben-Zvi,Computer Science
+1226,Eliran,100,100,85,1,1,Ben-Moshe,Economics
+1227,Ori,90,95,75,0,1,Deri,Economics
+1228,John,65,85,75,1,0,Avraham,Economics
+1229,Nati,80,88,85,1,1,Deri,Economics
+1230,Adele,75,78,85,1,1,Avraham,Computer Science
+1231,Kevin,60,78,65,1,0,Haviv,Industrial Engineering & Management
+1232,Orly,90,89,95,0,1,Nickolson,Industrial Engineering & Management
+1233,Sapir,75,88,85,0,1,Porat,Computer Science
+1234,Ori,80,85,65,0,0,Porat,Computer Science
+1235,Avishay,100,85,85,1,1,Porat,Computer Science
+1236,Idan,100,95,95,0,1,Shmuel,Computer Science
+1237,Dorit,85,90,85,1,1,Oved,Industrial Engineering & Management
+1238,Ori,50,65,95,0,0,Atia,Economics
+1239,Aviram,100,85,65,0,0,Deri,Computer Science
+1240,Natasha,70,85,65,1,0,Shalom,Industrial Engineering & Management
+1241,Or,100,100,75,0,1,Ben-Moshe,Economics
+1242,Ela,100,100,75,1,0,Desta,Economics
+1243,Chen,55,90,75,1,0,Ben-Moshe,Computer Science
+1244,Jerry,70,94,85,0,1,Biton,Industrial Engineering & Management
+1245,Chen,70,100,85,1,1,Cohen,Computer Science
+1246,Chen,90,100,85,0,1,Itzhak,Industrial Engineering & Management
+1247,Orly,55,100,75,1,0,Atia,Industrial Engineering & Management
+1248,Linda,70,80,95,0,1,Desta,Industrial Engineering & Management
+1249,Orly,80,88,85,1,1,Cohen,Industrial Engineering & Management
+1250,Nitzan,75,86,75,1,1,Cohen,Economics
+1251,Kevin,100,75,75,1,0,Oved,Computer Science
+1252,Chen,95,98,95,0,1,Bar,Economics
+1253,Sarah,95,83,85,1,1,Nickolson,Computer Science
+1254,Nitzan,100,83,85,0,1,Shmuel,Industrial Engineering & Management
+1255,Ori,65,93,85,0,1,Shalom,Economics
+1256,Or,65,100,85,0,1,Bar,Economics
+1257,Avraham,65,80,85,1,1,Haviv,Computer Science
+1258,Ela,70,80,95,0,1,Avraham,Industrial Engineering & Management
+1259,Kevin,75,86,85,0,1,Porat,Economics
+1260,Alex,80,88,95,1,1,Shalom,Computer Science
+1261,Dorit,70,85,85,1,1,Deri,Industrial Engineering & Management
+1262,Chen,50,65,95,1,0,Ben-Zvi,Economics
+1263,Danny,75,90,85,1,1,Haviv,Computer Science
+1264,Kevin,90,95,75,1,1,Shmuel,Economics
+1265,Brian,90,98,95,0,1,Ben-Moshe,Industrial Engineering & Management
+1266,Ela,100,80,85,0,1,Atia,Industrial Engineering & Management
+1267,Adele,100,100,85,0,1,Atia,Economics
+1268,Eliran,70,78,85,0,1,Avraham,Industrial Engineering & Management
+1269,Avraham,90,65,85,1,0,Cohen,Industrial Engineering & Management
+1270,Avraham,80,84,85,1,1,Ben-Moshe,Industrial Engineering & Management
+1271,Ido,50,65,75,1,0,Shalom,Economics
+1272,Kevin,80,90,75,0,1,Atia,Industrial Engineering & Management
+1273,Dorit,80,88,95,1,0,Deri,Economics
+1274,Sapir,85,96,75,0,1,Ben-Moshe,Computer Science
+1275,Ela,90,79,85,0,1,Avraham,Industrial Engineering & Management
+1276,Brian,80,75,75,0,0,Avraham,Industrial Engineering & Management
+1277,Alex,100,100,85,1,1,Atia,Industrial Engineering & Management
+1278,Sarah,65,84,95,1,1,Oved,Industrial Engineering & Management
+1279,Danny,50,55,85,0,0,Desta,Economics
+1280,Nati,65,90,85,0,1,Avraham,Computer Science
+1281,Dorit,90,79,85,0,1,Ben-Moshe,Industrial Engineering & Management
+1282,Adam,80,55,85,0,0,Desta,Computer Science
+1283,Chen,55,90,95,0,0,Cohen,Industrial Engineering & Management
+1284,Michael,100,80,95,1,1,Shmuel,Computer Science
+1285,Orly,80,79,85,1,1,Biton,Computer Science
+1286,Dorit,75,86,85,1,1,Maman,Economics
+1287,Natasha,85,88,75,0,1,Ben-Zvi,Economics
+1288,Eliran,75,86,75,0,0,Ben-Moshe,Economics
+1289,Avraham,95,98,95,1,0,Ben-Zvi,Economics
+1290,Alex,100,80,75,0,1,Biton,Industrial Engineering & Management
+1291,Esther,60,90,75,0,1,Cohen,Industrial Engineering & Management
+1292,Eliran,80,95,65,0,0,Atia,Industrial Engineering & Management
+1293,Kevin,70,78,75,1,1,Desta,Industrial Engineering & Management
+1294,Avraham,70,83,75,1,1,Desta,Economics
+1295,Orly,100,100,95,1,1,Haviv,Economics
+1296,Ohad,100,100,95,0,1,Bar,Economics
+1297,Talia,55,78,85,1,0,Ben-Zvi,Economics
+1298,Orly,80,88,95,1,1,Shalom,Economics
+1299,Nati,100,75,85,1,0,Desta,Computer Science
+1300,Jerry,100,80,95,0,1,Avraham,Industrial Engineering & Management
+1301,Ori,100,78,85,1,1,Porat,Computer Science
+1302,Aviram,100,89,75,0,1,Ben-Zvi,Industrial Engineering & Management
+1303,Michael,90,84,95,0,1,Ben-Moshe,Computer Science
+1304,Ohad,100,92,95,1,1,Maman,Computer Science
+1305,Danny,90,83,85,0,1,Ben-Zvi,Industrial Engineering & Management
+1306,Ohad,100,89,85,0,1,Deri,Computer Science
+1307,Chen,100,100,75,1,1,Avraham,Economics
+1308,Ariel,100,100,85,1,1,Porat,Economics
+1309,Kevin,100,100,85,0,1,Porat,Industrial Engineering & Management
+1310,Kevin,100,80,95,1,1,Bar,Industrial Engineering & Management
+1311,Michael,60,84,95,1,1,Porat,Economics
+1312,Aviram,55,78,85,1,0,Bar,Economics
+1313,Kevin,55,78,65,0,0,Ben-Zvi,Economics
+1314,Ido,65,92,65,0,0,Atia,Industrial Engineering & Management
+1315,Ela,100,90,85,0,1,Haviv,Industrial Engineering & Management
+1316,Idan,55,50,85,1,0,Biton,Computer Science
+1317,Esther,95,79,85,0,1,Cohen,Computer Science
+1318,Adele,55,50,65,1,0,Cohen,Economics
+1319,Linda,80,55,75,0,0,Shmuel,Economics
+1320,Ido,80,100,85,0,1,Avraham,Computer Science
+1321,Michael,90,96,65,0,0,Deri,Computer Science
+1322,Robin,80,90,75,0,1,Ben-Moshe,Computer Science
+1323,Tair,90,95,85,0,1,Itzhak,Economics
+1324,Adam,75,81,95,1,1,Desta,Computer Science
+1325,Robin,60,78,75,0,1,Deri,Computer Science
+1326,Robin,100,79,85,1,1,Cohen,Industrial Engineering & Management
+1327,Idan,75,78,85,1,1,Nickolson,Industrial Engineering & Management
+1328,Katia,55,50,75,1,0,Porat,Computer Science
+1329,Robin,90,81,95,0,1,Cohen,Computer Science
+1330,Alex,60,84,85,1,1,Porat,Economics
+1331,Ram,90,95,95,1,1,Nickolson,Economics
+1332,Ram,55,79,85,0,0,Shmuel,Industrial Engineering & Management
+1333,Ariel,100,80,75,1,1,Porat,Computer Science
+1334,Ela,100,78,95,1,1,Nickolson,Industrial Engineering & Management
+1335,Robin,60,88,85,0,1,Porat,Industrial Engineering & Management
+1336,Mor,100,90,85,0,1,Deri,Computer Science
+1337,Dorit,70,81,85,1,1,Oved,Industrial Engineering & Management
+1338,Adam,60,84,75,1,1,Cohen,Economics
+1339,Esther,60,55,85,1,0,Ben-Moshe,Industrial Engineering & Management
+1340,Sapir,85,80,65,1,0,Oved,Computer Science
+1341,Michael,100,84,65,1,0,Haviv,Computer Science
+1342,Zohar,65,96,65,0,0,Biton,Computer Science
+1343,Orly,70,83,75,0,0,Bar,Economics
+1344,Natasha,80,100,95,0,1,Bar,Industrial Engineering & Management
+1345,Ariel,75,86,95,1,1,Ben-Zvi,Economics
+1346,Eliran,100,94,85,1,1,Porat,Industrial Engineering & Management
+1347,Mor,80,80,85,0,1,Haviv,Economics
+1348,Kevin,100,81,75,1,1,Atia,Industrial Engineering & Management
+1349,Michael,80,95,95,0,1,Desta,Industrial Engineering & Management
+1350,John,65,83,75,0,1,Desta,Economics
+1351,Talia,85,100,75,1,1,Haviv,Computer Science
+1352,Ariel,55,90,75,1,0,Oved,Industrial Engineering & Management
+1353,Katia,100,80,95,1,1,Shmuel,Computer Science
+1354,Kevin,70,83,85,0,1,Itzhak,Economics
+1355,Brian,80,81,95,0,1,Biton,Computer Science
+1356,Robin,100,100,85,1,1,Oved,Economics
+1357,Nitzan,70,78,85,0,1,Cohen,Computer Science
+1358,Eliran,70,79,75,1,1,Avraham,Computer Science
+1359,Brian,70,78,85,1,1,Oved,Industrial Engineering & Management
+1360,Ela,75,55,95,1,0,Bar,Industrial Engineering & Management
+1361,Nitzan,100,80,65,0,0,Atia,Industrial Engineering & Management
+1362,Ido,60,81,85,1,1,Atia,Industrial Engineering & Management
+1363,Katia,80,92,75,1,1,Porat,Industrial Engineering & Management
+1364,Brian,80,65,85,0,0,Cohen,Computer Science
+1365,John,80,80,85,1,1,Ben-Moshe,Economics
+1366,Dorit,100,100,75,1,1,Ben-Moshe,Economics
+1367,Adele,100,80,85,0,1,Shalom,Industrial Engineering & Management
+1368,Kevin,95,98,75,1,1,Ben-Moshe,Economics
+1369,Keli,90,89,65,1,0,Bar,Computer Science
+1370,Keli,75,90,85,0,1,Shmuel,Computer Science
+1371,Ariel,90,93,95,0,1,Haviv,Computer Science
+1372,Kevin,100,100,85,1,0,Desta,Economics
+1373,Sarah,55,78,65,1,0,Biton,Industrial Engineering & Management
+1374,Orly,75,80,85,1,1,Bar,Industrial Engineering & Management
+1375,Adele,80,90,95,0,1,Cohen,Economics
+1376,Adele,95,98,85,1,1,Oved,Computer Science
+1377,Tair,60,81,85,0,1,Desta,Industrial Engineering & Management
+1378,Linda,100,100,95,0,1,Shmuel,Economics
+1379,Talia,100,100,85,0,1,Nickolson,Economics
+1380,Avraham,75,75,75,1,0,Itzhak,Industrial Engineering & Management
+1381,Tair,55,83,95,0,0,Shmuel,Computer Science
+1382,Robin,90,65,95,1,0,Shalom,Computer Science
+1383,Or,80,95,85,1,1,Shmuel,Economics
+1384,Billy,100,78,75,0,1,Bar,Industrial Engineering & Management
+1385,Sapir,75,88,85,1,1,Ben-Zvi,Industrial Engineering & Management
+1386,Ela,80,55,85,1,0,Maman,Computer Science
+1387,Talia,60,84,95,1,1,Cohen,Economics
+1388,Billy,80,78,85,0,1,Bar,Industrial Engineering & Management
+1389,Natasha,80,94,85,1,1,Shmuel,Economics
+1390,Aviram,80,93,85,0,1,Nickolson,Economics
+1391,Keli,100,100,85,1,1,Haviv,Economics
+1392,Ori,100,100,85,1,1,Avraham,Economics
+1393,Nitzan,90,89,85,0,1,Ben-Zvi,Computer Science
+1394,Mor,70,83,85,0,1,Atia,Economics
+1395,Ohad,55,90,95,1,0,Shmuel,Computer Science
+1396,Kevin,100,65,65,1,0,Porat,Industrial Engineering & Management
+1397,Sapir,100,100,85,0,1,Deri,Industrial Engineering & Management
+1398,Idan,50,55,85,0,0,Porat,Economics
+1399,Idan,50,80,75,1,0,Atia,Computer Science
+1400,Nitzan,75,90,85,0,1,Cohen,Industrial Engineering & Management
+1401,Ram,65,78,85,0,1,Deri,Computer Science
+1402,Ohad,100,93,75,1,0,Biton,Economics
+1403,Avraham,60,84,85,1,1,Ben-Zvi,Computer Science
+1404,Alex,100,90,85,0,1,Nickolson,Industrial Engineering & Management
+1405,Natasha,100,93,85,0,1,Porat,Economics
+1406,Mor,75,78,85,0,1,Haviv,Industrial Engineering & Management
+1407,Tamar,100,100,65,0,0,Nickolson,Economics
+1408,Adele,100,93,95,0,1,Shalom,Economics
+1409,Mor,90,80,65,0,0,Avraham,Industrial Engineering & Management
+1410,Kevin,90,95,95,0,1,Shmuel,Economics
+1411,Danny,100,100,75,1,1,Biton,Economics
+1412,Michael,90,95,65,0,0,Maman,Economics
+1413,Orly,75,90,95,0,1,Cohen,Industrial Engineering & Management
+1414,Sarah,95,78,75,0,1,Ben-Zvi,Computer Science
+1415,Adele,80,83,95,1,1,Ben-Moshe,Industrial Engineering & Management
+1416,Ela,55,92,75,0,0,Cohen,Computer Science
+1417,Katia,90,96,85,1,1,Desta,Industrial Engineering & Management
+1418,Or,80,80,85,1,1,Deri,Computer Science
+1419,John,100,96,75,1,1,Atia,Economics
+1420,Avishay,100,96,75,1,1,Shalom,Industrial Engineering & Management
+1421,Dorit,55,60,75,1,0,Biton,Computer Science
+1422,Michael,90,81,75,0,1,Porat,Computer Science
+1423,Katia,100,93,65,1,0,Deri,Economics
+1424,Ram,55,60,75,1,0,Ben-Moshe,Computer Science
+1425,Talia,100,75,85,0,0,Avraham,Computer Science
+1426,Ori,80,88,65,0,0,Ben-Zvi,Economics
+1427,Adam,65,55,65,0,0,Nickolson,Computer Science
+1428,Idan,80,88,85,1,1,Biton,Economics
+1429,Nitzan,90,79,95,1,1,Itzhak,Industrial Engineering & Management
+1430,Michael,100,93,65,1,0,Bar,Economics
+1431,Katia,65,89,95,1,0,Atia,Economics
+1432,Ariel,75,85,65,1,0,Ben-Moshe,Industrial Engineering & Management
+1433,Sapir,80,95,75,1,1,Avraham,Industrial Engineering & Management
+1434,Danny,100,83,85,0,1,Shmuel,Industrial Engineering & Management
+1435,John,60,100,95,1,1,Porat,Industrial Engineering & Management
+1436,Chen,60,84,75,0,1,Desta,Economics
+1437,Ariel,100,75,85,0,0,Ben-Zvi,Computer Science
+1438,Nitzan,100,93,85,1,0,Bar,Economics
+1439,Dorit,100,96,85,1,1,Ben-Moshe,Computer Science
+1440,Orly,90,80,75,1,1,Avraham,Computer Science
+1441,Orly,100,65,95,0,0,Shmuel,Industrial Engineering & Management
+1442,Ori,90,79,65,1,0,Ben-Moshe,Computer Science
+1443,Natasha,80,90,75,0,1,Deri,Computer Science
+1444,Zohar,60,93,75,1,1,Deri,Computer Science
+1445,Ido,75,94,85,0,1,Desta,Industrial Engineering & Management
+1446,Ram,80,98,85,1,1,Oved,Industrial Engineering & Management
+1447,Or,75,86,85,0,1,Biton,Economics
+1448,Dorit,100,80,75,0,1,Avraham,Computer Science
+1449,Ohad,70,83,95,0,1,Desta,Economics
+1450,Avishay,75,86,75,0,1,Ben-Zvi,Economics
+1451,Eliran,90,95,75,1,1,Desta,Industrial Engineering & Management
+1452,Avraham,65,79,75,0,1,Ben-Moshe,Industrial Engineering & Management
+1453,Mor,55,60,75,0,0,Shmuel,Economics
+1454,Tair,55,55,85,1,0,Biton,Industrial Engineering & Management
+1455,Zohar,75,75,75,0,0,Maman,Computer Science
+1456,Chen,75,90,75,1,1,Porat,Computer Science
+1457,Eliran,55,60,85,0,0,Oved,Computer Science
+1458,Mor,75,86,65,0,0,Porat,Economics
+1459,Kevin,100,93,85,0,1,Avraham,Economics
+1460,Zohar,100,78,85,1,1,Haviv,Industrial Engineering & Management
+1461,Tair,90,95,85,0,1,Ben-Moshe,Economics
+1462,Kevin,55,60,95,0,0,Porat,Industrial Engineering & Management
+1463,Idan,75,80,95,0,1,Maman,Computer Science
+1464,Keli,100,78,95,1,1,Itzhak,Industrial Engineering & Management
+1465,Ela,60,84,65,1,0,Ben-Zvi,Economics
+1466,Kevin,100,85,95,1,1,Atia,Industrial Engineering & Management
+1467,Ido,100,94,85,1,1,Atia,Computer Science
+1468,Sapir,70,78,85,1,1,Atia,Computer Science
+1469,Keli,85,98,95,1,1,Haviv,Computer Science
+1470,Brian,100,93,95,0,1,Biton,Economics
+1471,Aviram,90,95,85,1,1,Shalom,Economics
+1472,Zohar,50,50,85,1,0,Porat,Computer Science
+1473,Mor,70,83,95,0,1,Porat,Economics
+1474,Sarah,100,95,95,1,1,Deri,Industrial Engineering & Management
+1475,Sarah,55,60,95,0,0,Nickolson,Computer Science
+1476,Michael,100,75,85,1,0,Shalom,Computer Science
+1477,John,100,83,85,0,1,Haviv,Industrial Engineering & Management
+1478,Idan,75,75,85,1,0,Avraham,Computer Science
+1479,Avraham,80,88,75,1,1,Deri,Economics
+1480,Avishay,100,75,85,0,0,Bar,Industrial Engineering & Management
+1481,Nati,100,75,85,0,0,Biton,Computer Science
+1482,Avishay,70,78,85,0,1,Nickolson,Economics
+1483,Nati,70,83,95,0,1,Porat,Economics
+1484,Ido,100,90,85,0,1,Maman,Economics
+1485,Tamar,80,80,95,0,1,Maman,Industrial Engineering & Management
+1486,Talia,55,60,75,1,0,Ben-Moshe,Industrial Engineering & Management
+1487,Linda,100,100,95,0,1,Itzhak,Economics
+1488,Zohar,70,78,95,1,1,Biton,Economics
+1489,Ram,100,93,85,0,1,Ben-Moshe,Computer Science
+1490,Or,80,88,85,0,1,Oved,Economics
+1491,Tamar,100,80,95,0,1,Biton,Economics
+1492,Kevin,70,93,85,0,1,Shalom,Industrial Engineering & Management
+1493,Kevin,100,98,95,0,1,Ben-Zvi,Industrial Engineering & Management
+1494,Chen,100,90,95,0,1,Cohen,Computer Science
+1495,Ela,100,100,85,0,1,Ben-Zvi,Computer Science
+1496,Avraham,100,93,85,1,1,Shmuel,Industrial Engineering & Management
+1497,Sapir,70,75,65,1,0,Biton,Industrial Engineering & Management
+1498,Avishay,65,80,75,1,1,Oved,Industrial Engineering & Management
+1499,Brian,90,80,75,1,1,Desta,Industrial Engineering & Management
+1500,Tamar,70,81,95,1,1,Biton,Economics
+1501,Or,70,81,85,0,1,Maman,Economics
+1502,Eliran,80,89,75,1,1,Deri,Computer Science
+1503,Ori,100,90,85,1,1,Avraham,Economics
+1504,Ohad,80,88,75,1,0,Itzhak,Economics
+1505,Nati,100,79,65,0,0,Deri,Industrial Engineering & Management
+1506,Katia,70,89,85,0,1,Ben-Moshe,Computer Science
+1507,Sarah,75,88,85,0,1,Bar,Industrial Engineering & Management
+1508,Nati,60,85,95,1,1,Oved,Computer Science
+1509,Nati,50,50,85,1,0,Cohen,Computer Science
+1510,Danny,90,75,95,0,0,Ben-Zvi,Computer Science
+1511,Tair,85,84,85,1,1,Shmuel,Industrial Engineering & Management
+1512,Brian,100,93,65,0,0,Porat,Economics
+1513,Esther,50,50,85,0,0,Ben-Zvi,Industrial Engineering & Management
+1514,Adele,95,98,85,1,0,Oved,Economics
+1515,Jerry,75,65,85,0,0,Ben-Moshe,Industrial Engineering & Management
+1516,Chen,80,65,75,0,0,Desta,Computer Science
+1517,Chen,70,81,75,0,1,Deri,Economics
+1518,Keli,85,79,95,1,1,Atia,Computer Science
+1519,Adam,95,80,95,1,1,Bar,Computer Science
+1520,Alex,70,81,95,1,1,Atia,Economics
+1521,Alex,95,78,75,0,1,Porat,Industrial Engineering & Management
+1522,Linda,90,80,95,0,1,Haviv,Computer Science
+1523,Avraham,90,55,95,1,0,Ben-Moshe,Industrial Engineering & Management
+1524,Danny,60,90,75,1,1,Cohen,Industrial Engineering & Management
+1525,Zohar,100,93,85,1,1,Ben-Moshe,Economics
+1526,Chen,60,75,65,1,0,Cohen,Computer Science
+1527,Zohar,55,60,75,0,0,Cohen,Industrial Engineering & Management
+1528,Ido,80,100,85,0,1,Bar,Computer Science
+1529,Nati,100,93,65,0,0,Porat,Economics
+1530,Keli,100,93,95,1,1,Maman,Industrial Engineering & Management
+1531,Eliran,80,96,75,0,1,Nickolson,Industrial Engineering & Management
+1532,Ori,80,88,95,0,1,Bar,Economics
+1533,Tamar,85,96,95,0,1,Ben-Zvi,Industrial Engineering & Management
+1534,Kevin,90,55,95,1,0,Avraham,Computer Science
+1535,Mor,80,92,85,1,1,Deri,Industrial Engineering & Management
+1536,Mor,70,81,95,0,1,Avraham,Economics
+1537,Alex,75,86,85,1,1,Deri,Economics
+1538,Ram,80,78,85,0,1,Itzhak,Economics
+1539,Sarah,90,93,75,1,1,Deri,Industrial Engineering & Management
+1540,Linda,90,95,95,0,1,Ben-Moshe,Economics
+1541,Orly,65,89,65,1,0,Porat,Economics
+1542,Kevin,100,88,95,0,1,Cohen,Computer Science
+1543,Esther,95,98,85,0,1,Ben-Zvi,Economics
+1544,Avishay,100,65,85,0,0,Shmuel,Industrial Engineering & Management
+1545,Katia,75,86,65,1,0,Atia,Economics
+1546,Zohar,100,78,85,1,1,Ben-Zvi,Industrial Engineering & Management
+1547,John,75,96,65,0,0,Bar,Computer Science
+1548,Avishay,100,100,85,1,1,Itzhak,Industrial Engineering & Management
+1549,Alex,100,75,95,1,0,Desta,Industrial Engineering & Management
+1550,Ohad,100,90,85,0,1,Nickolson,Computer Science
+1551,Chen,100,83,85,1,1,Atia,Economics
+1552,Sapir,90,79,85,1,1,Desta,Computer Science
+1553,Natasha,70,78,65,0,0,Oved,Computer Science
+1554,Ram,90,95,65,0,0,Shalom,Economics
+1555,Danny,85,89,85,0,1,Bar,Computer Science
+1556,Adele,100,93,95,0,1,Atia,Computer Science
+1557,Ori,90,96,75,0,1,Nickolson,Industrial Engineering & Management
+1558,Nitzan,100,88,95,0,1,Cohen,Industrial Engineering & Management
+1559,Ido,100,85,85,1,1,Maman,Industrial Engineering & Management
+1560,Tair,100,78,85,1,1,Shmuel,Industrial Engineering & Management
+1561,Jerry,70,92,85,1,1,Shmuel,Computer Science
+1562,Mor,100,78,85,0,1,Ben-Moshe,Computer Science
+1563,Billy,80,80,95,0,1,Deri,Economics
+1564,Sarah,90,95,65,0,0,Shalom,Economics
+1565,Keli,95,80,85,0,1,Cohen,Industrial Engineering & Management
+1566,Nati,70,81,95,0,1,Deri,Economics
+1567,Zohar,80,89,85,1,1,Porat,Industrial Engineering & Management
+1568,Avraham,70,81,95,1,1,Shmuel,Economics
+1569,Natasha,90,95,65,1,0,Porat,Economics
+1570,Adele,100,95,85,1,1,Ben-Zvi,Industrial Engineering & Management
+1571,Aviram,100,100,85,0,1,Bar,Economics
+1572,Zohar,55,60,85,0,0,Itzhak,Economics
+1573,Idan,65,89,95,1,1,Ben-Zvi,Computer Science
+1574,Brian,70,78,65,0,0,Shmuel,Industrial Engineering & Management
+1575,Keli,90,95,85,1,1,Shalom,Economics
+1576,Ido,100,80,95,1,1,Biton,Computer Science
+1577,Esther,80,85,85,1,1,Ben-Moshe,Economics
+1578,Adam,70,90,75,1,1,Desta,Computer Science
+1579,Adele,75,86,75,0,1,Biton,Economics
+1580,Orly,90,95,85,1,1,Shalom,Economics
+1581,Ori,80,79,65,1,0,Cohen,Industrial Engineering & Management
+1582,Alex,90,94,95,0,1,Desta,Computer Science
+1583,Alex,55,60,75,1,0,Haviv,Economics
+1584,Ori,100,93,65,1,0,Ben-Zvi,Economics
+1585,Adam,80,90,85,1,1,Maman,Computer Science
+1586,Brian,100,94,85,0,1,Cohen,Computer Science
+1587,Or,80,90,85,0,1,Ben-Zvi,Computer Science
+1588,Eliran,85,94,95,1,1,Biton,Industrial Engineering & Management
+1589,Zohar,100,95,75,1,1,Atia,Industrial Engineering & Management
+1590,Mor,90,79,65,1,0,Ben-Moshe,Industrial Engineering & Management
+1591,Natasha,95,95,75,1,1,Avraham,Economics
+1592,Chen,100,83,85,1,1,Shmuel,Economics
+1593,Adam,65,100,85,0,1,Shmuel,Computer Science
+1594,Dorit,55,60,85,1,0,Biton,Computer Science
+1595,Dorit,85,81,75,1,1,Maman,Computer Science
+1596,Sarah,55,93,75,1,0,Maman,Industrial Engineering & Management
+1597,Brian,90,78,95,1,1,Atia,Industrial Engineering & Management
+1598,Or,55,78,75,1,0,Biton,Economics
+1599,Talia,100,98,95,1,1,Deri,Industrial Engineering & Management
+1600,Adele,100,100,95,1,1,Desta,Economics
+1601,Aviram,75,89,85,0,1,Cohen,Industrial Engineering & Management
+1602,Danny,50,50,85,1,0,Atia,Economics
+1603,Dorit,75,94,85,0,1,Avraham,Industrial Engineering & Management
+1604,Sarah,100,80,65,1,0,Shmuel,Economics
+1605,Zohar,75,86,85,1,1,Avraham,Economics
+1606,Avraham,100,83,85,1,1,Maman,Computer Science
+1607,Chen,100,81,75,1,1,Cohen,Economics
+1608,Or,90,95,95,0,1,Maman,Economics
+1609,Aviram,55,79,85,1,0,Shmuel,Industrial Engineering & Management
+1610,Alex,70,90,75,0,1,Deri,Computer Science
+1611,Natasha,75,86,85,0,1,Atia,Economics
+1612,Talia,90,80,85,0,1,Deri,Industrial Engineering & Management
+1613,Dorit,75,79,95,1,1,Shalom,Industrial Engineering & Management
+1614,Ela,60,84,85,0,1,Deri,Economics
+1615,Adam,75,80,85,1,1,Ben-Zvi,Computer Science
+1616,Dorit,85,83,65,0,0,Ben-Moshe,Computer Science
+1617,Adam,100,90,75,0,1,Desta,Industrial Engineering & Management
+1618,Aviram,100,96,85,1,1,Bar,Computer Science
+1619,Chen,100,55,85,0,0,Biton,Computer Science
+1620,Ohad,60,84,85,1,1,Atia,Economics
+1621,Billy,90,92,95,1,1,Cohen,Industrial Engineering & Management
+1622,Keli,100,80,95,0,1,Haviv,Economics
+1623,Avraham,100,90,75,1,1,Oved,Industrial Engineering & Management
+1624,Nitzan,85,79,95,0,1,Nickolson,Industrial Engineering & Management
+1625,Or,70,81,75,1,1,Atia,Economics
+1626,Danny,100,81,85,0,1,Itzhak,Computer Science
+1627,Mor,70,81,75,1,1,Haviv,Economics
+1628,Sapir,100,81,75,1,1,Deri,Economics
+1629,Ariel,90,95,75,0,1,Nickolson,Economics
+1630,Keli,100,100,75,0,1,Shmuel,Economics
+1631,Adele,75,89,65,1,0,Haviv,Industrial Engineering & Management
+1632,Katia,100,80,75,1,1,Ben-Zvi,Industrial Engineering & Management
+1633,Sapir,90,90,95,1,1,Ben-Zvi,Industrial Engineering & Management
+1634,Michael,80,78,85,0,1,Desta,Economics
+1635,John,100,78,85,1,1,Ben-Moshe,Industrial Engineering & Management
+1636,Chen,70,98,85,1,1,Haviv,Industrial Engineering & Management
+1637,Adele,60,80,85,1,1,Bar,Industrial Engineering & Management
+1638,Nati,80,92,85,0,1,Atia,Economics
+1639,Or,85,83,85,0,1,Desta,Computer Science
+1640,Esther,100,98,95,1,1,Oved,Computer Science
+1641,Sapir,90,95,85,1,1,Atia,Economics
+1642,Zohar,60,84,95,0,1,Bar,Economics
+1643,Alex,100,95,85,1,1,Biton,Computer Science
+1644,Robin,80,93,85,0,1,Shalom,Computer Science
+1645,Ohad,100,100,75,0,1,Porat,Computer Science
+1646,Chen,100,95,85,0,1,Cohen,Industrial Engineering & Management
+1647,Sapir,100,80,65,1,0,Avraham,Computer Science
+1648,Nati,100,65,95,0,0,Desta,Industrial Engineering & Management
+1649,Katia,70,85,65,0,0,Atia,Industrial Engineering & Management
+1650,Ori,90,78,95,0,1,Deri,Computer Science
+1651,Adele,90,95,95,0,1,Deri,Economics
+1652,Eliran,90,93,75,0,1,Shalom,Industrial Engineering & Management
+1653,Mor,100,55,65,1,0,Shmuel,Computer Science
+1654,Esther,100,83,95,0,1,Cohen,Industrial Engineering & Management
+1655,Ohad,90,81,95,0,1,Cohen,Computer Science
+1656,Chen,95,78,85,0,1,Nickolson,Computer Science
+1657,Esther,100,92,75,1,1,Oved,Economics
+1658,Jerry,75,93,85,1,1,Cohen,Industrial Engineering & Management
+1659,Nitzan,55,93,85,0,0,Bar,Industrial Engineering & Management
+1660,Ori,55,83,85,1,0,Avraham,Industrial Engineering & Management
+1661,Kevin,100,80,75,0,1,Oved,Computer Science
+1662,Zohar,100,85,65,0,0,Haviv,Computer Science
+1663,Billy,100,93,85,1,1,Itzhak,Economics
+1664,Eliran,80,96,95,1,1,Ben-Zvi,Industrial Engineering & Management
+1665,Ram,80,89,75,0,1,Maman,Computer Science
+1666,Ela,90,93,85,1,1,Maman,Industrial Engineering & Management
+1667,Avraham,60,98,65,0,0,Nickolson,Computer Science
+1668,Adele,75,86,75,1,1,Oved,Economics
+1669,Tamar,100,88,75,0,1,Biton,Computer Science
+1670,Ariel,65,93,95,0,1,Haviv,Industrial Engineering & Management
+1671,Chen,100,90,75,0,1,Maman,Economics
+1672,Katia,80,84,75,0,1,Avraham,Industrial Engineering & Management
+1673,Sapir,100,81,85,1,1,Biton,Economics
+1674,Brian,95,80,95,1,1,Desta,Industrial Engineering & Management
+1675,Eliran,60,84,85,0,1,Avraham,Economics
+1676,Natasha,85,95,65,1,0,Atia,Computer Science
+1677,Orly,65,65,85,1,0,Ben-Moshe,Industrial Engineering & Management
+1678,Sapir,100,92,85,0,1,Atia,Economics
+1679,Kevin,100,93,95,0,0,Shalom,Economics
+1680,Billy,80,88,85,0,0,Shmuel,Economics
+1681,Natasha,90,98,75,1,1,Bar,Economics
+1682,Zohar,100,88,85,1,1,Avraham,Industrial Engineering & Management
+1683,Ela,75,100,75,1,1,Nickolson,Industrial Engineering & Management
+1684,Avishay,80,78,95,1,1,Porat,Industrial Engineering & Management
+1685,Ohad,80,81,85,0,1,Itzhak,Computer Science
+1686,Jerry,100,98,85,0,1,Porat,Computer Science
+1687,Idan,80,89,85,0,1,Haviv,Industrial Engineering & Management
+1688,Chen,75,80,75,1,1,Nickolson,Computer Science
+1689,Billy,100,80,85,1,0,Ben-Zvi,Industrial Engineering & Management
+1690,Natasha,100,88,95,0,1,Biton,Computer Science
+1691,Linda,100,83,85,1,1,Shmuel,Industrial Engineering & Management
+1692,Dorit,55,78,85,0,0,Itzhak,Economics
+1693,Tamar,80,88,65,1,0,Haviv,Economics
+1694,Robin,70,75,85,0,0,Nickolson,Computer Science
+1695,Or,100,92,95,0,1,Shmuel,Economics
+1696,Esther,100,95,75,1,1,Shmuel,Computer Science
+1697,John,100,79,95,0,1,Avraham,Computer Science
+1698,Aviram,100,93,95,1,1,Biton,Economics
+1699,Ram,70,85,75,1,1,Itzhak,Computer Science
+1700,Esther,100,92,85,0,1,Maman,Economics
+1701,Ori,90,98,85,1,1,Maman,Economics
+1702,Natasha,100,90,75,1,1,Atia,Industrial Engineering & Management
+1703,Kevin,80,78,85,0,1,Nickolson,Industrial Engineering & Management
+1704,Kevin,65,100,85,1,1,Cohen,Computer Science
+1705,Linda,70,81,75,1,1,Nickolson,Economics
+1706,Ohad,100,100,65,0,0,Ben-Moshe,Economics
+1707,Idan,100,98,85,0,1,Maman,Industrial Engineering & Management
+1708,Or,100,96,85,0,1,Bar,Industrial Engineering & Management
+1709,Brian,90,90,65,1,0,Deri,Computer Science
+1710,Kevin,100,85,85,1,1,Nickolson,Computer Science
+1711,Chen,100,100,95,1,0,Ben-Moshe,Industrial Engineering & Management
+1712,Adam,90,98,65,0,0,Biton,Economics
+1713,Avraham,100,78,75,1,1,Cohen,Computer Science
+1714,Danny,100,93,85,1,0,Ben-Zvi,Economics
+1715,Aviram,100,80,85,1,1,Desta,Computer Science
+1716,Esther,80,75,75,0,0,Ben-Moshe,Industrial Engineering & Management
+1717,Robin,80,88,95,0,1,Itzhak,Economics
+1718,John,65,100,95,1,1,Avraham,Industrial Engineering & Management
+1719,Avraham,50,50,85,1,0,Itzhak,Computer Science
+1720,Sapir,90,80,75,1,1,Itzhak,Industrial Engineering & Management
+1721,Adele,100,99,65,0,0,Oved,Economics
+1722,Sarah,70,79,85,1,1,Deri,Computer Science
+1723,Michael,100,92,85,0,0,Haviv,Industrial Engineering & Management
+1724,Billy,50,50,95,0,0,Maman,Computer Science
+1725,Zohar,55,55,65,0,0,Biton,Computer Science
+1726,Mor,100,97,95,0,1,Bar,Economics
+1727,Avraham,95,100,85,1,1,Avraham,Computer Science
+1728,Jerry,100,98,75,1,1,Ben-Moshe,Computer Science
+1729,Sarah,90,92,95,1,1,Biton,Computer Science
+1730,Billy,100,85,85,0,1,Ben-Zvi,Computer Science
+1731,Tair,90,80,95,1,1,Ben-Zvi,Computer Science
+1732,Kevin,90,98,75,1,1,Ben-Zvi,Economics
+1733,Ohad,80,80,95,0,1,Oved,Computer Science
+1734,Robin,100,100,85,1,1,Ben-Zvi,Economics
+1735,Keli,100,90,95,1,1,Porat,Industrial Engineering & Management
+1736,Idan,70,81,75,0,1,Oved,Economics
+1737,Dorit,100,89,85,0,0,Itzhak,Computer Science
+1738,Ohad,100,94,95,0,0,Oved,Computer Science
+1739,Tair,60,95,85,0,1,Biton,Computer Science
+1740,Kevin,100,100,65,1,0,Bar,Industrial Engineering & Management
+1741,Katia,80,88,85,0,1,Nickolson,Economics
+1742,Ori,65,89,85,1,1,Nickolson,Economics
+1743,Linda,100,100,95,1,1,Avraham,Economics
+1744,Alex,100,100,95,1,1,Avraham,Economics
+1745,Tair,90,98,75,0,0,Maman,Economics
+1746,Nati,50,50,95,1,0,Atia,Economics
+1747,Kevin,80,100,85,0,1,Haviv,Computer Science
+1748,Ori,100,100,85,1,1,Cohen,Economics
+1749,Robin,60,80,85,1,1,Bar,Industrial Engineering & Management
+1750,Sapir,65,96,65,1,0,Oved,Industrial Engineering & Management
+1751,Eliran,100,100,85,0,1,Oved,Economics
+1752,Tamar,55,85,85,1,0,Shmuel,Computer Science
+1753,Brian,100,96,85,0,1,Maman,Computer Science
+1754,Talia,85,80,75,0,1,Deri,Industrial Engineering & Management
+1755,Avishay,90,98,85,0,1,Shmuel,Economics
+1756,Natasha,100,96,85,1,1,Cohen,Industrial Engineering & Management
+1757,Natasha,65,80,85,1,1,Itzhak,Computer Science
+1758,Idan,80,85,75,1,1,Ben-Zvi,Computer Science
+1759,Idan,90,98,85,1,1,Itzhak,Economics
+1760,Avishay,100,100,95,1,1,Ben-Moshe,Economics
+1761,Talia,95,78,65,0,0,Porat,Industrial Engineering & Management
+1762,Jerry,75,78,65,0,0,Biton,Economics
+1763,Aviram,100,83,85,0,1,Avraham,Computer Science
+1764,Adam,100,100,85,1,1,Ben-Zvi,Economics
+1765,Brian,80,84,65,0,0,Haviv,Computer Science
+1766,Robin,55,93,75,1,0,Avraham,Industrial Engineering & Management
+1767,Dorit,95,95,75,0,1,Oved,Economics
+1768,Avraham,100,97,85,1,1,Ben-Moshe,Industrial Engineering & Management
+1769,Ido,90,94,75,1,1,Bar,Computer Science
+1770,Avraham,100,98,85,0,1,Oved,Computer Science
+1771,Esther,80,90,85,1,1,Nickolson,Computer Science
+1772,Adam,50,50,75,0,0,Oved,Economics
+1773,Eliran,70,92,85,0,1,Ben-Moshe,Computer Science
+1774,Tamar,95,93,85,0,1,Shmuel,Computer Science
